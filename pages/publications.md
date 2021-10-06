@@ -38,7 +38,9 @@ header:
 
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197). 
 
-## Comunicaciones a congresos
+## Seminarios y congresos
+    
+- Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). “Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona” en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
 
 ## Capítulos de libro
 
