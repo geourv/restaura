@@ -1,5 +1,5 @@
 ---
-permalink           : "/getting-started/"
+permalink: "/contact/"
 
 layout: page-fullwidth
 title: "Información de contacto"
