@@ -11,7 +11,7 @@ meta_teaser: "El SIOSE es una base de datos de ocupación del suelo diseñada co
 
 
 header:
-    image_fullwidth: header_roadmap_3.jpg
+    image_fullwidth: green-chameleon-s9CC2SKySJM-unsplash.jpg
     background-color: "#262930"
     caption: Alguna imagen relevante.
 ---
