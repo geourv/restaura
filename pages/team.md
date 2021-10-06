@@ -10,7 +10,7 @@ teaser: "En el proyecto RESTAURA participan geógrafos, arquitectos... La profes
 meta_teaser: ""
 
 header:
-    image_fullwidth: /headers/orihuela_bajo_segura.jpg
+    image_fullwidth: header_unsplash_5.jpg
     caption: Alguna imagen relevante.
 ---
 
