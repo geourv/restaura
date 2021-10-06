@@ -8,7 +8,7 @@ subheadline: "Contactar"
 teaser: ""
 
 header:
-    image_fullwidth: /headers/ua.jpg
+    image_fullwidth: header_unsplash_5.jpg
     caption: Entrada a la Facultad de Turismo y Geografía en el campus de Vila-seca
 ---
 
