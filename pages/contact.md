@@ -9,7 +9,7 @@ teaser: ""
 
 header:
     image_fullwidth: /headers/ua.jpg
-    caption: La Universidad de Alicante vista desde el Aulario II
+    caption: Entrada a la Facultad de Turismo y Geografía en el campus de Vila-seca
 ---
 
 
