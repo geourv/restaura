@@ -3,15 +3,15 @@
   side: left
 
 - title: Antecedentes
-  url: "/getting-started/"
+  url: "/background/"
   side: left
 
 - title: Proyecto
-  url: "/getting-started/"
+  url: "/project/"
   side: left
   
 - title: Equipo
-  url: "/getting-started/"
+  url: "/team/"
   side: left
 
 - title: "Contacto"
