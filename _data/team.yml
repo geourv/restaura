@@ -1,0 +1,45 @@
+
+- name: Mª Yolanda
+  lastname: Pérez-Albert
+  position: Investigadora Principal
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - sig
+    - ordenación del territorio
+    - geografía
+  email: 
+    - title: E-mail
+      url: alfredo.ramon@ua.es
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Yolanda-Perez-3
+      class: icon-home
+
+- name: Benito
+  lastname: Zaragozí
+  position: Profesor Lector
+  organization: Universitat Rovira i Virgili
+  department: Departamento de Geografía
+  pic: user_placeholder.jpeg
+  keywords:
+    - gis
+    - geodatabases
+    - data mining
+    - giscience
+  email: 
+    - title: E-mail
+      url: benito.zaragozi@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://benito-zaragozi.com
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
+      class: icon-linkedin
+    - title: github
+      url: https://github.com/benizar
+      class: icon-github
