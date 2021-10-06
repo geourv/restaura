@@ -37,7 +37,7 @@ header:
 
 <!-- click on image will navigate to the personal website -->
 <a class="th" href="{{ member.social.first.url }}">
-<img src="{{ member.pic  | prepend: "/images/team/" | prepend: base_path }}" alt="{{ member.name }}" style="padding:10px">
+<img src="{{ member.pic  | prepend: "/images/team/" | prepend: baseurl  }}" alt="{{ member.name }}" style="padding:10px">
 </a>
 
 <!-- social media icons -->
