@@ -43,7 +43,7 @@ header:
 <!-- social media icons -->
 <ul class="inline-list">
 	{% for email in member.email %}
-              <li><a href="mailto:{{ email.url }}?subject=Proyecto SIOSE-INNOVA" class="{{ email.class }}" title="{{ email.title }}"></a></li>
+              <li><a href="mailto:{{ email.url }}?subject=Proyecto RESTAURA" class="{{ email.class }}" title="{{ email.title }}"></a></li>
 	{% endfor %}
 
 
