@@ -11,7 +11,7 @@ meta_teaser: ""
 
 
 header:
-    image_fullwidth: /headers/orihuela_bajo_segura (3).jpg
+    image_fullwidth: header_homepage_13.jpg
     caption: Alguna imagen relevante.
 ---
 
