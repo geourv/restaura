@@ -25,7 +25,7 @@ header:
 
 <h4>Dirección postal:</h4>
 <a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>
-<a href="http://www.urv.cat/">Universitat Rovira i Virgili</a><br>
+<a href="https://www.urv.cat/">Universitat Rovira i Virgili</a><br>
 C/ Joanot Martorell, 15 <br>
 43480 - Vila-seca (Tarragona) <br>
 España
