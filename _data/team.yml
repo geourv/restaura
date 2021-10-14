@@ -11,7 +11,7 @@
     - geografía
   email: 
     - title: E-mail
-      url: alfredo.ramon@ua.es
+      url: myolanda.perez@urv.cat
       class: icon-mail
   social:
     - title: home
@@ -22,7 +22,7 @@
   lastname: Zaragozí
   position: Profesor Lector
   organization: Universitat Rovira i Virgili
-  department: Departamento de Geografía
+  department: Dpto. de Geografía
   pic: user_placeholder.png
   keywords:
     - gis
@@ -48,7 +48,7 @@
   lastname: Avila
   position: Investigador predoctoral
   organization: Universitat Rovira i Virgili
-  department: Departamento de Geografía
+  department: Dpto. de Geografía
   pic: foto_aitor.jpg
   keywords:
     - gis
@@ -66,7 +66,7 @@
   lastname: Alberich
   position: Profesor agregado
   organization: Universitat Rovira i Virgili
-  department: Departamento de Geografía
+  department: Dpto. de Geografía
   pic: joan_alberich.jpg
   keywords:
     - gis
