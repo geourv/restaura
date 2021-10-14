@@ -13,15 +13,15 @@
 - title: Equipo
   url: "/team/"
   side: left
+  
+- title: "Publicaciones"
+  url: "/publications/"
+  side: left
+  
+- title: "Tesis"
+  url: "/thesis/"
+  side: left
 
 - title: "Contacto"
   url: "/contact/"
   side: left
-  
-- title: "Publicaciones"
-  url: "/publications/"
-  side: right
-  
-- title: "Tesis"
-  url: "/thesis/"
-  side: right
