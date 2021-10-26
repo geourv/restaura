@@ -49,6 +49,7 @@ España
 
 
 	L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
+	attribution: 'Google Maps &mdash; Leaflet',
         maxZoom: 18,
         minZoom: 2,
         subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
