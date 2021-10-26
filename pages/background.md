@@ -1,13 +1,13 @@
 ---
 permalink: "/background/"
 layout: page-fullwidth
-title: "Hacia una nueva generación de bases de datos de ocupación del suelo"
+title: "Proyecto RESTAURA"
 meta_title: "Antecedentes"
 subheadline: "Antecedentes"
 
-teaser: "Las bases de datos de ocupación del suelo son un producto de información básico para el conocimiento de este medio en el que vivimos. La Base de Datos SIOSE proporciona información básica y relevante para el análisis espacial y territorial de la situación actual española, información que resulta imprescindible para analizar el tipo de uso que se le ha venido  dando  al  suelo  en  España  y  para  planificar  de  forma  sostenible  el  desarrollo económico y social del hombre. "
+teaser: "Hoy en día, las ciudades ocupan aproximadamente el 2% de la superficie de la Tierra, pero en ellas vive más de la mitad de la población mundial. Entre los aspectos positivos de las aglomeraciones urbanas cabe  destacar  el  hecho  de  que  ofrecen  mayores  oportunidades  de  trabajo  y  mayor  accesibilidad  a  servicios y equipamientos. A estos aspectos positivos es necesario añadir otros de carácter negativo, entre los que destacan la contaminación atmosférica, acústica o un estilo de vida caracterizado por el sedentarismo  y  la  inactividad  física..."
 
-meta_teaser: "El SIOSE es una base de datos de ocupación del suelo diseñada con una metodología de orientación a objetos."
+meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
 
 
 header:
