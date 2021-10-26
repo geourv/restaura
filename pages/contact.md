@@ -32,7 +32,7 @@ España
 <div class="small-12 large-8 columns">
 
 <br>
-<iframe width="100%" height="600px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="./assets/map/index.html"></iframe>
+<iframe width="100%" height="600px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="/assets/map/index.html"></iframe>
 
 </div>
 
