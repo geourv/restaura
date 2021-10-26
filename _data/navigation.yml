@@ -5,10 +5,6 @@
 - title: Antecedentes
   url: "/background/"
   side: left
-
-- title: Proyecto
-  url: "/project/"
-  side: left
   
 - title: Equipo
   url: "/team/"
