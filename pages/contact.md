@@ -8,8 +8,8 @@ subheadline: "Contactar"
 teaser: ""
 
 header:
-    image_fullwidth: header_unsplash_5.jpg
-    caption: Entrada a la Facultad de Turismo y Geografía en el campus de Vila-seca
+    image_fullwidth: park-lake.jpg
+    caption: Algun comentario relevante.
 ---
 
 
@@ -19,9 +19,6 @@ header:
 
 <h4>E-mail:</h4>
 <a href="mailto: restaura@urv.cat?subject=RESTAURA" title="restaura@urv.cat">restaura@urv.cat</a>
-
-<h4>Teléfono:</h4>
-+34 96 590 3945
 
 <h4>Dirección postal:</h4>
 <a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>

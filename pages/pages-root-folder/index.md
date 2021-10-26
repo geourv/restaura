@@ -1,46 +1,70 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
+permalink: "/index.html"
+layout: page-fullwidth
+title: "Proyecto RESTAURA"
+meta_title: "El proyecto RESTAURA surge..."
+subheadline: "Información"
+
+teaser: "El Proyecto RESTAURA es un proyecto de investigación financiado por el Programa Estatal de Investigación, Desarrollo e Innovación Orientada a los Retos de la Sociedad, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2021-2024."
+
+meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
+
+
 header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Primer tema a destacar"
-  url: 'https://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Segundo tema a destacar"
-  url: 'https://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Recursos"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
+    image_fullwidth: header-portada.jpg
+    caption: Algún comentario relevante.
 ---
+
+<!--more-->
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Índice**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+
+## Detalles del proyecto
+
+- **Referencia:** 
+- **Investigadora principal:** Mª Yolanda Pérez-Albert
+- **Entidad solicitante:** Universitat Rovira i Virgili
+- **Centro:** Departamento de Gografía
+- **Título:** Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos.
+- **Duración:** 3 años (2021-2024)
+- **Costes directos:** XX.000 €
+- **Palabras clave:** `usos y coberturas del suelo`, `corine land cover`, `inspire`, `estándares`, `siose`, `modelización orientada a objetos`, `geodatabases`, `nosql`, `medio ambiente`, `sostenibilidad`
+
+
+## Objetivos
+
+Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de diseñar propuestas de intervención espacial y de salud que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este  análisis  incorporará  métodos  de  estudios  tradicionales  junto  con  nuevas  fuentes  de  información (IGC, CC) que permitirán considerar los SEC en sus vertientes social y ambiental.
+
+## Objetivos específicos
+
+1. Valorar los diferentes tipos de SEC en función de los beneficios potenciales para la población. 
+2. Identificar la tipología o tipologías de SEC que mejor se adapten a las características y necesidades de  los  diferentes  segmentos  de  población  de  manera  que  la  provisión  de  activos  de  salud  sea  óptima para los distintos colectivos de personas.
+8 de 20
+3. Cartografiar  las  diferentes  dimensiones  de  los  SEC  atendiendo  a:  1)  idoneidad  de  los  SEC  para  proporcionar activos de salud a la población, 2) demanda de SEC en relación a la diversidad de la población y 3) interacción petroquímica y SEC.
+4. Determinar espacial y temporalmente el aprovechamiento real de los SEC teniendo en cuenta los diferentes grupos poblacionales y sus características (edad, género, niveles de educación, etc.).
+5. Revelar las injusticias espaciales en relación al acceso a los SEC e identificar el factor o factores que las producen de forma que sirvan como base a la planificación urbana y territorial con la intención de reducir dichas desigualdades.
+6. Establecer el grado de integración de los SEC en los sistemas de asistencia social y de salud y, en su caso, proponer mejoras teniendo en cuenta los diferentes segmentos de población prestando especial atención a las mujeres, las personas mayores y los más vulnerables.
+7. Estimar la prevalencia de las enfermedades en la población, según la edad, el género y el lugar de residencia y la accesibilidad a los SEC.
+8. Realizar  propuestas  de  actividad  física  al  aire  libre  adaptadas  a  los  diferentes  segmentos  de  población  prestando  especial  atención  a  aquellos  más  vulnerables  y  teniendo  en  cuenta  el  beneficio obtenido por el contacto y uso de los SEC.
+9. Diseñar propuestas de intervención innovadoras en una selección de lugares en entornos urbanos y periurbanos que tengan en cuenta el espacio, su comunicación y percepción, con el objetivo de mejorar  su  accesibilidad  y  facilitar  su  uso  de  modo  que  aumenten  los  activos  de  salud  de  la  población.
+10. Diseñar, aplicar y/o explotar métodos y fuentes de la CC que permitan analizar la percepción de los valores sociales de la población respecto a los SEC teniendo en cuenta los diferentes segmentos y diversidad social de la población.
+
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+
 

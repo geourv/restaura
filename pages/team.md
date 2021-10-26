@@ -10,8 +10,8 @@ teaser: "En el proyecto RESTAURA participan geógrafos, arquitectos... La profes
 meta_teaser: ""
 
 header:
-    image_fullwidth: header_unsplash_5.jpg
-    caption: Alguna imagen relevante.
+    image_fullwidth: park-people.jpg
+    caption: Algún comentario relevante.
 ---
 
 

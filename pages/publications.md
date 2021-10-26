@@ -5,15 +5,15 @@ title: "Publicaciones derivadas del proyecto"
 meta_title: "Publicaciones"
 subheadline: "Publicaciones"
 
-teaser: "Las bases de datos de ocupación del suelo son un producto de información básico para el conocimiento de este medio en el que vivimos. La Base de Datos SIOSE proporciona información básica y relevante para el análisis espacial y territorial de la situación actual española, información que resulta imprescindible para analizar el tipo de uso que se le ha venido  dando  al  suelo  en  España  y  para  planificar  de  forma  sostenible  el  desarrollo económico y social del hombre. "
+teaser: "Los SEC de espacios periurbanos y urbanos, en buena medida degradados por la presencia de clúster petroquímicos, proveen a la población de importantes activos de salud, expresados a través  de  su  capacidad  para  sostener  funciones  de  actividad  física,  de  ocio  y  recreación,  de  apreciación del paisaje y de identidad territorial."
 
-meta_teaser: "El SIOSE es una base de datos de ocupación del suelo diseñada con una metodología de orientación a objetos."
+meta_teaser: "RESTAURA ofrece información..."
 
 
 header:
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    image_fullwidth: header-quimica-1.jpg
     background-color: "#262930"
-    caption: Alguna imagen relevante.
+    caption: Algún comentario relevante.
 ---
 
 <!--more-->

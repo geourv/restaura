@@ -5,13 +5,13 @@ title: "Tesis doctorales y trabajos acdémicos derivados del proyecto"
 meta_title: "Tesis"
 subheadline: "Tesis"
 
-teaser: "Las bases de datos de ocupación del suelo son un producto de información básico para el conocimiento de este medio en el que vivimos. La Base de Datos SIOSE proporciona información básica y relevante para el análisis espacial y territorial de la situación actual española, información que resulta imprescindible para analizar el tipo de uso que se le ha venido  dando  al  suelo  en  España  y  para  planificar  de  forma  sostenible  el  desarrollo económico y social del hombre. "
+teaser: "El uso de los SEC por parte de la población, se ve afectado por diferentes condicionantes como la accesibilidad, la condición física, el grado de salud, el sexo o la edad, entre otros, de modo que su mejor conocimiento y adecuación se traducen en un mayor y mejor uso de los mismos.  "
 
-meta_teaser: "El SIOSE es una base de datos de ocupación del suelo diseñada con una metodología de orientación a objetos."
+meta_teaser: "RESTAURA ha servido como marco para el desarrollo de distintos trabajos..."
 
 
 header:
-    image_fullwidth: green-chameleon-s9CC2SKySJM-unsplash.jpg
+    image_fullwidth: pasarela-vila-seca.jpg
     background-color: "#262930"
     caption: Alguna imagen relevante.
 ---
