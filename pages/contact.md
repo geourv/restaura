@@ -20,15 +20,20 @@ header:
 <h4>E-mail:</h4>
 <a href="mailto: restaura@urv.cat?subject=RESTAURA" title="restaura@urv.cat">restaura@urv.cat</a>
 
-</div>
-
-<div class="small-12 large-4 columns">
 <h4>Dirección postal:</h4>
 <a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>
 <a href="https://www.urv.cat/">Universitat Rovira i Virgili</a><br>
 C/ Joanot Martorell, 15 <br>
 43480 - Vila-seca (Tarragona) <br>
 España
+
+</div>
+
+<div class="small-12 large-8 columns">
+
+<br>
+<iframe width="100%" height="600px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.instamaps.cat/visor.html?businessid=3266848c019d7fb071dbcc9bc28a568e&3D=false&embed=1" >
+		</iframe>
 
 </div>
 
