@@ -44,9 +44,9 @@ header:
 - **Palabras clave:** `usos y coberturas del suelo`, `corine land cover`, `inspire`, `estándares`, `siose`, `modelización orientada a objetos`, `geodatabases`, `nosql`, `medio ambiente`, `sostenibilidad`
 
 
-## Objetivos
+## Objetivo principal
 
-Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de diseñar propuestas de intervención espacial y de salud que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este  análisis  incorporará  métodos  de  estudios  tradicionales  junto  con  nuevas  fuentes  de  información (IGC, CC) que permitirán considerar los SEC en sus vertientes social y ambiental.
+Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de diseñar propuestas de intervención espacial y de salud que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
 
 ## Objetivos específicos
 
