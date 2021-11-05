@@ -52,13 +52,14 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 
 ## Objetivo principal
 
-__Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
+__Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  
+    
+Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
 
 ## Objetivos específicos
 
 1. Valorar los diferentes tipos de SEC en función de los beneficios potenciales para la población. 
 2. Identificar la tipología o tipologías de SEC que mejor se adapten a las características y necesidades de  los  diferentes  segmentos  de  población  de  manera  que  la  provisión  de  activos  de  salud  sea  óptima para los distintos colectivos de personas.
-8 de 20
 3. Cartografiar  las  diferentes  dimensiones  de  los  SEC  atendiendo  a:  1)  idoneidad  de  los  SEC  para  proporcionar activos de salud a la población, 2) demanda de SEC en relación a la diversidad de la población y 3) interacción petroquímica y SEC.
 4. Determinar espacial y temporalmente el aprovechamiento real de los SEC teniendo en cuenta los diferentes grupos poblacionales y sus características (edad, género, niveles de educación, etc.).
 5. Revelar las injusticias espaciales en relación al acceso a los SEC e identificar el factor o factores que las producen de forma que sirvan como base a la planificación urbana y territorial con la intención de reducir dichas desigualdades.
