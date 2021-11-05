@@ -60,15 +60,24 @@ Este análisis incorpora un __enfoque multidisciplinar__ junto a __nuevas fuente
 
 ## Objetivos específicos
 
-1. Valorar los diferentes tipos de SEC en función de los beneficios potenciales para la población. 
+1. Valorar los diferentes tipos de SEC en función de los beneficios potenciales para la población.
+    
 2. Identificar la tipología o tipologías de SEC que mejor se adapten a las características y necesidades de  los  diferentes  segmentos  de  población  de  manera  que  la  provisión  de  activos  de  salud  sea  óptima para los distintos colectivos de personas.
+    
 3. Cartografiar  las  diferentes  dimensiones  de  los  SEC  atendiendo  a:  1)  idoneidad  de  los  SEC  para  proporcionar activos de salud a la población, 2) demanda de SEC en relación a la diversidad de la población y 3) interacción petroquímica y SEC.
+    
 4. Determinar espacial y temporalmente el aprovechamiento real de los SEC teniendo en cuenta los diferentes grupos poblacionales y sus características (edad, género, niveles de educación, etc.).
+    
 5. Revelar las injusticias espaciales en relación al acceso a los SEC e identificar el factor o factores que las producen de forma que sirvan como base a la planificación urbana y territorial con la intención de reducir dichas desigualdades.
+    
 6. Establecer el grado de integración de los SEC en los sistemas de asistencia social y de salud y, en su caso, proponer mejoras teniendo en cuenta los diferentes segmentos de población prestando especial atención a las mujeres, las personas mayores y los más vulnerables.
+    
 7. Estimar la prevalencia de las enfermedades en la población, según la edad, el género y el lugar de residencia y la accesibilidad a los SEC.
+    
 8. Realizar  propuestas  de  actividad  física  al  aire  libre  adaptadas  a  los  diferentes  segmentos  de  población  prestando  especial  atención  a  aquellos  más  vulnerables  y  teniendo  en  cuenta  el  beneficio obtenido por el contacto y uso de los SEC.
+    
 9. Diseñar propuestas de intervención innovadoras en una selección de lugares en entornos urbanos y periurbanos que tengan en cuenta el espacio, su comunicación y percepción, con el objetivo de mejorar  su  accesibilidad  y  facilitar  su  uso  de  modo  que  aumenten  los  activos  de  salud  de  la  población.
+    
 10. Diseñar, aplicar y/o explotar métodos y fuentes de la CC que permitan analizar la percepción de los valores sociales de la población respecto a los SEC teniendo en cuenta los diferentes segmentos y diversidad social de la población.
 
 
