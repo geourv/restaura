@@ -56,7 +56,7 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 
 __Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  
     
-Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
+Este análisis incorpora un __enfoque multidisciplinar__ junto a __nuevas fuentes de información__ (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud. 
 
 ## Objetivos específicos
 
