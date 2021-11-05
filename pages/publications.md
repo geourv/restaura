@@ -5,7 +5,7 @@ title: "Publicaciones derivadas del proyecto"
 meta_title: "Publicaciones"
 subheadline: "Publicaciones"
 
-teaser: "A continuación se muestran las publicaciones relacionadas con el Proyecto RESTAURA, estructuradas en tres categorias: artículos, seminarios y capítulos de libro"
+teaser: "A continuación se muestran las publicaciones vinculadas al Proyecto RESTAURA, estructuradas en tres categorias: artículos, seminarios y capítulos de libro"
 
 meta_teaser: "RESTAURA ofrece información..."
 
