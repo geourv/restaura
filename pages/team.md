@@ -5,7 +5,7 @@ title: "Investigadores del proyecto"
 meta_title: "Equipo"
 subheadline: "Conozca al equipo"
 
-teaser: "En el proyecto RESTAURA participan geógrafos, arquitectos... La profesora Mª Yolanda Pérez-Albert, de la Universitat Rovira i Virgili, es la Investigadora Principal del proyecto, pero también participan en el proyecto investigadores del Instituto..."
+teaser: "El equipo de este proyecto es multidisciplinar e incorpora investigadores del Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), del Grupo de Investigación del Movimiento Humano del Instituto Nacional de Educación Física de Cataluña, del Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ) y del Grupo de Diseño para la salud y el bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA) de la Universidad Autónoma de Barcelona."
 
 meta_teaser: ""
 
