@@ -5,7 +5,7 @@ title: "Publicaciones derivadas del proyecto"
 meta_title: "Publicaciones"
 subheadline: "Publicaciones"
 
-teaser: "Los SEC de espacios periurbanos y urbanos, en buena medida degradados por la presencia de clúster petroquímicos, proveen a la población de importantes activos de salud, expresados a través  de  su  capacidad  para  sostener  funciones  de  actividad  física,  de  ocio  y  recreación,  de  apreciación del paisaje y de identidad territorial."
+teaser: "A continuación se muestran las publicaciones relacionadas con el Proyecto RESTAURA, estructuradas en tres categorias: artículos, seminarios y capítulos de libro"
 
 meta_teaser: "RESTAURA ofrece información..."
 
