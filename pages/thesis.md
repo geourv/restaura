@@ -5,7 +5,7 @@ title: "Tesis doctorales y trabajos acdémicos derivados del proyecto"
 meta_title: "Tesis"
 subheadline: "Tesis"
 
-teaser: "En este apartado aparecen las tesis vinculadas al Proyecto Restaura junto con los trabajos académicos"
+teaser: ""
 
 meta_teaser: "RESTAURA ha servido como marco para el desarrollo de distintos trabajos..."
 
