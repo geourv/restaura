@@ -32,16 +32,16 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ## Resumen
 
-Los servicios ecosistémicos han sido definidos como los beneficios que la sociedad recibe de los ecosistemas. Los __servicios culturales__, un tipo de servicio ecosistémico, hacen referencia al disfrute estético, las actividades de ocio y recreación, la identidad cultural o el valor religioso y espiritual de un lugar determinado. Es decir, los elementos inmateriales con repercusión en el bienestar de personas y sociedades.
+Los servicios ecosistémicos han sido definidos como los beneficios que la sociedad recibe de los ecosistemas. Los __servicios culturales__, un tipo de servicio ecosistémico, hacen referencia al __disfrute estético, las actividades de ocio y recreación, la identidad cultural o el valor religioso y espiritual__ de un lugar determinado. Es decir, los elementos inmateriales con __repercusión en el bienestar de personas y sociedades__.
     
-Los servicios ecosistémicos en entornos naturales han sido frecuentemente estudiados, sin embargo, esta investigación destaca el interés científico de los servicios ecosistémicos culturales en áreas urbanas y periurbanas. Esta aproximación pretende analizar y proponer mejoras en aquellos ambientes urbanos con importantes impactos derivados de las actividades industriales, en concreto en las ciudades con importantes clústeres petroquímicos. Un mejor conocimiento y gestión de los servicios ecosistémicos de las áreas urbanas y periurbanas afectadas por dichos clústeres incrementarán la disponibilidad de activos de salud y que éstos se adapten mejor a las características demográficas de la población.
+Los servicios ecosistémicos en entornos naturales han sido frecuentemente estudiados, sin embargo, esta investigación destaca el interés científico de los __servicios ecosistémicos culturales en áreas urbanas y periurbanas__. Esta aproximación pretende analizar y __proponer mejoras__ en aquellos ambientes urbanos con importantes impactos derivados de las actividades industriales, en concreto en __las ciudades con importantes clústeres petroquímicos__. Un mejor conocimiento y gestión de los servicios ecosistémicos de las áreas urbanas y periurbanas afectadas por dichos clústeres incrementarán la __disponibilidad de activos de salud__ y que éstos se adapten mejor a las características demográficas de la población.
     
-En definitiva, se trata de relacionar entre sí la salud, las características sociales de la población y el medio ambiente urbano y se parte de la idea que el correcto mantenimiento de los ecosistemas urbanos, la calidad de su diseño para la salud y su buen funcionamiento es fundamental para aumentar la calidad de vida de sus moradores. Por ello, las propuestas y diseños derivados de esta investigación tendrán en cuenta las diferentes necesidades sociales, los variados comportamientos de la población y las desigualdades que condicionan la accesibilidad a los SEC. Las propuestas, recomendaciones de intervención derivadas del proyecto, servirán como base para la toma de decisiones por las administraciones implicadas en la gestión de los SEC.
+En definitiva, se trata de __relacionar entre sí la salud, las características sociales de la población y el medio ambiente urbano__ y se parte de la idea que el correcto mantenimiento de los ecosistemas urbanos, la calidad de su diseño para la salud y su buen funcionamiento es fundamental para aumentar la calidad de vida de sus moradores. Por ello, las __propuestas__ y diseños derivados de esta investigación __tendrán en cuenta las diferentes necesidades sociales, los variados comportamientos de la población y las desigualdades que condicionan la accesibilidad a los SEC__. Las propuestas, recomendaciones de intervención derivadas del proyecto, servirán como base para la toma de decisiones por las administraciones implicadas en la gestión de los SEC.
 
 
 ## Detalles del proyecto
 
-- **Referencia:** PID2020-114363GB-I00
+- **Referencia:** __PID2020-114363GB-I00__
 - **Investigadora principal:** Yolanda Pérez Albert
 - **Entidad solicitante:** Universitat Rovira i Virgili
 - **Centro:** Departamento de Geografía
@@ -52,7 +52,7 @@ En definitiva, se trata de relacionar entre sí la salud, las características s
 
 ## Objetivo principal
 
-Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de diseñar propuestas de intervención espacial y de salud que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
+__Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  Este análisis incorpora un enfoque multidisciplinar junto a nuevas fuentes de información (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud.
 
 ## Objetivos específicos
 
