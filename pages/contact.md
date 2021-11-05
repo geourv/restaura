@@ -17,7 +17,7 @@ header:
 <div class="small-12 large-4 columns">
 
 <h4>E-mail:</h4>
-<a href="mailto: restaura@urv.cat?subject=RESTAURA" title="restaura@urv.cat">restaura@urv.cat</a>
+<a href="mailto: restaura@urv.cat?subject=RESTAURA" title="restaura.project@urv.cat">restaura@urv.cat</a>
 
 <h4>Dirección postal:</h4>
 <a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>
