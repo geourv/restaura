@@ -1,7 +1,7 @@
 ---
 permalink: "/index.html"
 layout: page-fullwidth
-title: "Proyecto RESTAURA:Servicios ecosistémicos culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos"
+title: "Proyecto RESTAURA: Servicios ecosistémicos culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos"
 meta_title: "El proyecto RESTAURA surge..."
 subheadline: "Información"
 
@@ -32,21 +32,22 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ## Resumen
 
-Los servicios ecosistémicos han sido definidos como los beneficios que la sociedad recibe de los ecosistemas. Los servicios culturales, un tipo de servicio ecosistémico, hacen referencia al disfrute estético, las actividades de ocio y recreación, la identidad cultural o el valor religioso y espiritual de un lugar determinado. Es decir, los elementos inmateriales con repercusión en el bienestar de personas y sociedades.
+Los servicios ecosistémicos han sido definidos como los beneficios que la sociedad recibe de los ecosistemas. Los __servicios culturales__, un tipo de servicio ecosistémico, hacen referencia al disfrute estético, las actividades de ocio y recreación, la identidad cultural o el valor religioso y espiritual de un lugar determinado. Es decir, los elementos inmateriales con repercusión en el bienestar de personas y sociedades.
+    
 Los servicios ecosistémicos en entornos naturales han sido frecuentemente estudiados, sin embargo, esta investigación destaca el interés científico de los servicios ecosistémicos culturales en áreas urbanas y periurbanas. Esta aproximación pretende analizar y proponer mejoras en aquellos ambientes urbanos con importantes impactos derivados de las actividades industriales, en concreto en las ciudades con importantes clústeres petroquímicos. Un mejor conocimiento y gestión de los servicios ecosistémicos de las áreas urbanas y periurbanas afectadas por dichos clústeres incrementarán la disponibilidad de activos de salud y que éstos se adapten mejor a las características demográficas de la población.
+    
 En definitiva, se trata de relacionar entre sí la salud, las características sociales de la población y el medio ambiente urbano y se parte de la idea que el correcto mantenimiento de los ecosistemas urbanos, la calidad de su diseño para la salud y su buen funcionamiento es fundamental para aumentar la calidad de vida de sus moradores. Por ello, las propuestas y diseños derivados de esta investigación tendrán en cuenta las diferentes necesidades sociales, los variados comportamientos de la población y las desigualdades que condicionan la accesibilidad a los SEC. Las propuestas, recomendaciones de intervención derivadas del proyecto, servirán como base para la toma de decisiones por las administraciones implicadas en la gestión de los SEC.
 
 
 ## Detalles del proyecto
 
-- **Referencia:** 
-- **Investigadora principal:** Mª Yolanda Pérez-Albert
+- **Referencia:** PID2020-114363GB-I00
+- **Investigadora principal:** Yolanda Pérez Albert
 - **Entidad solicitante:** Universitat Rovira i Virgili
-- **Centro:** Departamento de Gografía
+- **Centro:** Departamento de Geografía
 - **Título:** Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos.
 - **Duración:** 3 años (2021-2024)
-- **Costes directos:** XX.000 €
-- **Palabras clave:** `usos y coberturas del suelo`, `corine land cover`, `inspire`, `estándares`, `siose`, `modelización orientada a objetos`, `geodatabases`, `nosql`, `medio ambiente`, `sostenibilidad`
+- **Palabras clave:** `Servicios Ecosistémicos Culturales`, `complejos petroquímicos`, `salutogénesis`, `activos de salud`, `Ciencia Ciudadana`, `Información Geográfica Colaborativa`
 
 
 ## Objetivo principal
