@@ -38,6 +38,8 @@ Los servicios ecosistémicos en entornos naturales han sido frecuentemente estud
     
 En definitiva, se trata de __relacionar entre sí la salud, las características sociales de la población y el medio ambiente urbano__ y se parte de la idea que el correcto mantenimiento de los ecosistemas urbanos, la calidad de su diseño para la salud y su buen funcionamiento es fundamental para aumentar la calidad de vida de sus moradores. Por ello, las __propuestas__ y diseños derivados de esta investigación __tendrán en cuenta las diferentes necesidades sociales, los variados comportamientos de la población y las desigualdades que condicionan la accesibilidad a los SEC__. Las propuestas, recomendaciones de intervención derivadas del proyecto, servirán como base para la toma de decisiones por las administraciones implicadas en la gestión de los SEC.
 
+![Ciclismo por el periurbano de Tarragona](images/bicileta.jpg)
+
 
 ## Detalles del proyecto
 
