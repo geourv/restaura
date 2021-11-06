@@ -8,7 +8,7 @@ subheadline: "Conozca al equipo"
 teaser: "El equipo de este proyecto es multidisciplinar e incorpora investigadores del Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), del Grupo de Investigación del Movimiento Humano del Instituto Nacional de Educación Física de Cataluña, del Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ) y del Grupo de Diseño para la salud y el bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA) de la Universidad Autónoma de Barcelona."
 
 meta_teaser: ""
-vsfgvsvsfv
+
 header:
     image_fullwidth: park-people.jpg
     caption: Algún comentario relevante.
