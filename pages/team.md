@@ -5,7 +5,7 @@ title: "Investigadores del proyecto"
 meta_title: "Equipo"
 subheadline: "Conozca al equipo"
 
-teaser: "El equipo de este proyecto es multidisciplinar e incorpora investigadores del Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), del Grupo de Investigación del Movimiento Humano del Instituto Nacional de Educación Física de Cataluña, del Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ) y del Grupo de Diseño para la salud y el bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA) de la Universidad Autónoma de Barcelona."
+teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e incorpora un total de <b>XX investigadores</b> de los siguientes grupos de investigación:"
 
 meta_teaser: ""
 
@@ -13,7 +13,10 @@ header:
     image_fullwidth: park-people.jpg
     caption: Algún comentario relevante.
 ---
-fdfgdgdfgd
+- Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), de la Universitat Rovira i Virgili.
+- Grupo de Investigación del Movimiento Humano del Instituto Nacional de Educación Física de Cataluña.
+- Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ), de la Universitat Rovira i Virgili.
+- Grupo de Diseño para la Salud y el Bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA), de la Universidad Autónoma de Barcelona.
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
