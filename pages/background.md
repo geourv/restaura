@@ -42,7 +42,7 @@ Los __objetivos alcanzados en los proyectos SPATIUM y CHORA__ en relación al nu
 
 En el __nuevo proyecto__ se __amplía el foco__ del objeto de estudio pasando del paisaje, base de uno de los SEC, al __conjunto de SEC__ y, además, añadiendo la __perspectiva de género y la salutogénesis__. En este sentido, la experiencia acumulada y las metodologías diseñadas una vez adaptadas servirán para valorar el territorio desde el punto de vista de la provisión de activos de salud a la población y no desde un planteamiento generalista o exclusivamente desde la mirada al paisaje. Además, __se incorpora la perspectiva de género y se les da una especial significación a las mujeres y a los mayores__ tanto en el diseño de metodologías, como en la elaboración de resultados desagregados para esos segmentos de población. Todo ello, en un área de estudio que, desde el punto de vista de la investigación es novedosa puesto que generalmente los trabajos sobre SEC se realizan en zonas naturales y no en espacios periurbanos. La experiencia y los resultados del equipo en los proyectos de investigación previos aseguran la viabilidad de esta propuesta.
 
-![parqueperiurbano](https://github.com/gratet/restaura/blob/bdd260bc3fb89f9c9f0a85fcc03913b77374042a/images/parcgos.jpg)
+![parqueperiurbano](gratet/restaura/blob/images/parcgos.jpg)
 
 
 
