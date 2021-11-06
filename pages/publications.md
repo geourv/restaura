@@ -32,7 +32,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-> Aitor, també pots escriure aquí en Markdown...
+Para acceder a las publicaciones del Proyecto precedente (CHORA), vaya [aquí](https://choramineco.wixsite.com/chora/publicaciones)
 
 ## Artículos
 
