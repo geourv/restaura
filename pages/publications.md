@@ -32,7 +32,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Para acceder a las publicaciones del Proyecto precedente (CHORA), vaya [aquí](https://choramineco.wixsite.com/chora/publicaciones)
+_Para acceder a las publicaciones del Proyecto precedente (CHORA), vaya [aquí](https://choramineco.wixsite.com/chora/publicaciones)_
 
 ## Artículos
 
