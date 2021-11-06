@@ -36,7 +36,7 @@ header:
 
 
 
-### Objetivos y resultados alcanzados en proyectos anteriores 
+### Resultados alcanzados en proyectos anteriores 
 
 Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al proyecto SPATIUM (CSO2014-52721-P). 
 
@@ -44,12 +44,13 @@ Los __objetivos alcanzados en los proyectos SPATIUM y CHORA__ en relación al nu
 
 ![parque periurbano](/restaura/images/parcgos.jpg)
 
-### Novedades del nuevo proyecto 
+### Novedades de RESTAURA 
     
 Esta nueva propuesta introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
 
 En este sentido, la experiencia acumulada y las metodologías diseñadas una vez adaptadas servirán para valorar el territorio desde el punto de vista de la provisión de activos de salud a la población y no desde un planteamiento generalista o exclusivamente desde la mirada al paisaje. Además, __se incorpora la perspectiva de género y se les da una especial significación a las mujeres y a los mayores__ tanto en el diseño de metodologías, como en la elaboración de resultados desagregados para esos segmentos de población. Todo ello, en un área de estudio que, desde el punto de vista de la investigación es novedosa puesto que generalmente los trabajos sobre SEC se realizan en zonas naturales y no en espacios periurbanos. La experiencia y los resultados del equipo en los proyectos de investigación previos aseguran la viabilidad de esta propuesta.
 
+![parque periurbano](/restaura/images/platja.JPG)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
