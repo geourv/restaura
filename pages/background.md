@@ -7,7 +7,7 @@ subheadline: "Antecedentes"
 
 teaser: "El proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P). En ambos proyectos se ha trabajado la <b>calidad del paisaje y la satisfacción en relación al uso público del mismo</b> y se han explotado nuevas fuentes de información y métodos de trabajo: <b>Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos</b>. 
 
-Esta nueva propuesta introduce <b>tres novedades</b> que suponen un avance del conocimiento: en primer lugar, se aborda el <b>estudio multidisciplinar de los SEC en zonas periurbanas industriales</b>, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la <b>salutogénesis</b>, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la <b>diversidad social</b> a través de la perspectiva de género y del envejecimiento activo. "
+
 
 meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
 
@@ -33,6 +33,8 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
+
+Esta nueva propuesta introduce <b>tres novedades</b> que suponen un avance del conocimiento: en primer lugar, se aborda el <b>estudio multidisciplinar de los SEC en zonas periurbanas industriales</b>, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la <b>salutogénesis</b>, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la <b>diversidad social</b> a través de la perspectiva de género y del envejecimiento activo. "
 
 ### Objetivos y resultados alcanzados en proyectos anteriores 
 
