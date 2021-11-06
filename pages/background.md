@@ -44,7 +44,7 @@ En el __nuevo proyecto__ se __amplía el foco__ del objeto de estudio pasando de
 
 ![parque periurbano](images/parcgos.jpg)
 
-fdsfdsfsddsfsfds
+
 
 
 </div><!-- /.medium-8.columns -->
