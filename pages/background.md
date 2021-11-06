@@ -34,7 +34,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Esta nueva propuesta introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. "
+Esta nueva propuesta introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
 
 ### Objetivos y resultados alcanzados en proyectos anteriores 
 
