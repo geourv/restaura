@@ -5,7 +5,7 @@ title: "Proyecto RESTAURA"
 meta_title: "Antecedentes"
 subheadline: "Antecedentes"
 
-teaser: "El proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P). En ambos proyectos se ha trabajado la <b>calidad del paisaje y la satisfacción en relación al uso público del mismo</b> y se han explotado nuevas fuentes de información y métodos de trabajo: <b>Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos</b>." 
+teaser: "El proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P)." 
 
 
 
@@ -35,20 +35,32 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
+ 
 
-### Resultados alcanzados en proyectos anteriores 
+Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al proyecto __SPATIUM__ (CSO2014-52721-P). En ambos proyectos se ha trabajado la __calidad del paisaje y la satisfacción en relación al uso público del mismo__ y se han explotado __nuevas fuentes de información y métodos de trabajo__: Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos.
 
-Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al proyecto SPATIUM (CSO2014-52721-P). 
-
-Los __objetivos alcanzados en los proyectos SPATIUM y CHORA__ en relación al nuevo proyecto se dividen en dos grandes grupos, los metodológicos y los temáticos. Entre los primeros destaca el __diseño de métodos de tratamiento y análisis de tracks de IGV__ (identificación y depuración de tracks erróneos, análisis geoestadístico) y de __fotografías de IGV__ (etiquetado automático de contenidos, filtrado y clasificación, análisis geoestadístico); el diseño de un __SIGPP para el estudio del paisaje__ y la satisfacción del usuario en espacios naturales protegidos (diseño, implementación, tratamiento de datos y análisis espacial); y un método que integra __evaluación multicriterio (EMC) en un SIG__ para la valoración de la __calidad visual del paisaje__. Respecto a los segundos, los resultados obtenidos, se han establecido las __preferencias de usuarios__ en relación a equipamientos y al paisaje del Delta del Ebro a partir del SIGPP; se ha determinado la __valoración objetiva del paisaje__ del Priorat y del Delta del Ebro a partir de técnicas de EMC y SIG; se ha establecido las diferencias entre la __calidad percibida por los usuarios y la establecida por los expertos__ del paisaje del Delta del Ebro; se ha determinado, a partir del análisis de IGV, la distribución espacial de tracks, su densidad, características y actividades, así como la de fotografías, ambos en el Delta del Ebro. También se ha obtenido una base de datos del periurbano de Tarragona y se han caracterizado los usuarios en función de su fiabilidad y aproximación al territorio.
-
-![parque periurbano](/restaura/images/parcgos.jpg)
-
-### Novedades de RESTAURA 
+###Proyecto CHORA
+- Referencia: CSO2017-82411-P
+- Investigadora principal: Yolanda Pérez Albert
+- Entidad solicitante: Universitat Rovira i Virgili
+- Centro: Departamento de Geografía
+- Título: El paisaje como valor colectivo. Análisis de su significado, usos y percepción social.
+- Duración: 3 años (2018-2020)
+- Entidad financiadora: Ministerio de Economía y Competitividad
+- Web: [choramineco.wixsite.com/chora](https://choramineco.wixsite.com/chora)
+  
+###Proyecto SPATIUM  
+- Referencia: CSO2014-52721-P
+- Investigadora principal: Yolanda Pérez Albert
+- Entidad solicitante: Universitat Rovira i Virgili
+- Centro: Departamento de Geografía
+- Título: Los paisajes protegidos y construidos.
+- Duración: 3 años (2015-2017)
+- Entidad financiadora: Ministerio de Economía y Competitividad
     
-Esta nueva propuesta introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
+    
+El __Proyecto RESTAURA__, introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
 
-En este sentido, la experiencia acumulada y las metodologías diseñadas una vez adaptadas servirán para valorar el territorio desde el punto de vista de la provisión de activos de salud a la población y no desde un planteamiento generalista o exclusivamente desde la mirada al paisaje. Además, __se incorpora la perspectiva de género y se les da una especial significación a las mujeres y a los mayores__ tanto en el diseño de metodologías, como en la elaboración de resultados desagregados para esos segmentos de población. Todo ello, en un área de estudio que, desde el punto de vista de la investigación es novedosa puesto que generalmente los trabajos sobre SEC se realizan en zonas naturales y no en espacios periurbanos. La experiencia y los resultados del equipo en los proyectos de investigación previos aseguran la viabilidad de esta propuesta.
 
 ![parque periurbano](/restaura/images/platja.JPG)
 
