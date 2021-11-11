@@ -51,7 +51,7 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 - **Duración:** 3 años (2021-2024)
 - **Palabras clave:** `Servicios Ecosistémicos Culturales`, `complejos petroquímicos`, `salutogénesis`, `activos de salud`, `Ciencia Ciudadana`, `Información Geográfica Colaborativa`
 
-![Logos](images/logo.png)
+![Logos](images/logo2.png)
 
 ## Objetivo principal
 
