@@ -5,7 +5,7 @@ title: "Investigadores del proyecto"
 meta_title: "Equipo"
 subheadline: "Conozca al equipo"
 
-teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e incorpora un total de <b>XX investigadores</b> de los siguientes grupos de investigación:"
+teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e <b>internacional</b>. En total, incorpora <b>14 investigadores</b> de los siguientes grupos de investigación o departamentos:"
 
 meta_teaser: ""
 
@@ -16,7 +16,7 @@ header:
 - Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), de la Universitat Rovira i Virgili.
 - Grupo de Investigación del Movimiento Humano, del Instituto Nacional de Educación Física de Cataluña.
 - Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ), de la Universitat Rovira i Virgili.
-- Grupo de Diseño para la Salud y el Bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA), de la Universidad Autónoma de Barcelona.
+- Grupo de Diseño para la Salud y el Bienestar del Centro de Diseño y Arte de Barcelona (EINA), de la Universidad Autónoma de Barcelona.
 - Departamento de Urbanismo, de la Universidad de Concepción (Chile).
 - Departamento de Teoría y Práctica de la Arquitectura y del Diseño, de la Universidad de Zulia (Venezuela).
 
