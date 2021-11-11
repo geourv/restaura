@@ -1,7 +1,11 @@
 - title: Inicio
   url: "/"
   side: left
-
+  
+- title: "Objetivos"
+  url: "/objetives/"
+  side: left
+  
 - title: Antecedentes
   url: "/background/"
   side: left
