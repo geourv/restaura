@@ -39,7 +39,7 @@ header:
 
 Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al __proyecto SPATIUM__ (CSO2014-52721-P). En ambos proyectos se ha trabajado la __calidad del paisaje y la satisfacción en relación al uso público del mismo__ y se han explotado __nuevas fuentes de información y métodos de trabajo__: Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos.
 
-##Proyecto CHORA
+### Proyecto CHORA
 - __Referencia__: CSO2017-82411-P
 - __Investigadora principal__: Yolanda Pérez Albert
 - __Entidad solicitante__: Universitat Rovira i Virgili
@@ -49,7 +49,7 @@ Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixs
 - __Entidad financiadora__: Ministerio de Economía y Competitividad
 - __Web__: [choramineco.wixsite.com/chora](https://choramineco.wixsite.com/chora)
   
-##Proyecto SPATIUM  
+### Proyecto SPATIUM  
 - __Referencia__: CSO2014-52721-P
 - __Investigadora principal__: Yolanda Pérez Albert
 - __Entidad solicitante__: Universitat Rovira i Virgili
