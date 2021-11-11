@@ -1,7 +1,7 @@
 ---
 permalink: "/background/"
 layout: page-fullwidth
-title: "Proyecto RESTAURA"
+title: "Proyectos CHORA y SPATIUM"
 meta_title: "Antecedentes"
 subheadline: "Antecedentes"
 
