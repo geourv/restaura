@@ -38,9 +38,6 @@ header:
 
 - ...
 
-[## Trabajos Fin de Máster]
-    
-[- ...]
 
 
 </div><!-- /.medium-8.columns -->
