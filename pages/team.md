@@ -14,9 +14,12 @@ header:
     caption: Algún comentario relevante.
 ---
 - Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), de la Universitat Rovira i Virgili.
-- Grupo de Investigación del Movimiento Humano del Instituto Nacional de Educación Física de Cataluña.
+- Grupo de Investigación del Movimiento Humano, del Instituto Nacional de Educación Física de Cataluña.
 - Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ), de la Universitat Rovira i Virgili.
 - Grupo de Diseño para la Salud y el Bienestar del Centro Universitario de Diseño y Arte de Barcelona (EINA), de la Universidad Autónoma de Barcelona.
+- Departamento de Urbanismo, de la Universidad de Concepción (Chile).
+- Departamento de Teoría y Práctica de la Arquitectura y del Diseño, de la Universidad de Zulia (Venezuela).
+
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
