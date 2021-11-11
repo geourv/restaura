@@ -57,7 +57,7 @@ Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixs
 El __Proyecto RESTAURA__, introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
 
 
-![parque periurbano](/restaura/images/platja.JPG)
+![gente mayor de excursión](/restaura/images/lorito.jpg)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
