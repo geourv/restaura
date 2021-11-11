@@ -32,7 +32,6 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-_Para acceder a las publicaciones del Proyecto precedente (CHORA), vaya [aquí](https://choramineco.wixsite.com/chora/publicaciones)_
 
 ## Artículos
 
@@ -45,7 +44,7 @@ _Para acceder a las publicaciones del Proyecto precedente (CHORA), vaya [aquí](
     
 - Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). “Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona” en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
 
-## Capítulos de libro
+
 
 
 
