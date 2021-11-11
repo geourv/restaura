@@ -1,11 +1,11 @@
 ---
 permalink: "/index.html"
 layout: page-fullwidth
-title: "Proyecto RESTAURA: Servicios ecosistémicos culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos"
+title: "Proyecto RESTAURA:"
 meta_title: "El proyecto RESTAURA surge..."
 subheadline: "Información"
 
-teaser: "El Proyecto RESTAURA es un proyecto de investigación financiado por el Programa Estatal de Investigación, Desarrollo e Innovación para la Generación de Conocimiento, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2021-2024."
+teaser: "Servicios ecosistémicos culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos. El Proyecto RESTAURA es un proyecto de investigación financiado por el Programa Estatal de Investigación, Desarrollo e Innovación para la Generación de Conocimiento, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2021-2024."
 
 meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
 
