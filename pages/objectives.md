@@ -5,7 +5,7 @@ title: "Objetivos del Proyecto"
 meta_title: "Objetivos"
 subheadline: "Objetivos"
 
-teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos." 
+teaser: "'Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos'." 
 
 
 
