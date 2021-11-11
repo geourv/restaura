@@ -5,7 +5,7 @@ title: "Objetivos del Proyecto"
 meta_title: "Objetivos"
 subheadline: "Objetivos"
 
-teaser: "HOLAEl proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P). En ambos proyectos se ha trabajado la <b>calidad del paisaje y la satisfacción en relación al uso público del mismo</b> y se han explotado nuevas fuentes de información y métodos de trabajo: <b>Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos</b>." 
+teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos." 
 
 
 
@@ -36,19 +36,36 @@ header:
 
 
 
-### Resultados alcanzados en proyectos anteriores 
+## Objetivo principal
 
-Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al proyecto SPATIUM (CSO2014-52721-P). 
+__Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  
+    
+Este análisis incorpora un __enfoque multidisciplinar__ junto a __nuevas fuentes de información__ (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud. 
 
-Los __objetivos alcanzados en los proyectos SPATIUM y CHORA__ en relación al nuevo proyecto se dividen en dos grandes grupos, los metodológicos y los temáticos. Entre los primeros destaca el __diseño de métodos de tratamiento y análisis de tracks de IGV__ (identificación y depuración de tracks erróneos, análisis geoestadístico) y de __fotografías de IGV__ (etiquetado automático de contenidos, filtrado y clasificación, análisis geoestadístico); el diseño de un __SIGPP para el estudio del paisaje__ y la satisfacción del usuario en espacios naturales protegidos (diseño, implementación, tratamiento de datos y análisis espacial); y un método que integra __evaluación multicriterio (EMC) en un SIG__ para la valoración de la __calidad visual del paisaje__. Respecto a los segundos, los resultados obtenidos, se han establecido las __preferencias de usuarios__ en relación a equipamientos y al paisaje del Delta del Ebro a partir del SIGPP; se ha determinado la __valoración objetiva del paisaje__ del Priorat y del Delta del Ebro a partir de técnicas de EMC y SIG; se ha establecido las diferencias entre la __calidad percibida por los usuarios y la establecida por los expertos__ del paisaje del Delta del Ebro; se ha determinado, a partir del análisis de IGV, la distribución espacial de tracks, su densidad, características y actividades, así como la de fotografías, ambos en el Delta del Ebro. También se ha obtenido una base de datos del periurbano de Tarragona y se han caracterizado los usuarios en función de su fiabilidad y aproximación al territorio.
 
 ![parque periurbano](/restaura/images/parcgos.jpg)
 
-### Novedades de RESTAURA 
-    
-Esta nueva propuesta introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
+## Objetivos específicos
 
-En este sentido, la experiencia acumulada y las metodologías diseñadas una vez adaptadas servirán para valorar el territorio desde el punto de vista de la provisión de activos de salud a la población y no desde un planteamiento generalista o exclusivamente desde la mirada al paisaje. Además, __se incorpora la perspectiva de género y se les da una especial significación a las mujeres y a los mayores__ tanto en el diseño de metodologías, como en la elaboración de resultados desagregados para esos segmentos de población. Todo ello, en un área de estudio que, desde el punto de vista de la investigación es novedosa puesto que generalmente los trabajos sobre SEC se realizan en zonas naturales y no en espacios periurbanos. La experiencia y los resultados del equipo en los proyectos de investigación previos aseguran la viabilidad de esta propuesta.
+1. Valorar los diferentes tipos de SEC en función de los beneficios potenciales para la población.
+    
+2. Identificar la tipología o tipologías de SEC que mejor se adapten a las características y necesidades de  los  diferentes  segmentos  de  población  de  manera  que  la  provisión  de  activos  de  salud  sea  óptima para los distintos colectivos de personas.
+    
+3. Cartografiar  las  diferentes  dimensiones  de  los  SEC  atendiendo  a:  1)  idoneidad  de  los  SEC  para  proporcionar activos de salud a la población, 2) demanda de SEC en relación a la diversidad de la población y 3) interacción petroquímica y SEC.
+    
+4. Determinar espacial y temporalmente el aprovechamiento real de los SEC teniendo en cuenta los diferentes grupos poblacionales y sus características (edad, género, niveles de educación, etc.).
+    
+5. Revelar las injusticias espaciales en relación al acceso a los SEC e identificar el factor o factores que las producen de forma que sirvan como base a la planificación urbana y territorial con la intención de reducir dichas desigualdades.
+    
+6. Establecer el grado de integración de los SEC en los sistemas de asistencia social y de salud y, en su caso, proponer mejoras teniendo en cuenta los diferentes segmentos de población prestando especial atención a las mujeres, las personas mayores y los más vulnerables.
+    
+7. Estimar la prevalencia de las enfermedades en la población, según la edad, el género y el lugar de residencia y la accesibilidad a los SEC.
+    
+8. Realizar  propuestas  de  actividad  física  al  aire  libre  adaptadas  a  los  diferentes  segmentos  de  población  prestando  especial  atención  a  aquellos  más  vulnerables  y  teniendo  en  cuenta  el  beneficio obtenido por el contacto y uso de los SEC.
+    
+9. Diseñar propuestas de intervención innovadoras en una selección de lugares en entornos urbanos y periurbanos que tengan en cuenta el espacio, su comunicación y percepción, con el objetivo de mejorar  su  accesibilidad  y  facilitar  su  uso  de  modo  que  aumenten  los  activos  de  salud  de  la  población.
+    
+10. Diseñar, aplicar y/o explotar métodos y fuentes de la CC que permitan analizar la percepción de los valores sociales de la población respecto a los SEC teniendo en cuenta los diferentes segmentos y diversidad social de la población.
 
 ![parque periurbano](/restaura/images/platja.JPG)
 
