@@ -37,26 +37,26 @@ header:
 
  
 
-Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al proyecto __SPATIUM__ (CSO2014-52721-P). En ambos proyectos se ha trabajado la __calidad del paisaje y la satisfacción en relación al uso público del mismo__ y se han explotado __nuevas fuentes de información y métodos de trabajo__: Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos.
+Esta propuesta tiene sus raíces en el [proyecto CHORA](https://choramineco.wixsite.com/chora) (CSO2017-82411-P), centrado en analizar el paisaje, su significado, características y percepción social en tanto que recurso colectivo y base para el desarrollo de actividades ciudadanas, y que, a su vez, daba continuidad al __proyecto SPATIUM__ (CSO2014-52721-P). En ambos proyectos se ha trabajado la __calidad del paisaje y la satisfacción en relación al uso público del mismo__ y se han explotado __nuevas fuentes de información y métodos de trabajo__: Sistemas de Información Geográfica de Participación Pública (SIGPP), Información Geográfica Voluntaria (IGV), técnicas de Evaluación MultiCriterio (EMC), herramientas de geoestadística y análisis de grandes volúmenes de datos.
 
-###Proyecto CHORA
-- Referencia: CSO2017-82411-P
-- Investigadora principal: Yolanda Pérez Albert
-- Entidad solicitante: Universitat Rovira i Virgili
-- Centro: Departamento de Geografía
-- Título: El paisaje como valor colectivo. Análisis de su significado, usos y percepción social.
-- Duración: 3 años (2018-2020)
-- Entidad financiadora: Ministerio de Economía y Competitividad
-- Web: [choramineco.wixsite.com/chora](https://choramineco.wixsite.com/chora)
+##Proyecto CHORA
+- __Referencia__: CSO2017-82411-P
+- __Investigadora principal__: Yolanda Pérez Albert
+- __Entidad solicitante__: Universitat Rovira i Virgili
+- __Centro__: Departamento de Geografía
+- __Título__: El paisaje como valor colectivo. Análisis de su significado, usos y percepción social.
+- __Duración__: 3 años (2018-2020)
+- __Entidad financiadora__: Ministerio de Economía y Competitividad
+- __Web__: [choramineco.wixsite.com/chora](https://choramineco.wixsite.com/chora)
   
-###Proyecto SPATIUM  
-- Referencia: CSO2014-52721-P
-- Investigadora principal: Yolanda Pérez Albert
-- Entidad solicitante: Universitat Rovira i Virgili
-- Centro: Departamento de Geografía
-- Título: Los paisajes protegidos y construidos.
-- Duración: 3 años (2015-2017)
-- Entidad financiadora: Ministerio de Economía y Competitividad
+##Proyecto SPATIUM  
+- __Referencia__: CSO2014-52721-P
+- __Investigadora principal__: Yolanda Pérez Albert
+- __Entidad solicitante__: Universitat Rovira i Virgili
+- __Centro__: Departamento de Geografía
+- __Título__: Los paisajes protegidos y construidos.
+- __Duración__: 3 años (2015-2017)
+- __Entidad financiadora__: Ministerio de Economía y Competitividad
     
     
 El __Proyecto RESTAURA__, introduce __tres novedades__ que suponen un avance del conocimiento: en primer lugar, se aborda el __estudio multidisciplinar de los SEC en zonas periurbanas industriales__, en concreto en áreas con presencia de clúster petroquímicos; en segundo lugar, se incorpora la dimensión de la __salutogénesis__, es decir, se tienen en cuenta los activos de salud o factores que apoyan la salud y el bienestar; y, por último, se integra la __diversidad social__ a través de la perspectiva de género y del envejecimiento activo. 
