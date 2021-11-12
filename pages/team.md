@@ -5,7 +5,7 @@ title: "Investigadores del proyecto"
 meta_title: "Equipo"
 subheadline: "Conozca al equipo"
 
-teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e <b>internacional</b>. En total, incorpora <b>14 investigadores</b> de los siguientes grupos de investigación o departamentos:"
+teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e <b>internacional</b>. En total, incorpora <b>31 investigadores</b> de los siguientes grupos de investigación o departamentos:"
 
 meta_teaser: ""
 
