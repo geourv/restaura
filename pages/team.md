@@ -13,10 +13,11 @@ header:
     image_fullwidth: park-people2.jpg
     caption: 
 ---
-- [Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET)](http://www.gratet.urv.cat/ca/). Universitat Rovira i Virgili.
+- [Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET)](http://www.gratet.urv.cat/ca/). Dpto. de Geografía. Universitat Rovira i Virgili.
+- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Escuela Técnica Superior de Arquitectura. Universitat Rovira i Virgili.
+- [Departamento de Enfermería](https://www.dinfermeria.urv.cat/es/) y [Departamento de Medicina y Cirugía](https://www.medicinaicirurgia.urv.cat/es/). Universitat Rovira i Virgili.
 - [Grupo de Investigación del Movimiento Humano](https://inefc.gencat.cat/es/inefc/recerca_i_doctorat/grups_de_recerca/grup_recerca_moviment_huma/). Instituto Nacional de Educación Física de Cataluña.
-- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Universitat Rovira i Virgili.
-- [Grupo de Diseño para la Salud y el Bienestar del Centro de Diseño y Arte de Barcelona (EINA)](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). Universidad Autónoma de Barcelona.
+- [Grupo de Diseño para la Salud y el Bienestar del Centro de Diseño y Arte de Barcelona (EINA)](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). Centro Universitario de Diseño y Arte de Barcelona. Universidad Autónoma de Barcelona.
 - [Departamento de Urbanismo](http://faug.udec.cl/?page_id=14265). Universidad de Concepción (Chile).
 - [Departamento de Teoría y Práctica de la Arquitectura y del Diseño](https://www.universia.net/uy/universidades/universidad-zulia.01043.html). Universidad de Zulia (Venezuela).
 
