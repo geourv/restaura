@@ -40,7 +40,9 @@ header:
 
 _Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González_
 
-El principal objetivo de la tesis es caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios a partir de fuentes procedentes de la Información Geográfica Voluntaria (IGV). La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada. Los objetivos específicos son los siguientes: 
+El principal objetivo de la tesis es caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios a partir de fuentes procedentes de la Información Geográfica Voluntaria (IGV). La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada. 
+    
+Los objetivos específicos son los siguientes: 
 
 -Analizar el uso público y la recreación al aire libre del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     
