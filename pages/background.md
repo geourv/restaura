@@ -13,9 +13,9 @@ meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  z
 
 
 header:
-    image_fullwidth: header-a7-vila-seca.jpg
+    image_fullwidth: platja3.jpg
     background-color: "#262930"
-    caption: Alguna imagen relevante.
+    caption: 
 ---
 
 <!--more-->
