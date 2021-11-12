@@ -10,8 +10,8 @@ teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e <b>internaciona
 meta_teaser: ""
 
 header:
-    image_fullwidth: park-people.jpg
-    caption: Algún comentario relevante.
+    image_fullwidth: park-people2.jpg
+    caption: 
 ---
 - Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET), de la Universitat Rovira i Virgili.
 - Grupo de Investigación del Movimiento Humano, del Instituto Nacional de Educación Física de Cataluña.
