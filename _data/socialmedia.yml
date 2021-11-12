@@ -42,3 +42,9 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+# - name: ResearchGate
+#   url: https://www.researchgate.net/
+#   class: icon-researchgate
+#   title: ""
+
