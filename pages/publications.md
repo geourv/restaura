@@ -11,9 +11,9 @@ meta_teaser: "RESTAURA ofrece información..."
 
 
 header:
-    image_fullwidth: header-quimica-1.jpg
+    image_fullwidth: petro.jpg
     background-color: "#262930"
-    caption: Algún comentario relevante.
+    caption: 
 ---
 
 <!--more-->
