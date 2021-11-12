@@ -5,7 +5,7 @@ title: "Objetivos del Proyecto"
 meta_title: "Objetivos"
 subheadline: "Objetivos"
 
-teaser: "'Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos'." 
+teaser: "'Servicios  Ecosistémicos  Culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos'." 
 
 
 
@@ -38,7 +38,7 @@ header:
 
 ## Objetivo principal
 
-__Identificar,  estudiar  y  analizar  los  servicios  ecosistémicos  culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  
+__Identificar,  estudiar  y  analizar  los  Servicios  Ecosistémicos  Culturales  (SEC)  en  entornos  urbanos  y  periurbanos degradados por la presencia de complejos petroquímicos, desde la perspectiva de la salutogénesis o activos de salud y de la diversidad social__, poniendo especial énfasis en los colectivos de mujeres y ancianos, con la finalidad de __diseñar propuestas de intervención espacial y de salud__ que  tengan  como  finalidad  incrementar  las  opciones  de  activos  de  salud  de  la  población.  
     
 Este análisis incorpora un __enfoque multidisciplinar__ junto a __nuevas fuentes de información__ (Información Geográfica Colaborativa, Crowsourced Geographic Information-CGI) que traspasa la visión tradicional de los SEC como provisores de espacios para la recreación y los aproxima al ámbito de la salud. 
 
