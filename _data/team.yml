@@ -45,14 +45,16 @@
       class: icon-github
       
 - name: Aitor
-  lastname: Avila
+  lastname: Àvila
   position: Investigador predoctoral
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
-  pic: aitor_avila.jpg
+  pic: foto_aitor3.jpg
   keywords:
     - gis
     - geografia
+    - igv
+    - sec
   email: 
     - title: E-mail
       url: aitor.avila@urv.cat
