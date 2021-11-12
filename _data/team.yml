@@ -6,7 +6,7 @@
   department: Dpto. de Geografía
   pic: user_placeholder.png
   keywords:
-    - sig
+    - GIS
     - ordenación del territorio
     - geografía
   email: 
@@ -25,7 +25,7 @@
   department: Dpto. de Geografía
   pic: benito_zaragozi.jpg
   keywords:
-    - gis
+    - GIS
     - geodatabases
     - data mining
     - giscience
@@ -200,12 +200,12 @@
   position: Investigador Predoctoral
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
-  pic: aitor_avila.jpg
+  pic: aitor.png
   keywords:
-    - gis
+    - GIS
     - geografia
-    - igv
-    - sec
+    - IGV
+    - SEC
   email: 
     - title: E-mail
       url: aitor.avila@urv.cat
@@ -326,47 +326,48 @@
       class: icon-linkedin
       
 - name: Dr. Sebastià
-  lastname: Mas Alòs
-  position: Profesor Ayudante
+  lastname: Mas-Alòs
+  position: Profesor Titular
   organization: INEFC
   department: INEFC Lleida
-  pic: user_placeholder.png
+  pic: sebas.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - HEPA
+    - ejercicio físico
+    - condición física
+    - promoción de la salud
   email: 
     - title: E-mail
       url: smasalos@gencat.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://inefc.gencat.cat/ca/inefc_lleida/coneix_inefc/professorat/detalls/mas_alos 
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/sebasmas/
       class: icon-linkedin
       
 - name: Dra. Estela Inés
   lastname: Farías Torbidoni
-  position: Profesor Contratado
+  position: Profesor Titular
   organization: INEFC
   department: INEFC Lleida
-  pic: user_placeholder.png
+  pic: estela.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - Espacios Naturales Protegidos 
+    - gestión del uso público
+    - turismo sostenible
   email: 
     - title: E-mail
       url: efarias@inefc.es
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/Estela-Farias-Torbidoni/research
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/estela-in%C3%A9s-far%C3%ADas-torbidoni-a44b9a11/?originalSubdomain=es
       class: icon-linkedin
       
 - name: Dr. Sergi
