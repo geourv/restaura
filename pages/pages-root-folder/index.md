@@ -49,6 +49,7 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 - **Centro:** Departamento de Geografía
 - **Título:** Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos.
 - **Duración:** 3 años (2021-2024)
+- **Entidad financiadora:** Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.
 - **Palabras clave:** `Servicios Ecosistémicos Culturales`, `complejos petroquímicos`, `salutogénesis`, `activos de salud`, `Ciencia Ciudadana`, `Información Geográfica Colaborativa`
 
 ![Logos](images/logo3.png)
