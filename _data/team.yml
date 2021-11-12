@@ -241,7 +241,7 @@
   lastname: Solé Gras
   position: Investigador Predoctoral
   organization: Universitat Rovira i Virgili
-  department: PATRIARQ
+  department: Escuela Técnica Superior de Arquitectura
   pic: user_placeholder.png
   keywords:
     - ...
@@ -413,11 +413,33 @@
       url: ...
       class: icon-linkedin
       
+- name: Dr. Pau
+  lastname: Solà-Morales Serra
+  position: Profesor Contratado
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: pau.desolamorales@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
 - name: Dr. Salvador
   lastname: Huertas Vidal
   position: Profesor Contratado
-  organization: EINA
-  department: 
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
   pic: user_placeholder.png
   keywords:
     - ...
@@ -438,8 +460,8 @@
 - name: Dr. David
   lastname: Steegmann Mangrané
   position: Profesor Contratado
-  organization: EINA
-  department: 
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
   pic: user_placeholder.png
   keywords:
     - ...
@@ -460,8 +482,8 @@
 - name: Dr. Raúl
   lastname: Oliva Santos
   position: Profesor Contratado
-  organization: EINA
-  department: 
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
   pic: user_placeholder.png
   keywords:
     - ...
@@ -482,8 +504,8 @@
 - name: Dr. Oriol
   lastname: Ventura Rodà
   position: Profesor Contratado
-  organization: EINA
-  department: 
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
   pic: user_placeholder.png
   keywords:
     - ...
@@ -504,8 +526,8 @@
 - name: Dra. Elena
   lastname: Bartomeu Magaña
   position: Profesor Contratado
-  organization: EINA
-  department: 
+  organization: Centro Universitario de Diseño y Arte de Barcelona
+  department: EINA
   pic: user_placeholder.png
   keywords:
     - ...
@@ -514,28 +536,6 @@
   email: 
     - title: E-mail
       url: elena.bartomeu@eina.cat
-      class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
-      
-- name: Dr. Pau
-  lastname: Solà-Morales Serra
-  position: Profesor Contratado
-  organization: EINA
-  department: 
-  pic: user_placeholder.png
-  keywords:
-    - ...
-    - ...
-    - ...
-  email: 
-    - title: E-mail
-      url: pau.desolamorales@urv.cat
       class: icon-mail
   social:
     - title: home
