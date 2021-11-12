@@ -84,3 +84,21 @@
       url: http://movilidadyurbanismo.blogspot.com/
       class: icon-home
    
+- name: Jordi 
+  lastname: Blay
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: jordi.blay@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
