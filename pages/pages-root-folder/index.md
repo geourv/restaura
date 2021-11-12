@@ -11,8 +11,8 @@ meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  z
 
 
 header:
-    image_fullwidth: header-portada.jpg
-    caption: Algún comentario relevante.
+    image_fullwidth: header-portada2.jpg
+    caption: 
 ---
 
 <!--more-->
