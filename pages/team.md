@@ -14,7 +14,7 @@ header:
     caption: 
 ---
 - [Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET)](http://www.gratet.urv.cat/ca/). Dpto. de Geografía. Universitat Rovira i Virgili.
-- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Escuela Técnica Superior de Arquitectura. Universitat Rovira i Virgili.
+- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Escuela Técnica Sup. de Arquitectura. Universitat Rovira i Virgili.
 - [Departamento de Enfermería](https://www.dinfermeria.urv.cat/es/) y [Departamento de Medicina y Cirugía](https://www.medicinaicirurgia.urv.cat/es/). Universitat Rovira i Virgili.
 - [Grupo de Investigación del Movimiento Humano](https://inefc.gencat.cat/es/inefc/recerca_i_doctorat/grups_de_recerca/grup_recerca_moviment_huma/). Instituto Nacional de Educación Física de Cataluña.
 - [Grupo de Diseño para la Salud y el Bienestar](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). Centro de Diseño y Arte de Barcelona (EINA). Universidad Autónoma de Barcelona.
