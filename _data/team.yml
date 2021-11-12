@@ -1,5 +1,5 @@
 
-- name: Mª Yolanda
+- name: Dra. Yolanda
   lastname: Pérez-Albert
   position: Investigadora Principal
   organization: Universitat Rovira i Virgili
@@ -18,7 +18,7 @@
       url: https://www.researchgate.net/profile/Yolanda-Perez-3
       class: icon-home
 
-- name: Benito
+- name: Dr. Benito
   lastname: Zaragozí
   position: Profesor Lector
   organization: Universitat Rovira i Virgili
@@ -43,38 +43,17 @@
     - title: github
       url: https://github.com/benizar
       class: icon-github
-      
-- name: Aitor
-  lastname: Àvila
-  position: Investigador predoctoral
-  organization: Universitat Rovira i Virgili
-  department: Dpto. de Geografía
-  pic: aitor_avila.jpg
-  keywords:
-    - gis
-    - geografia
-    - igv
-    - sec
-  email: 
-    - title: E-mail
-      url: aitor.avila@urv.cat
-      class: icon-mail
-  social:
-    - title: linkedin
-      url: https://es.linkedin.com/in/aitor-avila-callau-411065a8
-      class: icon-linkedin
    
-- name: Joan
+- name: Dr. Joan
   lastname: Alberich
-  position: Profesor agregado
+  position: Profesor Agregado
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
   pic: joan_alberich.jpg
   keywords:
-    - gis
-    - geodatabases
-    - data mining
-    - giscience
+    - ...
+    - ...
+    - ...
   email: 
     - title: E-mail
       url: joan.alberich@urv.cat
@@ -84,8 +63,8 @@
       url: http://movilidadyurbanismo.blogspot.com/
       class: icon-home
    
-- name: Jordi 
-  lastname: Blay
+- name: Dr. Jordi 
+  lastname: Blay Boqué
   position: Profesor Titular
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
@@ -102,3 +81,598 @@
     - title: home
       url: ...
       class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+    
+- name: Dr. Ignacio
+  lastname: Muro Morales
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: joseignacio.muro@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Marta
+  lastname: Nel·lo Andreu
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: martagemma.nello@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Sergi
+  lastname: Saladié Gil
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: sergi.saladie@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin 
+      
+- name: Dr. David
+  lastname: Serrano Giné
+  position: Profesor Contratado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: dserrano@terrassa.uned.es
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sr. Edgar 
+  lastname: Bustamante Picón
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: edgar.bustamante@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+ 
+- name: Sr. Aitor
+  lastname: Àvila
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: aitor_avila.jpg
+  keywords:
+    - gis
+    - geografia
+    - igv
+    - sec
+  email: 
+    - title: E-mail
+      url: aitor.avila@urv.cat
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://es.linkedin.com/in/aitor-avila-callau-411065a8
+      class: icon-linkedin
+      
+- name: Sr. Jordi 
+  lastname: Andreu Bertran
+  position: Técnico de Grupo de Investigación
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: jordi.andreu@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sr. Josep Maria 
+  lastname: Solé Gras
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: PATRIARQ
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: josepmaria.sole@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Maria Roser
+  lastname: Cuesta Martínez
+  position: Profesor Visitante
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Enfermería 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: mariaroser.cuesta@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Rosa Dolores
+  lastname: Raventós Torner
+  position: Profesor/a comisión de servicios (Seguridad Social)
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Enfermería 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: rosadolores.raventos@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Manel
+  lastname: González Peris
+  position: Profesor asociado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Medicina y Cirugía 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: manuel.gonzalez@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Sebastià
+  lastname: Mas Alòs
+  position: Profesor Ayudante
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: smasalos@gencat.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Estela Inés
+  lastname: Farías Torbidoni
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: efarias@inefc.es
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Sergi
+  lastname: Matas Garcia
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: smatasg@gencat.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Javier Manuel
+  lastname: Peirau Terés
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: xpeirau@inef.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Salvador
+  lastname: Huertas Vidal
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: shuertas@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. David
+  lastname: Steegmann Mangrané
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: dsteegmann@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Raúl
+  lastname: Oliva Santos
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: roliva@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Oriol
+  lastname: Ventura Rodà
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: oventura@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Elena
+  lastname: Bartomeu Magaña
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: elena.bartomeu@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Pau
+  lastname: Solà-Morales Serra
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: pau.desolamorales@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Andrea
+  lastname: Fernandez Covarrubias
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: andreafercov@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. María Isabel
+  lastname: Rivera Barraza
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: mariaisrivera@udec.cl
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sra. Claudia Angélica
+  lastname: Cerda Inostroza
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: claudiacerdaml@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sra. Montserrat
+  lastname: Delpino Chamy
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: mdelpino@udec.cl
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Marianela
+  lastname: Camacho Fuenmayor
+  position: Profesor Contratado
+  organization: Universidad de Zulia
+  department: Dpto. de Teoría y Práctica de la Arquitectura y del Diseño
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: mcamachof@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sra. Carolina
+  lastname: Quintero Sandrea
+  position: Profesor Contratado
+  organization: Universidad de Zulia
+  department: Dpto. de Teoría y Práctica de la Arquitectura y del Diseño
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: caquinsa@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
