@@ -9,7 +9,7 @@ teaser: ""
 
 header:
     image_fullwidth: park-lake.jpg
-    caption: Algun comentario relevante.
+    caption: 
 ---
 
 <div class="row">
