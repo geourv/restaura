@@ -13,12 +13,12 @@ header:
     image_fullwidth: park-people2.jpg
     caption: 
 ---
-- [Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET)](http://www.gratet.urv.cat/ca/), de la Universitat Rovira i Virgili.
-- [Grupo de Investigación del Movimiento Humano](https://inefc.gencat.cat/es/inefc/recerca_i_doctorat/grups_de_recerca/grup_recerca_moviment_huma/), del Instituto Nacional de Educación Física de Cataluña.
-- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/), de la Universitat Rovira i Virgili.
-- [Grupo de Diseño para la Salud y el Bienestar del Centro de Diseño y Arte de Barcelona (EINA)](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar), de la Universidad Autónoma de Barcelona.
-- [Departamento de Urbanismo](http://faug.udec.cl/?page_id=14265), de la Universidad de Concepción (Chile).
-- [Departamento de Teoría y Práctica de la Arquitectura y del Diseño](https://www.universia.net/uy/universidades/universidad-zulia.01043.html), de la Universidad de Zulia (Venezuela).
+- [Grupo de Investigación de Análisis Territorial y Estudios Turísticos (GRATET)](http://www.gratet.urv.cat/ca/). Universitat Rovira i Virgili.
+- [Grupo de Investigación del Movimiento Humano](https://inefc.gencat.cat/es/inefc/recerca_i_doctorat/grups_de_recerca/grup_recerca_moviment_huma/). Instituto Nacional de Educación Física de Cataluña.
+- [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Universitat Rovira i Virgili.
+- [Grupo de Diseño para la Salud y el Bienestar del Centro de Diseño y Arte de Barcelona (EINA)](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). Universidad Autónoma de Barcelona.
+- [Departamento de Urbanismo](http://faug.udec.cl/?page_id=14265). Universidad de Concepción (Chile).
+- [Departamento de Teoría y Práctica de la Arquitectura y del Diseño](https://www.universia.net/uy/universidades/universidad-zulia.01043.html). Universidad de Zulia (Venezuela).
 
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
