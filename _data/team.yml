@@ -153,25 +153,22 @@
       
 - name: Dr. David
   lastname: Serrano Giné
-  position: Profesor Contratado
-  organization: Universitat Rovira i Virgili
+  position: Profesor Tutor
+  organization: Universidad Nacional de Educación a Distancia
   department: Dpto. de Geografía
-  pic: user_placeholder.png
+  pic: serrano.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - GIS
+    - paisaje
+    - Espacios Naturales Protegidos 
   email: 
     - title: E-mail
       url: dserrano@terrassa.uned.es
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/David-Serrano-Gine
       class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Sr. Edgar 
   lastname: Bustamante Picón
