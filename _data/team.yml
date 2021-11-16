@@ -253,21 +253,19 @@
   position: Profesor Visitante
   organization: Universitat Rovira i Virgili
   department: Dpto. de Enfermería 
-  pic: user_placeholder.png
+  pic: roser.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - enfermería
+    - cuidado
+    - docencia
+    - aprendizaje
   email: 
     - title: E-mail
       url: mariaroser.cuesta@urv.cat
       class: icon-mail
   social:
-    - title: home
-      url: ...
-      class: icon-home
     - title: linkedin
-      url: ...
+      url: linkedin.com/in/m-roser-cuesta-martínez-94250295
       class: icon-linkedin
       
 - name: Dra. Rosa D.
@@ -427,25 +425,23 @@
       class: icon-linkedin
       
 - name: Dr. Salvador
-  lastname: Huertas Vidal
+  lastname: Huertas 
   position: Profesor Contratado
   organization: Universidad Autónoma de Barcelona
   department: EINA
-  pic: user_placeholder.png
+  pic: huertas.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - salud
+    - diseño de experiencia
+    - bienestar
+    - usabilidad
   email: 
     - title: E-mail
       url: shuertas@eina.cat
       class: icon-mail
   social:
-    - title: home
-      url: ...
-      class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/salvador-huertas-919078167/
       class: icon-linkedin
       
 - name: Dr. David
@@ -494,24 +490,21 @@
       
 - name: Dr. Oriol
   lastname: Ventura Rodà
-  position: Profesor Contratado
+  position: Profesor Lector
   organization: Universidad Autónoma de Barcelona
   department: EINA
-  pic: user_placeholder.png
+  pic: oriol.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - diseño espacios 
+    - salut
+    - usuario
   email: 
     - title: E-mail
       url: oventura@eina.cat
       class: icon-mail
   social:
-    - title: home
-      url: ...
-      class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/orventura/?originalSubdomain=es
       class: icon-linkedin
       
 - name: Dra. Elena
@@ -561,24 +554,25 @@
       
 - name: Dra. María Isabel
   lastname: Rivera Barraza
-  position: Profesor Contratado
+  position: Profesor Asistente
   organization: Universidad de Concepción
   department: Dpto. de Urbanismo
-  pic: user_placeholder.png
+  pic: rivera.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - confort térmico
+    - calidad de aire
+    - calidad ambiental
+    - colegios
   email: 
     - title: E-mail
       url: mariaisrivera@udec.cl
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/Maria-Rivera-41
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/maria-isabel-rivera-6b665a140/
       class: icon-linkedin
       
 - name: Sra. Claudia
