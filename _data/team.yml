@@ -197,6 +197,9 @@
       url: aitor.avila@urv.cat
       class: icon-mail
   social:
+    - title: home
+      url: https://aitoravila.github.io/
+      class: icon-home
     - title: linkedin
       url: https://es.linkedin.com/in/aitor-avila-callau-411065a8
       class: icon-linkedin
