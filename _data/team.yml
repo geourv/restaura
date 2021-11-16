@@ -135,25 +135,18 @@
       
 - name: Dr. Sergi
   lastname: Saladié Gil
-  position: Profesor Titular
+  position: Profesor Asociado
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
-  pic: user_placeholder.png
+  pic: saladie.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - paisatge
+    - planejament territorial
+    - transició energètica
   email: 
     - title: E-mail
       url: sergi.saladie@urv.cat
-      class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin 
+      class: icon-mail 
       
 - name: Dr. David
   lastname: Serrano Giné
@@ -282,26 +275,27 @@
       url: ...
       class: icon-linkedin
       
-- name: Dra. Rosa Dolores
+- name: Dra. Rosa D.
   lastname: Raventós Torner
   position: Profesor/a comisión de servicios (Seguridad Social)
   organization: Universitat Rovira i Virgili
   department: Dpto. de Enfermería 
-  pic: user_placeholder.png
+  pic: raventos.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - adherencia al tratamiento
+    - salud publica
+    - educación para la salud
+    - caring
   email: 
     - title: E-mail
       url: rosadolores.raventos@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.dinfermeria.urv.cat/ca/recerca/caring/linies/
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/rosa-raventos-torne-3036b33b/
       class: icon-linkedin
       
 - name: Dr. Manel
