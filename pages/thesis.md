@@ -44,13 +44,13 @@ El principal objetivo de la tesis es caracterizar el paisaje periurbano de Tarra
     
 Los objetivos específicos son los siguientes: 
 
-        -Analizar el uso público y la recreación al aire libre del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
+1. Analizar el uso público y la recreación al aire libre del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     
-        -Identificar y tipificar el uso de los Servicios Ecosistémicos Culturales (SEC) del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
+2. Identificar y tipificar el uso de los Servicios Ecosistémicos Culturales (SEC) del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     
-        -Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un Sistema de Información Geográfica de Participación Pública (SIGPP) y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
+3. Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un Sistema de Información Geográfica de Participación Pública (SIGPP) y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
     
-        -Establecer propuestas de mejora en la gestión y planificación del ámbito de estudio.
+4. Establecer propuestas de mejora en la gestión y planificación del ámbito de estudio.
 
  - __Edgar Bustamante Picón__: ...
     
