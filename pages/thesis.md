@@ -38,7 +38,7 @@ header:
 
 #### Aitor Àvila Callau
     
-__El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG.__
+___El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG.___
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
@@ -56,9 +56,21 @@ Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
     
     4. Establecer propuestas de mejora en la gestión y planificación del ámbito de estudio.
 
- - __Edgar Bustamante Picón__: ...
+#### Edgar Bustamante Picón
+
+___...___
+
+~~~
+Directores: ...
+~~~
     
- - __Montserrat Delpino Chami__: ...
+#### Montserrat Delpino Chami
+    
+___...___
+
+~~~
+Directores: ...
+~~~
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
