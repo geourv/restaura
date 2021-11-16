@@ -89,27 +89,19 @@
       url: ...
       class: icon-linkedin
     
-- name: Dr. Ignacio
+- name: Dr. José Ignacio
   lastname: Muro Morales
   position: Profesor Titular
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - geografía urbana
+    - geografía social
   email: 
     - title: E-mail
       url: joseignacio.muro@urv.cat
       class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Dra. Marta
   lastname: Nel·lo Andreu
@@ -524,21 +516,22 @@
   position: Profesor Contratado
   organization: Universidad Autónoma de Barcelona
   department: EINA
-  pic: user_placeholder.png
+  pic: bartomeu.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - diseño 
+    - creatividad
+    - ingeniería ciudadana
+    - salud y bienestar
   email: 
     - title: E-mail
       url: elena.bartomeu@eina.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://orcid.org/my-orcid?orcid=0000-0001-7634-6153
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/elena-bartomeu-b555593/
       class: icon-linkedin
       
 - name: Dra. Andrea
