@@ -41,7 +41,7 @@ header:
 > El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG.
 
 ~~~
-_Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González_
+Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 ~~~
 
 El principal objetivo de la tesis es caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios a partir de fuentes procedentes de la Información Geográfica Voluntaria (IGV). La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada. 
