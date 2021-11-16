@@ -528,7 +528,7 @@
       class: icon-mail
   social:
     - title: home
-      url: https://orcid.org/my-orcid?orcid=0000-0001-7634-6153
+      url: https://orcid.org/0000-0001-7634-6153
       class: icon-home
     - title: linkedin
       url: https://www.linkedin.com/in/elena-bartomeu-b555593/
