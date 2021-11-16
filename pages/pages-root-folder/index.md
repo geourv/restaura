@@ -43,7 +43,7 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 
 ## Detalles del proyecto
 
-- **Referencia:** __PID2020-114363GB-I00__
+- **Referencia:** _PID2020-114363GB-I00_
 - **Investigadora principal:** Yolanda Pérez Albert
 - **Entidad solicitante:** Universitat Rovira i Virgili
 - **Centro:** Departamento de Geografía
