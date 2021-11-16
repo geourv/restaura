@@ -591,27 +591,20 @@
       url: ...
       class: icon-linkedin
       
-- name: Sra. Claudia Angélica
+- name: Sra. Claudia
   lastname: Cerda Inostroza
-  position: Profesor Contratado
+  position: Profesor Honorarios
   organization: Universidad de Concepción
   department: Dpto. de Urbanismo
-  pic: user_placeholder.png
+  pic: cerda.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - espacio público
+    - riesgos
+    - sustentabilidad
   email: 
     - title: E-mail
       url: claudiacerdaml@gmail.com
       class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Sra. Montserrat
   lastname: Delpino Chamy
