@@ -67,6 +67,10 @@ header:
 {% if member.department %}
 	<i>{{ member.department }}</i><br/>
 {% endif %}
+	
+{% if member.position %}
+	<i>{{ member.position }}</i><br/>
+{% endif %}
 
 
 <strong>Palabras clave:</strong>
