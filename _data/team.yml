@@ -405,8 +405,8 @@
 - name: Dr. Pau
   lastname: Solà-Morales Serra
   position: Profesor Contratado
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
+  organization: EINA
+  department: 
   pic: user_placeholder.png
   keywords:
     - ...
@@ -427,8 +427,8 @@
 - name: Dr. Salvador
   lastname: Huertas 
   position: Profesor Contratado
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
+  organization: EINA
+  department: 
   pic: huertas.jpg
   keywords:
     - salud
@@ -447,30 +447,24 @@
 - name: Dr. David
   lastname: Steegmann Mangrané
   position: Profesor Contratado
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
-  pic: user_placeholder.png
+  organization: EINA
+  department: 
+  pic: steegman.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - salud   
+    - bienestar
+    - ciudad
+    - comida
   email: 
     - title: E-mail
       url: dsteegmann@eina.cat
       class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Dr. Raúl
   lastname: Oliva Santos
   position: Profesor Contratado
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
+  organization: EINA
+  department: 
   pic: user_placeholder.png
   keywords:
     - ...
@@ -491,8 +485,8 @@
 - name: Dr. Oriol
   lastname: Ventura Rodà
   position: Profesor Lector
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
+  organization: EINA
+  department: 
   pic: oriol.jpg
   keywords:
     - diseño espacios 
@@ -510,8 +504,8 @@
 - name: Dra. Elena
   lastname: Bartomeu Magaña
   position: Profesor Contratado
-  organization: Universidad Autónoma de Barcelona
-  department: EINA
+  organization: EINA
+  department: 
   pic: bartomeu.png
   keywords:
     - diseño 
