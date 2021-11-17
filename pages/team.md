@@ -69,7 +69,7 @@ header:
 {% endif %}
 	
 {% if member.position %}
-	<i>{{ member.position }}</i><br/>
+	{{ member.position }}<br/>
 {% endif %}
 
 
