@@ -11,7 +11,7 @@ meta_teaser: "RESTAURA ha servido como marco para el desarrollo de distintos tra
 
 
 header:
-    image_fullwidth: pasarela-vila-seca2.jpg
+    image_fullwidth: tesis.jpg
     background-color: "#262930"
     caption: 
 ---
