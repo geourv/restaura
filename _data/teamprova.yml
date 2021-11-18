@@ -1,0 +1,67 @@
+- name: Dra. Yolanda
+  lastname: Pérez-Albert
+  position: Investigadora Principal
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - GIS
+    - ordenación del territorio
+    - geografía
+  email: 
+    - title: E-mail
+      url: myolanda.perez@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Yolanda-Perez-3
+      class: icon-home
+
+- name: Dr. Benito
+  lastname: Zaragozí
+  position: Profesor Lector
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: benito_zaragozi.jpg
+  keywords:
+    - GIS
+    - geodatabases
+    - data mining
+    - giscience
+  email: 
+    - title: E-mail
+      url: benito.zaragozi@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://benito-zaragozi.com
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
+      class: icon-linkedin
+    - title: github
+      url: https://github.com/benizar
+      class: icon-github
+   
+- name: Dr. Joan
+  lastname: Alberich
+  position: Profesor Agregado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: alberich2.png
+  keywords:
+    - demografía
+    - geografía de la población
+    - justicia ambiental
+    - SIGPP
+  email: 
+    - title: E-mail
+      url: joan.alberich@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/scientific-contributions/Joan-Alberich-Gonzalez-21997065
+      class: icon-home
+    - title: linkedin
+      url: http://movilidadyurbanismo.blogspot.com/
+      class: icon-linkedin
