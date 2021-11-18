@@ -86,7 +86,7 @@ header:
 </li>
 {% endfor %}
 
-NewLine()
+{{ value|linebreaks }}
 	
 
 {% for member in site.data.teamprova %}
