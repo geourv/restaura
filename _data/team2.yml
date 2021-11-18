@@ -1,0 +1,88 @@
+- name: Dr. Sebastià
+  lastname: Mas-Alòs
+  position: Profesor Titular
+  organization: INEFC
+  department: INEFC Lleida
+  pic: sebas.png
+  keywords:
+    - HEPA
+    - ejercicio físico
+    - condición física
+    - promoción de la salud
+  email: 
+    - title: E-mail
+      url: smasalos@gencat.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://inefc.gencat.cat/ca/inefc_lleida/coneix_inefc/professorat/detalls/mas_alos 
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/sebasmas/
+      class: icon-linkedin
+      
+- name: Dra. Estela Inés
+  lastname: Farias Torbidoni
+  position: Profesor Titular
+  organization: INEFC
+  department: INEFC Lleida
+  pic: estela.png
+  keywords:
+    - Espacios Naturales Protegidos 
+    - gestión del uso público
+    - turismo sostenible
+  email: 
+    - title: E-mail
+      url: efarias@inefc.es
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Estela-Farias-Torbidoni/research
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/estela-in%C3%A9s-far%C3%ADas-torbidoni-a44b9a11/?originalSubdomain=es
+      class: icon-linkedin
+      
+- name: Dr. Sergi
+  lastname: Matas Garcia
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: smatasg@gencat.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Javier Manuel
+  lastname: Peirau Terés
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: xpeirau@inef.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
