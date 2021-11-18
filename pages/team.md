@@ -86,9 +86,9 @@ header:
 </li>
 {% endfor %}
 
-<head>
-    <title>{% block title %}My amazing site{% endblock %}</title>
-</head>
+{% block content %}
+    <h1>Welcome</h1>
+{% endblock content %}
 
 {% for member in site.data.teamprova %}
 
