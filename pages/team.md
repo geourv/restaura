@@ -145,5 +145,5 @@ header:
 {% for keyword in member.keywords %}
 	<li><code class="highlighter-rouge">{{ keyword }}</code></li>
 {% endfor %}
-</ul>
+
 
