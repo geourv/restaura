@@ -87,7 +87,7 @@ header:
 {% endfor %}
 </ul>
 
-## INEFC
+## Instituto Nacional de Educación Física de Cataluña (INEFC)
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
@@ -153,7 +153,7 @@ header:
 {% endfor %}
 </ul>
 
-## EINA
+## Centro de Diseño y Arte de Barcelona (EINA)
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
