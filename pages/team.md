@@ -88,8 +88,10 @@ header:
 
 ## prova
 
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
-{% for member in site.data.teamprova %}
+
+{% for member in site.data.team %}
 
 
 <li>
@@ -142,5 +144,11 @@ header:
 {% for keyword in member.keywords %}
 	<li><code class="highlighter-rouge">{{ keyword }}</code></li>
 {% endfor %}
+</ul>
 
+
+</div> <!-- http://schema.org/Person -->
+</li>
+{% endfor %}
+</ul>
 
