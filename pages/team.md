@@ -87,7 +87,7 @@ header:
 {% endfor %}
 
 	
-{{ page.title }}
+{% endfor %}
 
 <h2>prova</h2>
 
