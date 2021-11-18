@@ -86,10 +86,7 @@ header:
 </li>
 {% endfor %}
 
-	
-{% for %}
-  {{ provaaa }}
-{% endfor %}
+{% end %}
 
 <h2>prova</h2>
 
