@@ -86,7 +86,7 @@ header:
 </li>
 {% endfor %}
 
-{% end %}
+{% endblock %}
 
 <h2>prova</h2>
 
