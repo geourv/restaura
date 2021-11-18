@@ -86,9 +86,7 @@ header:
 </li>
 {% endfor %}
 
-{% block content %}
-    <h1>Welcome</h1>
-{% endblock content %}
+{% include "template-name" %}
 
 {% for member in site.data.teamprova %}
 
