@@ -87,7 +87,7 @@ header:
 {% endfor %}
 	
 
-<br align="right">prova</br>
+<br>prova</br>
 	
 	
 {% for member in site.data.teamprova %}
