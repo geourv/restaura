@@ -87,7 +87,7 @@ header:
 {% endfor %}
 
 	
-{% break %}
+{{ page.title }}
 
 <h2>prova</h2>
 
