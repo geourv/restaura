@@ -1,0 +1,42 @@
+- name: Dra. Marianela
+  lastname: Camacho Fuenmayor
+  position: Profesor Asociado
+  organization: Universidad de Zulia
+  department: Dpto. de Teoría y Práctica de la Arquitectura y del Diseño
+  pic: marianela.png
+  keywords:
+    - turismo
+    - desarrollo local
+    - pueblo pemón
+    - canaima
+  email: 
+    - title: E-mail
+      url: mcamachof@gmail.com
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/marianela-camacho-fuenmayor-04928353/
+      class: icon-linkedin
+      
+- name: Sra. Carolina A.
+  lastname: Quintero Sandrea
+  position: Profesor Titular
+  organization: Universidad de Zulia
+  department: Dpto. de Teoría y Práctica de la Arquitectura y del Diseño
+  pic: quintero.jpg
+  keywords:
+    - espacio urbano  
+    - paisaje sonoro
+    - diseño arquitectónico
+    - gestión urbana
+  email: 
+    - title: E-mail
+      url: caquinsa@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: www.researchgate.net/profile/Carolina-Quintero-8
+      class: icon-home
+    - title: linkedin
+      url: https://ve.linkedin.com/in/carolina-quintero-sandrea-03a1a272
+      class: icon-linkedin
