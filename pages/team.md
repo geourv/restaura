@@ -85,8 +85,10 @@ header:
 </div> <!-- http://schema.org/Person -->
 </li>
 {% endfor %}
+	
+<br>provaaa</br>
 
-{{ newline_to_br }}
+<br>provaaa</br>
 
 {% for member in site.data.teamprova %}
 
