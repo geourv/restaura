@@ -86,9 +86,9 @@ header:
 </li>
 {% endfor %}
 
-{% endblock %}
-
-<h2>prova</h2>
+<head>
+    <title>{% block title %}My amazing site{% endblock %}</title>
+</head>
 
 {% for member in site.data.teamprova %}
 
