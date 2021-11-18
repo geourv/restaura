@@ -626,24 +626,25 @@
       url: https://www.linkedin.com/in/marianela-camacho-fuenmayor-04928353/
       class: icon-linkedin
       
-- name: Sra. Carolina
+- name: Sra. Carolina A.
   lastname: Quintero Sandrea
-  position: Profesor Contratado
+  position: Profesor Titular
   organization: Universidad de Zulia
   department: Dpto. de Teoría y Práctica de la Arquitectura y del Diseño
-  pic: user_placeholder.png
+  pic: quintero.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - espacio urbano  
+    - paisaje sonoro
+    - diseño arquitectónico
+    - gestión urbana
   email: 
     - title: E-mail
       url: caquinsa@gmail.com
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: www.researchgate.net/profile/Carolina-Quintero-8
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://ve.linkedin.com/in/carolina-quintero-sandrea-03a1a272
       class: icon-linkedin
