@@ -1,0 +1,121 @@
+- name: Dr. Pau
+  lastname: Solà-Morales Serra
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: pau.desolamorales@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Pau-Sola-Morales
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/pau-de-sol%C3%A0-morales-7060533b
+      class: icon-linkedin
+      
+- name: Dr. Salvador
+  lastname: Huertas 
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: huertas.jpg
+  keywords:
+    - salud
+    - diseño de experiencia
+    - bienestar
+    - usabilidad
+  email: 
+    - title: E-mail
+      url: shuertas@eina.cat
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/salvador-huertas-919078167/
+      class: icon-linkedin
+      
+- name: Dr. David
+  lastname: Steegmann Mangrané
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: steegman.jpg
+  keywords:
+    - salud   
+    - bienestar
+    - ciudad
+    - comida
+  email: 
+    - title: E-mail
+      url: dsteegmann@eina.cat
+      class: icon-mail
+      
+- name: Dr. Raúl
+  lastname: Oliva Santos
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: roliva@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Oriol
+  lastname: Ventura Rodà
+  position: Profesor Lector
+  organization: EINA
+  department: 
+  pic: oriol.jpg
+  keywords:
+    - diseño espacios 
+    - salut
+    - usuario
+  email: 
+    - title: E-mail
+      url: oventura@eina.cat
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/orventura/?originalSubdomain=es
+      class: icon-linkedin
+      
+- name: Dra. Elena
+  lastname: Bartomeu Magaña
+  position: Profesor Contratado
+  organization: EINA
+  department: 
+  pic: bartomeu.png
+  keywords:
+    - diseño 
+    - creatividad
+    - ingeniería ciudadana
+    - salud y bienestar
+  email: 
+    - title: E-mail
+      url: elena.bartomeu@eina.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://orcid.org/0000-0001-7634-6153
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/elena-bartomeu-b555593/
+      class: icon-linkedin
