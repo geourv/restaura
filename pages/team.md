@@ -86,9 +86,10 @@ header:
 </li>
 {% endfor %}
 
-<br/>
-Hello<br/>
-there<br/>
+{% capture string_with_newlines %}
+Hello
+there
+{% endcapture %}
 	
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
