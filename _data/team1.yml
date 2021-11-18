@@ -1,0 +1,313 @@
+- name: Dra. Yolanda
+  lastname: Pérez-Albert
+  position: Investigadora Principal
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - GIS
+    - ordenación del territorio
+    - geografía
+  email: 
+    - title: E-mail
+      url: myolanda.perez@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Yolanda-Perez-3
+      class: icon-home
+
+- name: Dr. Benito
+  lastname: Zaragozí
+  position: Profesor Lector
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: benito_zaragozi.jpg
+  keywords:
+    - GIS
+    - geodatabases
+    - data mining
+    - giscience
+  email: 
+    - title: E-mail
+      url: benito.zaragozi@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://benito-zaragozi.com
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
+      class: icon-linkedin
+    - title: github
+      url: https://github.com/benizar
+      class: icon-github
+   
+- name: Dr. Joan
+  lastname: Alberich
+  position: Profesor Agregado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: alberich2.png
+  keywords:
+    - demografía
+    - geografía de la población
+    - justicia ambiental
+    - SIGPP
+  email: 
+    - title: E-mail
+      url: joan.alberich@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/scientific-contributions/Joan-Alberich-Gonzalez-21997065
+      class: icon-home
+    - title: linkedin
+      url: http://movilidadyurbanismo.blogspot.com/
+      class: icon-linkedin
+   
+- name: Dr. Jordi 
+  lastname: Blay Boqué
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: jordi.blay@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+    
+- name: Dr. José Ignacio
+  lastname: Muro Morales
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - geografía urbana
+    - geografía social
+  email: 
+    - title: E-mail
+      url: joseignacio.muro@urv.cat
+      class: icon-mail
+      
+- name: Dra. Marta
+  lastname: Nel·lo Andreu
+  position: Profesor Titular
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: martagemma.nello@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dr. Sergi
+  lastname: Saladié Gil
+  position: Profesor Asociado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: saladie.png
+  keywords:
+    - paisatge
+    - planejament territorial
+    - transició energètica
+  email: 
+    - title: E-mail
+      url: sergi.saladie@urv.cat
+      class: icon-mail 
+      
+- name: Dr. David
+  lastname: Serrano Giné
+  position: Profesor Tutor
+  organization: Universidad Nacional de Educación a Distancia
+  department: Dpto. de Geografía
+  pic: serrano.png
+  keywords:
+    - GIS
+    - paisaje
+    - Espacios Naturales Protegidos 
+  email: 
+    - title: E-mail
+      url: dserrano@terrassa.uned.es
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/David-Serrano-Gine
+      class: icon-home
+      
+- name: Sr. Edgar 
+  lastname: Bustamante Picón
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: edgar.bustamante@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+ 
+- name: Sr. Aitor
+  lastname: Àvila
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: aitor.png
+  keywords:
+    - GIS
+    - geografia
+    - IGV
+    - SEC
+  email: 
+    - title: E-mail
+      url: aitor.avila@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://aitoravila.github.io/
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/aitor-avila-callau-411065a8
+      class: icon-linkedin
+      
+- name: Sr. Jordi 
+  lastname: Andreu Bertran
+  position: Técnico de Grupo de Investigación
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: jordi.andreu@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Sr. Josep Maria 
+  lastname: Solé Gras
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Escuela Técnica Superior de Arquitectura
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: josepmaria.sole@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. Maria Roser
+  lastname: Cuesta Martínez
+  position: Profesor Visitante
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Enfermería 
+  pic: roser.jpg
+  keywords:
+    - enfermería
+    - cuidado
+    - docencia
+    - aprendizaje
+  email: 
+    - title: E-mail
+      url: mariaroser.cuesta@urv.cat
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/m-roser-cuesta-mart%C3%ADnez-94250295
+      class: icon-linkedin
+      
+- name: Dra. Rosa D.
+  lastname: Raventós Torner
+  position: Profesor/a comisión de servicios (Seguridad Social)
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Enfermería 
+  pic: raventos.png
+  keywords:
+    - adherencia al tratamiento
+    - salud pública
+    - educación para la salud
+    - caring
+  email: 
+    - title: E-mail
+      url: rosadolores.raventos@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.dinfermeria.urv.cat/ca/recerca/caring/linies/
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/rosa-raventos-torne-3036b33b/
+      class: icon-linkedin
+      
+- name: Dr. Manel
+  lastname: González Peris
+  position: Profesor asociado
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Medicina y Cirugía 
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: manuel.gonzalez@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
