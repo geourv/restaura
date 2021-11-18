@@ -87,9 +87,7 @@ header:
 {% endfor %}
 	
 
-<h1>prova</h1>
-	
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+<br align="right">prova</br>
 	
 	
 {% for member in site.data.teamprova %}
