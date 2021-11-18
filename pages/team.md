@@ -80,9 +80,9 @@ header:
 {% endfor %}
 </ul>
 
-<h2>holaa</h2>
 
 </div> <!-- http://schema.org/Person -->
 </li>
 {% endfor %}
 	
+<h2>provaa</h2>
