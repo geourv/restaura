@@ -86,7 +86,12 @@ header:
 </li>
 {% endfor %}
 
-{% include "template-name" %}
+{% capture string_with_newlines %}
+Hello
+there
+{% endcapture %}
+
+{{ string_with_newlines | newline_to_br }}
 
 {% for member in site.data.teamprova %}
 
