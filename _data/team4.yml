@@ -1,0 +1,81 @@
+- name: Dra. Andrea
+  lastname: Fernandez Covarrubias
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: andreafercov@gmail.com
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
+      
+- name: Dra. María Isabel
+  lastname: Rivera Barraza
+  position: Profesor Asistente
+  organization: Universidad de Concepción
+  department: Dpto. de Arquitectura
+  pic: rivera.jpg
+  keywords:
+    - confort térmico
+    - calidad de aire
+    - calidad ambiental
+    - colegios
+  email: 
+    - title: E-mail
+      url: mariaisrivera@udec.cl
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Maria-Rivera-41
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/maria-isabel-rivera-6b665a140/
+      class: icon-linkedin
+      
+- name: Sra. Claudia
+  lastname: Cerda Inostroza
+  position: Profesor Honorarios
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: cerda.png
+  keywords:
+    - espacio público
+    - riesgos
+    - sustentabilidad
+  email: 
+    - title: E-mail
+      url: claudiacerdaml@gmail.com
+      class: icon-mail
+      
+- name: Sra. Montserrat
+  lastname: Delpino Chamy
+  position: Profesor Contratado
+  organization: Universidad de Concepción
+  department: Dpto. de Urbanismo
+  pic: user_placeholder.png
+  keywords:
+    - ...
+    - ...
+    - ...
+  email: 
+    - title: E-mail
+      url: mdelpino@udec.cl
+      class: icon-mail
+  social:
+    - title: home
+      url: ...
+      class: icon-home
+    - title: linkedin
+      url: ...
+      class: icon-linkedin
