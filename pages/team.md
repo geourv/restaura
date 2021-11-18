@@ -86,7 +86,7 @@ header:
 </li>
 {% endfor %}
 
-{{ string_with_newlines | newline_to_br }}
+{{ newline_to_br }}
 
 {% for member in site.data.teamprova %}
 
