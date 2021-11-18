@@ -86,10 +86,7 @@ header:
 </li>
 {% endfor %}
 
-{% capture %}
-Hello
-there
-{% endcapture %}
+NewLine()
 	
 
 {% for member in site.data.teamprova %}
