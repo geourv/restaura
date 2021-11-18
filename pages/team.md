@@ -86,13 +86,11 @@ header:
 </li>
 {% endfor %}
 
-{% capture string_with_newlines %}
+{% capture %}
 Hello
 there
 {% endcapture %}
 	
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-
 
 {% for member in site.data.teamprova %}
 
