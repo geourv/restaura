@@ -87,12 +87,12 @@ header:
 {% endfor %}
 	
 	
-<h1> prova <br>
 	
 	
 {% for member in site.data.teamprova %}
 
-
+<h1>prova</h1>
+	
 <li>
 <div itemscope itemtype="http://schema.org/Person">
 
