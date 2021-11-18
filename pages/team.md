@@ -86,7 +86,8 @@ header:
 </li>
 {% endfor %}
 
-{% linebreaks %}
+	
+{% break %}
 	
 
 {% for member in site.data.teamprova %}
