@@ -81,18 +81,13 @@ header:
 </ul>
 
 
+	
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
-</div> <!-- http://schema.org/Person -->
-</li>
-{% endfor %}
-	
 
-<br>prova</br>
-	
-	
 {% for member in site.data.teamprova %}
 
-	
+
 <li>
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -144,9 +139,11 @@ header:
 	<li><code class="highlighter-rouge">{{ keyword }}</code></li>
 {% endfor %}
 </ul>
-
-
+	
+	
 
 </div> <!-- http://schema.org/Person -->
 </li>
 {% endfor %}
+	
+
