@@ -139,45 +139,24 @@
       url: sergi.saladie@urv.cat
       class: icon-mail 
       
-- name: Dr. David
-  lastname: Serrano Giné
-  position: Profesor Tutor
-  organization: Universidad Nacional de Educación a Distancia
-  department: Dpto. de Geografía
-  pic: serrano.png
-  keywords:
-    - GIS
-    - paisaje
-    - Espacios Naturales Protegidos 
-  email: 
-    - title: E-mail
-      url: dserrano@terrassa.uned.es
-      class: icon-mail
-  social:
-    - title: home
-      url: https://www.researchgate.net/profile/David-Serrano-Gine
-      class: icon-home
-      
 - name: Sr. Edgar 
   lastname: Bustamante Picón
   position: Investigador Predoctoral
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
-  pic: user_placeholder.png
+  pic: edgar.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - justicia ambiental
+    - parques urbanos
+    - SIG
+    - geografía
   email: 
     - title: E-mail
       url: edgar.bustamante@urv.cat
       class: icon-mail
   social:
-    - title: home
-      url: ...
-      class: icon-home
     - title: linkedin
-      url: ...
+      url: https://www.linkedin.com/in/edgar-bustamante-pic%C3%B3n-a989b7175/
       class: icon-linkedin
  
 - name: Sr. Aitor
