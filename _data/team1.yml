@@ -209,17 +209,16 @@
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
   pic: user_placeholder.png
+  keywords:
+    - Soporte y apoyo a la investigación
   email: 
     - title: E-mail
       url: jordi.andreu@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.urv.cat/html/grupsrecerca/investigadors/general-I2369.php
       class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Sr. Josep Maria 
   lastname: Solé Gras
@@ -228,16 +227,16 @@
   department: Escuela Técnica Superior de Arquitectura
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - procesos urbanos
+    - gestión sostenible del territorio
+    - paisaje
   email: 
     - title: E-mail
       url: josepmaria.sole@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: https://www.researchgate.net/profile/Josep-Maria-Sole-Gras
+      url: https://www.urv.cat/html/docencia-per-centre/general-I21334.php
       class: icon-home
     - title: linkedin
       url: https://es.linkedin.com/in/josep-maria-sole-gras-9b547223
@@ -288,7 +287,7 @@
       
 - name: Dr. Manel
   lastname: González Peris
-  position: Profesor asociado
+  position: Profesor Asociado
   organization: Universitat Rovira i Virgili
   department: Dpto. de Medicina y Cirugía 
   pic: user_placeholder.png
