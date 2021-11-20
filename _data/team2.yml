@@ -1,3 +1,22 @@
+- name: Dr. Javier Manuel
+  lastname: Peirau Terés
+  position: Profesor Contratado
+  organization: INEFC
+  department: INEFC Lleida
+  pic: user_placeholder.png
+  keywords:
+    - educación física
+    - rendimiento deportivo
+    - salud
+  email: 
+    - title: E-mail
+      url: xpeirau@inef.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://inefc.gencat.cat/es/detalls/article/peirau_teres
+      class: icon-home
+
 - name: Dr. Sebastià
   lastname: Mas-Alòs
   position: Profesor Titular
@@ -66,22 +85,5 @@
       url: https://es.linkedin.com/in/sergi-matas-garcia-phd-78ba1960
       class: icon-linkedin
       
-- name: Dr. Javier Manuel
-  lastname: Peirau Terés
-  position: Profesor Contratado
-  organization: INEFC
-  department: INEFC Lleida
-  pic: user_placeholder.png
-  keywords:
-    - educación física
-    - rendimiento deportivo
-    - salud
-  email: 
-    - title: E-mail
-      url: xpeirau@inef.cat
-      class: icon-mail
-  social:
-    - title: home
-      url: https://inefc.gencat.cat/es/detalls/article/peirau_teres
-      class: icon-home
+
    
