@@ -5,20 +5,18 @@
   department: Dpto. de Urbanismo
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - espacio público
+    - regeneración urbana
+    - diseño urbano
+    - arquitectura
   email: 
     - title: E-mail
       url: andreafercov@gmail.com
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: http://faug.udec.cl/?staff_id=155
       class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Dra. María Isabel
   lastname: Rivera Barraza
