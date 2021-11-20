@@ -83,10 +83,10 @@
       class: icon-mail
   social:
     - title: home
-      url: https://scholar.google.com/citations?user=Q2kuzogAAAAJ&hl=ca
+      url: https://iris.urv.cat/ipublic/profile/index/iMarinaID/04-320050/
       class: icon-home
     - title: linkedin
-      url: https://iris.urv.cat/ipublic/profile/index/iMarinaID/04-320050/
+      url: https://scholar.google.com/citations?user=Q2kuzogAAAAJ&hl=ca
       class: icon-linkedin
     
 - name: Dr. José Ignacio
@@ -140,6 +140,10 @@
     - title: E-mail
       url: sergi.saladie@urv.cat
       class: icon-mail 
+  social:
+    - title: home
+      url: https://www.urv.cat/html/docencia-per-centre/general-I11418.php
+      class: icon-home
       
 - name: Dr. David
   lastname: Serrano Giné
@@ -176,6 +180,9 @@
       url: edgar.bustamante@urv.cat
       class: icon-mail
   social:
+    - title: home
+      url: https://www.researchgate.net/profile/Edgar-Bustamante
+      class: icon-home
     - title: linkedin
       url: https://www.linkedin.com/in/edgar-bustamante-pic%C3%B3n-a989b7175/
       class: icon-linkedin
@@ -258,6 +265,9 @@
       url: mariaroser.cuesta@urv.cat
       class: icon-mail
   social:
+    - title: home
+      url: https://www.urv.cat/html/docencia-per-centre/general-I66594.php
+      class: icon-home
     - title: linkedin
       url: https://www.linkedin.com/in/m-roser-cuesta-mart%C3%ADnez-94250295
       class: icon-linkedin
@@ -279,7 +289,7 @@
       class: icon-mail
   social:
     - title: home
-      url: https://www.dinfermeria.urv.cat/ca/recerca/caring/linies/
+      url: https://www.urv.cat/html/docencia-per-centre/general-I56014.php
       class: icon-home
     - title: linkedin
       url: https://www.linkedin.com/in/rosa-raventos-torne-3036b33b/
