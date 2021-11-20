@@ -87,7 +87,7 @@ header:
 {% endfor %}
 </ul>
 
-## Instituto Nacional de Educación Física de Cataluña (INEFC)
+## Institut Nacional d'Educació Física de Catalunya (INEFC)
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
