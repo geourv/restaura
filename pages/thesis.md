@@ -55,7 +55,24 @@ Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
     3. Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un Sistema de Información Geográfica de Participación Pública (SIGPP) y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
     
     4. Establecer propuestas de mejora en la gestión y planificación del ámbito de estudio.
+    
+#### Montserrat Delpino Chami
+    
+___Evaluación de la calidad de los espacios públicos y abiertos mediante plataformas participativas digitales.___
 
+~~~
+Directores: Dra. Yolanda Pérez Albert
+~~~
+    
+Los métodos para evaluar la calidad del entorno urbano considerando la percepción de la ciudadanía han sido históricamente divergentes e imprecisos. No obstante, el surgimiento de recientes plataformas digitales, como aplicaciones móviles (apps) o Sistemas de Información Geográfica de Participación Pública (PPGIS), han abierto nuevas líneas de experimentación e investigación, ofreciendo la posibilidad de renovar los canales de comunicación entre ciudadanía e instituciones.
+    
+Desde esta base, el estudio propone sistematizar indicadores perceptuales para evaluar participativamente la calidad de espacios públicos y abiertos (EPAs), y aplicar la metodología al estudio de casos, aprovechando los beneficios de las nuevas plataformas participativas digitales (DPPs).
+    
+La investigación considera evaluar perceptualmente los EPAs de dos ciudades hispanohablantes, en el norte y sur global; lo que permitirá experimentar nuevas herramientas de gestión urbana, en zonas donde se ha diagnosticado mayor carencia de este tipo de innovaciones.
+   
+    
+    
+    
 #### Edgar Bustamante Picón
 
 ___...___
@@ -64,14 +81,9 @@ ___...___
 Directores: ...
 ~~~
     
-#### Montserrat Delpino Chami
     
-___...___
-
-~~~
-Directores: ...
-~~~
-
+    
+    
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
