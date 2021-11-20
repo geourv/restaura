@@ -1,13 +1,14 @@
 - name: Dr. Pau
-  lastname: Solà-Morales Serra
-  position: Profesor Contratado
+  lastname: Solà-Morales
+  position: Profesor Agregado
   organization: EINA
   department: 
-  pic: user_placeholder.png
+  pic: pau.JPG
   keywords:
-    - ...
-    - ...
-    - ...
+    - ciudad 
+    - complejidad
+    - arquitectura
+    - TIC
   email: 
     - title: E-mail
       url: pau.desolamorales@urv.cat
