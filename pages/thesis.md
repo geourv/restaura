@@ -38,47 +38,46 @@ header:
 
 #### Aitor Àvila Callau
     
-___El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG.___
+___"El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG".___
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 ~~~
 
-- El principal objetivo de la tesis es caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios a partir de fuentes procedentes de la Información Geográfica Voluntaria (IGV). La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada. 
+- El principal objetivo de la tesis es __caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios__ a partir de fuentes procedentes de la __Información Geográfica Voluntaria (IGV)__. La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada. 
     
 - Los objetivos específicos son los siguientes: 
 
-    1. Analizar el uso público y la recreación al aire libre del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
+    1. Analizar el __uso público y la recreación al aire libre__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     
-    2. Identificar y tipificar el uso de los Servicios Ecosistémicos Culturales (SEC) del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
+    2. Identificar y tipificar el uso de los __Servicios Ecosistémicos Culturales (SEC)__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     
-    3. Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un Sistema de Información Geográfica de Participación Pública (SIGPP) y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
+    3. Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un __Sistema de Información Geográfica de Participación Pública (SIGPP)__ y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
     
-    4. Establecer propuestas de mejora en la gestión y planificación del ámbito de estudio.
+    4. Establecer __propuestas de mejora__ en la gestión y planificación del ámbito de estudio.
+    
     
 #### Montserrat Delpino Chami
     
-___Evaluación de la calidad de los espacios públicos y abiertos mediante plataformas participativas digitales.___
+___"Evaluación de la calidad de los espacios públicos y abiertos mediante plataformas participativas digitales".___
 
 ~~~
-Directores: Dra. Yolanda Pérez Albert
+Directora: Dra. Yolanda Pérez Albert
 ~~~
     
-Los métodos para evaluar la calidad del entorno urbano considerando la percepción de la ciudadanía han sido históricamente divergentes e imprecisos. No obstante, el surgimiento de recientes plataformas digitales, como aplicaciones móviles (apps) o Sistemas de Información Geográfica de Participación Pública (PPGIS), han abierto nuevas líneas de experimentación e investigación, ofreciendo la posibilidad de renovar los canales de comunicación entre ciudadanía e instituciones.
+Los métodos para evaluar la calidad del entorno urbano considerando la percepción de la ciudadanía han sido históricamente divergentes e imprecisos. No obstante, el surgimiento de recientes plataformas digitales, como __aplicaciones móviles (apps) o Sistemas de Información Geográfica de Participación Pública (PPGIS)__, han abierto nuevas líneas de experimentación e investigación, ofreciendo la posibilidad de __renovar los canales de comunicación entre ciudadanía e instituciones__.
     
-Desde esta base, el estudio propone sistematizar indicadores perceptuales para evaluar participativamente la calidad de espacios públicos y abiertos (EPAs), y aplicar la metodología al estudio de casos, aprovechando los beneficios de las nuevas plataformas participativas digitales (DPPs).
+Desde esta base, el estudio propone __sistematizar indicadores perceptuales para evaluar participativamente la calidad de espacios públicos y abiertos (EPAs)__, y aplicar la metodología al estudio de casos, aprovechando los beneficios de las nuevas plataformas participativas digitales (DPPs).
     
-La investigación considera evaluar perceptualmente los EPAs de dos ciudades hispanohablantes, en el norte y sur global; lo que permitirá experimentar nuevas herramientas de gestión urbana, en zonas donde se ha diagnosticado mayor carencia de este tipo de innovaciones.
-   
-    
-    
+La investigación considera evaluar perceptualmente los EPAs de dos ciudades hispanohablantes, en el norte y sur global; lo que permitirá experimentar __nuevas herramientas de gestión urbana__, en zonas __donde se ha diagnosticado mayor carencia__ de este tipo de innovaciones.
+       
     
 #### Edgar Bustamante Picón
 
 ___...___
 
 ~~~
-Directores: ...
+Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 ~~~
     
     
