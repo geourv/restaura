@@ -17,7 +17,7 @@ header:
 - [Grupo de Investigación sobre Arquitectura y Patrimonio (PATRIARQ)](https://www.etsa.urv.cat/es/investigacion/patrimoni-historic/). Escuela Técnica Sup. de Arquitectura. Universitat Rovira i Virgili.
 - [Departamento de Enfermería](https://www.dinfermeria.urv.cat/es/) y [Departamento de Medicina y Cirugía](https://www.medicinaicirurgia.urv.cat/es/). Universitat Rovira i Virgili.
 - [Grupo de Investigación del Movimiento Humano](https://inefc.gencat.cat/es/inefc/recerca_i_doctorat/grups_de_recerca/grup_recerca_moviment_huma/). Instituto Nacional de Educación Física de Cataluña.
-- [Grupo de Diseño para la Salud y el Bienestar](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). Centro de Diseño y Arte de Barcelona (EINA). Universidad Autónoma de Barcelona.
+- [Grupo de Diseño para la Salud y el Bienestar](https://www.eina.cat/es/investigacion/grupo-investigacion-diseno-salud-bienestar). EINA, Centro de Diseño y Arte de Barcelona. Universidad Autónoma de Barcelona.
 - [Departamento de Urbanismo](http://faug.udec.cl/?page_id=14265). Universidad de Concepción (Chile).
 - [Departamento de Teoría y Práctica de la Arquitectura y del Diseño](https://www.universia.net/uy/universidades/universidad-zulia.01043.html). Universidad de Zulia (Venezuela).
 
@@ -153,7 +153,7 @@ header:
 {% endfor %}
 </ul>
 
-## Centro de Diseño y Arte de Barcelona (EINA)
+## EINA, Centre Universitari de Disseny i Art de Barcelona
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
