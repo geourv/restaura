@@ -73,19 +73,20 @@
   department: Dpto. de Geografía
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - geografía rural
+    - desarrollo rural
+    - migraciones
+    - ordenación del territorio
   email: 
     - title: E-mail
       url: jordi.blay@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://scholar.google.com/citations?user=Q2kuzogAAAAJ&hl=ca
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://iris.urv.cat/ipublic/profile/index/iMarinaID/04-320050/
       class: icon-linkedin
     
 - name: Dr. José Ignacio
@@ -101,28 +102,29 @@
     - title: E-mail
       url: joseignacio.muro@urv.cat
       class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Ignacio-Morales-2
+      class: icon-home
       
 - name: Dra. Marta
   lastname: Nel·lo Andreu
-  position: Profesor Titular
+  position: Profesor Agregado
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - cooperación y desarrollo
+    - servicios ecosistémicos
+    - turismo sostenible y de bienestar
   email: 
     - title: E-mail
       url: martagemma.nello@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/Marta-Andreu
       class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Dr. Sergi
   lastname: Saladié Gil
@@ -207,10 +209,6 @@
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
   pic: user_placeholder.png
-  keywords:
-    - ...
-    - ...
-    - ...
   email: 
     - title: E-mail
       url: jordi.andreu@urv.cat
@@ -239,10 +237,10 @@
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/Josep-Maria-Sole-Gras
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://es.linkedin.com/in/josep-maria-sole-gras-9b547223
       class: icon-linkedin
       
 - name: Dra. Maria Roser
@@ -295,17 +293,18 @@
   department: Dpto. de Medicina y Cirugía 
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - medicina
+    - educación
+    - actividad física
+    - deporte
   email: 
     - title: E-mail
       url: manuel.gonzalez@urv.cat
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.urv.cat/html/docencia-per-centre/general-I27166.php
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://es.linkedin.com/in/mgperis
       class: icon-linkedin
