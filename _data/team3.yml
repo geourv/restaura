@@ -64,20 +64,12 @@
   department: 
   pic: user_placeholder.png
   keywords:
-    - ...
-    - ...
-    - ...
+    - diseño
+    - arquitectura
   email: 
     - title: E-mail
       url: roliva@eina.cat
       class: icon-mail
-  social:
-    - title: home
-      url: ...
-      class: icon-home
-    - title: linkedin
-      url: ...
-      class: icon-linkedin
       
 - name: Dr. Oriol
   lastname: Ventura Rodà
