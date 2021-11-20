@@ -59,23 +59,22 @@
       class: icon-mail
       
 - name: Sra. Montserrat
-  lastname: Delpino Chamy
-  position: Profesor Contratado
+  lastname: Delpino-Chamy
+  position: Profesor Asistente
   organization: Universidad de Concepción
   department: Dpto. de Urbanismo
-  pic: user_placeholder.png
+  pic: delpino.jpg
   keywords:
-    - ...
-    - ...
-    - ...
+    - calidad del entorno urbano
+    - indicadores de percepción
   email: 
     - title: E-mail
       url: mdelpino@udec.cl
       class: icon-mail
   social:
     - title: home
-      url: ...
+      url: https://www.researchgate.net/profile/Montserrat-Delpino-Chamy
       class: icon-home
     - title: linkedin
-      url: ...
+      url: https://cl.linkedin.com/in/montserratdelpino
       class: icon-linkedin
