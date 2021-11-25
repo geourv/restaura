@@ -1,14 +1,13 @@
 - name: Dra. Andrea
-  lastname: Fernandez Covarrubias
-  position: Profesor Contratado
+  lastname: Fernández Covarrubias
+  position: Profesor Colaborador
   organization: Universidad de Concepción
   department: Dpto. de Urbanismo
-  pic: user_placeholder.png
+  pic: andrea.jpg
   keywords:
-    - espacio público
-    - regeneración urbana
-    - diseño urbano
-    - arquitectura
+    - espacios públicos
+    - infraestructura verde
+    - ecología urbana 
   email: 
     - title: E-mail
       url: andreafercov@gmail.com
