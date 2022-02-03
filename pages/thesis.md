@@ -44,9 +44,9 @@ ___"El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tar
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 ~~~
 
-- El principal objetivo de la tesis es __caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios__ a partir de fuentes procedentes de la __Información Geográfica Voluntaria (IGV)__. La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada.
+El principal objetivo de la tesis es __caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios__ a partir de fuentes procedentes de la __Información Geográfica Voluntaria (IGV)__. La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada.
     
-- Los objetivos específicos son los siguientes: 
+Los objetivos específicos son los siguientes: 
     1. Analizar el __uso público y la recreación al aire libre__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     2. Identificar y tipificar el uso de los __Servicios Ecosistémicos Culturales (SEC)__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
     3. Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un __Sistema de Información Geográfica de Participación Pública (SIGPP)__ y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
