@@ -67,7 +67,7 @@ La investigación considera evaluar perceptualmente los EPAs de dos ciudades his
     
 #### Edgar Bustamante Picón
 
-___...___
+___"Justicia ambiental. Análisis y evaluación del acceso de la población a las zonas verdes urbanas en ciudades petroquímicas".___
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
