@@ -73,7 +73,17 @@ ___...___
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 ~~~
     
-    
+__Las áreas verdes urbanas contribuyen a la calidad de vida de los habitantes de una ciudad ofreciendo activos de salud__ -entendidos en este caso como los factores o recursos que mejoran las habilidades de personas, grupos, comunidades o poblaciones para la salud y el bienestar- por lo que estas infraestructuras deben estar presentes, ser fácilmente accesibles para la población y contar con calidad ya que ___deben ser un lugar para pasear, un área para relajarse, para socializarse, para realizar ejercicio físico y para el ocio__. Asimismo, estas áreas han de ser inclusivas, es decir, pensadas para todos los segmentos de la población, especialmente los más sensibles, como los mayores o los niños.
+Así, existe cierto consenso sobre que __las zonas verdes implican beneficios en seis ámbitos__: 1) ayudan a combatir la contaminación y contribuyen a la normalización microclimática; 2) reducen el ruido; 3) mejoran el bienestar emocional y el equilibrio psicofisiológico; 4) mejoran la salud mental y física; 5) fomentan la vida al aire libre y el encuentro social y 6) aumentan la conciencia ambiental. Por lo que los parques urbanos o las zonas verdes urbanas cuentan con activos de salud que ayudan a aumentar la calidad de vida de los habitantes de la ciudad.
+El principal objetivo de la tesis consiste en establecer el grado de justicia ambiental de los parques urbanos mediante la elaboración de un __Índice de Calidad del Parque (ICP)__ y las características sociodemográficas de la población servida prestando especial atención a los mayores y teniendo en cuenta la perspectiva de género. 
+Los objetivos específicos son los siguientes:
+
+- Elaborar una base de datos georreferenciada que almacene indicadores de calidad de los parques a partir de trabajo de gabinete (utilizando SIG) y trabajo de campo.
+- Construir un modelo de Evaluación Multicriterio (EMC) en un Sistema de Información Geográfica (SIG) que permita establecer el ICP.
+- Determinar indicadores indirectos normalizados de las características socioeconómicas de la población servida, el IDH o la renta de las diferentes secciones censales de la localidad, entre otros.
+- Correlacionar el ICP con las características socioeconómicas de la población (segmentada) para obtener los resultados de la justicia espacial en términos de disponibilidad y calidad de las áreas verdes urbanas.
+
+Ámbitos de estudio: Tarragona y Cartagena (España) y Concepción (Chile)   
     
     
 </div><!-- /.medium-8.columns -->
