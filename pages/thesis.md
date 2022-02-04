@@ -1,7 +1,7 @@
 ---
 permalink: "/thesis/"
 layout: page-fullwidth
-title: "Tesis doctorales y trabajos acdémicos derivados del proyecto"
+title: "Tesis doctorales y trabajos académicos derivados del proyecto"
 meta_title: "Tesis"
 subheadline: "Tesis"
 
