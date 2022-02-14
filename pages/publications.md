@@ -37,7 +37,9 @@ header:
 
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197).
     
-- Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2021). Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain). *Preprints*, 2021060554 p. 1-16. [https://doi.org/10.3390/urbansci5030062](https://doi.org/10.3390/urbansci5030062).
+- Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2021). Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain). *Urban Science*. 2021; 5(3):62. [https://doi.org/10.3390/urbansci5030062](https://doi.org/10.3390/urbansci5030062).
+
+- Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2022). Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain). Parreño Castellano, J. M.; Piñeira-Mantiñán, M. J.; González Pérez, J. M. (Eds.). *Fragmented City: International Mobility and Housing in Spain* (p. 113-130). *Urban Science* (MDPI). [https://doi.org/10.3390/books978-3-0365-2829-8](https://www.mdpi.com/books/pdfview/book/4974).
 
 
 ## Seminarios y congresos
