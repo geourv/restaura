@@ -2,12 +2,12 @@
 permalink: "/publications/"
 layout: page-fullwidth
 title: "Publicaciones derivadas del proyecto"
-meta_title: "Publicaciones"
+meta_title: "Publicaciones del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Publicacions del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 subheadline: "Publicaciones"
 
 teaser: "A continuación se muestran las publicaciones derivadas del Proyecto RESTAURA, organizadas por categorias."
 
-meta_teaser: "RESTAURA ofrece información..."
+meta_teaser: "Publicaciones del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Publicacions del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 
 
 header:
