@@ -2,14 +2,14 @@
 permalink: "/objectives/"
 layout: page-fullwidth
 title: "Objetivos del Proyecto"
-meta_title: "Objetivos"
+meta_title: "Objetivos del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV) y del Departamento de Geografía. Investigadora principal (IP): Maria Yolanda Pérez Albert. Objectius del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV) i del Departament de Geografia."
 subheadline: "Objetivos"
 
 teaser: "'Servicios  Ecosistémicos  Culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos'." 
 
 
 
-meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
+meta_teaser: "Objetivos del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV) y del Departamento de Geografía. Investigadora principal (IP): Maria Yolanda Pérez Albert. Objectius del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV) i del Departament de Geografia."
 
 
 header:
