@@ -2,14 +2,14 @@
 permalink: "/background/"
 layout: page-fullwidth
 title: "Proyectos CHORA y SPATIUM"
-meta_title: "Antecedentes"
+meta_title: "Antecedentes del Proyecto de Investigación RESTAURA de la URV: Proyecto CHORA y Proyecto SPATIUM"
 subheadline: "Antecedentes"
 
 teaser: "El proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P)." 
 
 
 
-meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
+meta_teaser: "El proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV) avanza temática y metodológicamente la investigación realizada en los proyectos CHORA y SPATIUM"
 
 
 header:
