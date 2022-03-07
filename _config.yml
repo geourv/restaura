@@ -11,10 +11,10 @@
 title: 'RESTAURA'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos'
+slogan: 'El proyecto de investigación RESTAURA . Universitat Rovira i Virgili - URV . Servicios Ecosistémicos Culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos . Yolanda Pérez – IP . salutogénesis o activos de salud y de la diversidad social . '
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Descripción del proyecto restaura...'
+description: 'El proyecto de investigación RESTAURA de la URV se titula Servicios Ecosistémicos Culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
