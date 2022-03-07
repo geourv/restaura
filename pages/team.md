@@ -2,12 +2,12 @@
 permalink: "/team/"
 layout: page-fullwidth
 title: "Investigadores del proyecto"
-meta_title: "Equipo"
+meta_title: "Miembros del equipo del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Membres de l'equip del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 subheadline: "Conozca al equipo"
 
 teaser: "El equipo de este proyecto es <b>multidisciplinar</b> e <b>internacional</b>. En total, incorpora <b>31 investigadores</b> de los siguientes grupos de investigación o departamentos:"
 
-meta_teaser: ""
+meta_teaser: "Miembros del equipo del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Membres de l'equip del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 
 header:
     image_fullwidth: park-people2.jpg
