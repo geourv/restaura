@@ -2,12 +2,12 @@
 permalink: "/thesis/"
 layout: page-fullwidth
 title: "Tesis doctorales y trabajos académicos derivados del proyecto"
-meta_title: "Tesis"
+meta_title: "Tesis doctorales del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Tesis doctorals del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 subheadline: "Tesis"
 
 teaser: ""
 
-meta_teaser: "RESTAURA ha servido como marco para el desarrollo de distintos trabajos..."
+meta_teaser: "Tesis doctorales del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Tesis doctorals del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 
 
 header:
