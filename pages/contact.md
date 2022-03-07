@@ -3,7 +3,7 @@ permalink: "/contact/"
 
 layout: page-fullwidth
 title: "Información de contacto"
-meta_title: "Contactar"
+meta_title: "Contacta con el Proyecto de investigación RESTAURA."
 subheadline: "Contactar"
 teaser: ""
 
