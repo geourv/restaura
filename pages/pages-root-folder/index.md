@@ -1,13 +1,13 @@
 ---
 permalink: "/index.html"
 layout: page-fullwidth
-title: "El Proyecto RESTAURA:"
-meta_title: "El proyecto RESTAURA surge..."
+title: "El Proyecto RESTAURA"
+meta_title: "Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV). Investigadora principal (IP): Maria Yolanda Pérez Albert. Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV)."
 subheadline: "Información"
 
 teaser: "Es un proyecto de investigación titulado 'Servicios Ecosistémicos Culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos'. Está financiado por el Programa Estatal de Investigación, Desarrollo e Innovación para la Generación de Conocimiento, en el marco del Plan Estatal de Investigación Científica y Técnica y de Innovación 2021-2024."
 
-meta_teaser: "Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos."
+meta_teaser: "El proyecto de investigación RESTAURA está liderado por la doctora Yolanda Pérez de la Universitat Rovira i Virgili (URV). Se titula Servicios Ecosistémicos Culturales, salud y bienestar en zonas urbanas y periurbanas con clústeres petroquímicos"
 
 
 header:
