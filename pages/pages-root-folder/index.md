@@ -41,7 +41,7 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 ![Ciclismo por el periurbano de Tarragona](images/bicileta.jpg)
 
 
-## Detalles del proyecto
+## Detalles del proyecto RESTAURA
 
 - **Referencia:** _PID2020-114363GB-I00_
 - **Investigadora principal:** Yolanda Pérez Albert
