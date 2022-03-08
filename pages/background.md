@@ -5,7 +5,7 @@ title: "Proyectos CHORA y SPATIUM"
 meta_title: "Antecedentes del Proyecto de Investigación RESTAURA de la URV: Proyecto CHORA y Proyecto SPATIUM"
 subheadline: "Antecedentes"
 
-teaser: "El proyecto avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P)." 
+teaser: "El proyecto RESTAURA avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P)." 
 
 
 
