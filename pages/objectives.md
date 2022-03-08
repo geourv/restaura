@@ -1,7 +1,7 @@
 ---
 permalink: "/objectives/"
 layout: page-fullwidth
-title: "Objetivos del Proyecto"
+title: "Objetivos del Proyecto RESTAURA"
 meta_title: "Objetivos del Proyecto de investigación RESTAURA de la Universitat Rovira i Virgili (URV) y del Departamento de Geografía. Investigadora principal (IP): Maria Yolanda Pérez Albert. Objectius del Projecte d'investigació RESTAURA de la Universitat Rovira i Virgili (URV) i del Departament de Geografia."
 subheadline: "Objetivos"
 
