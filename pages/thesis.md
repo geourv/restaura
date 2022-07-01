@@ -83,8 +83,18 @@ El principal objetivo de la tesis consiste en establecer el grado de justicia am
 - Determinar indicadores indirectos normalizados de las características socioeconómicas de la población servida, como el nivel de formación, el IDH o la renta.
 - Correlacionar el ICP con las características socioeconómicas de la población (segmentada) para obtener los resultados de la justicia espacial en términos de disponibilidad y calidad de las áreas verdes urbanas.
     
-__Ámbitos de estudio__: Tarragona y Cartagena (España) y Concepción (Chile)   
+__Ámbitos de estudio__: Tarragona y Cartagena (España) y Concepción (Chile).   
     
+    
+#### Mahdi Gheitasi
+
+___"Accessibility and quality of cultural ecosystem services and perception of technological risk".___
+
+~~~
+Directores: Dra. Yolanda Pérez Albert, Dr. David Serrano Giné
+~~~   
+
+Cities now house the vast majority of the world's inhabitants. One of the benefits of urban agglomerations is that they offer more work opportunities as well as quicker access to services and infrastructure. In addition to these benefits, there are also drawbacks, including air and noise pollution, idleness, and a lack of physical activity. The detrimental effects of these communities are more visible in metropolitan areas near petrochemical plants. The petrochemical sector is committed to converting hydrocarbons into chemical products and is structured into massive cluster complexes that necessitate major investments and surface extensions for manufacturing facilities. These industries, which are predominantly dominated by multinational firms, produce in concert, are geographically concentrated and are typically related to port infrastructure. The visual impacts on the landscape are notable for the majority of these reasons, and their productive activity has major implications on nearby urban environments, due to direct or indirect industrial emissions and noise generation (increase in heavy traffic), to the potential accidents they may cause (poisonous clouds, explosions, or fires), which have an impact on the population's mental and physical health. As a direct result of coexistence with other uses and people' perceptions of risk as a result of the effects and accidents, petrochemical production has consequences for the management of metropolitan areas where it is installed. __The goal of this thesis is to identify, evaluate, and assess cultural ecosystem services (CES) in urban and peri-urban landscapes that have been damaged by the presence of petrochemical complexes, from the standpoint of health assets and social variety__.    
     
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
