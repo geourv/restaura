@@ -210,6 +210,29 @@
       url: https://es.linkedin.com/in/aitor-avila-callau-411065a8
       class: icon-linkedin
       
+- name: Sr. Mahdi
+  lastname: Gheitasi
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: mahdi.jpeg
+  keywords:
+    - PPGIS
+    - Salud
+    - Paisaje
+    - SEC
+  email: 
+    - title: E-mail
+      url: mahdi.gheitasi@estudiants.urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/Mahdi-Gheitasi
+      class: icon-home
+    - title: linkedin
+      url: https://www.linkedin.com/in/mahdi-gheitasi-3a374aa0/
+      class: icon-linkedin
+      
 - name: Sr. Jordi 
   lastname: Andreu Bertran
   position: Técnico de Grupo de Investigación
