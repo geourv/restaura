@@ -218,8 +218,8 @@
   pic: mahdi.jpeg
   keywords:
     - PPGIS
-    - Salud
-    - Paisaje
+    - salud
+    - paisaje
     - SEC
   email: 
     - title: E-mail
@@ -231,6 +231,26 @@
       class: icon-home
     - title: linkedin
       url: https://www.linkedin.com/in/mahdi-gheitasi-3a374aa0/
+      class: icon-linkedin
+     
+- name: Sra. Soledad
+  lastname: Camacho
+  position: Investigador Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: soledad.jpg
+  keywords:
+    - justicia ambiental
+    - ecología política
+    - GIS
+    - geografía
+  email: 
+    - title: E-mail
+      url: scamacho@fcien.edu.uy
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: www.linkedin.com/in/soledad-camacho-lorenzo
       class: icon-linkedin
       
 - name: Sr. Jordi 
