@@ -252,6 +252,26 @@
     - title: linkedin
       url: www.linkedin.com/in/soledad-camacho-lorenzo
       class: icon-linkedin
+     
+- name: Sergi
+  lastname: Gilabert
+  position: Becario de proyecto
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: soledad.jpg
+  keywords:
+    - geografía de la salud
+    - activos de salud
+    - actividad física
+    - GIS
+  email: 
+    - title: E-mail
+      url: sergi.gilabert@estudiants.urv.cat
+      class: icon-mail
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sergi-gilabert-navarro-1a82ab1a7/
+      class: icon-linkedin
       
 - name: Sr. Jordi 
   lastname: Andreu Bertran
