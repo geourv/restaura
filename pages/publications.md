@@ -35,6 +35,8 @@ header:
 
 ## Artículos
 
+- Delpino-Chamy, M.; Pérez Albert, Y. (2022) Assessment of Citizens’ Perception of the Built Environment throughout Digital Platforms: A Scoping Review. *Urban Science*. 2022; 6(3):46. [https://doi.org/10.3390/urbansci6030046]
+    
 - Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2022). Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain). Parreño Castellano, J. M.; Piñeira-Mantiñán, M. J.; González Pérez, J. M. (Eds.). *Fragmented City: International Mobility and Housing in Spain* (p. 113-130). *Urban Science*. [https://doi.org/10.3390/books978-3-0365-2829-8](https://www.mdpi.com/books/pdfview/book/4974).
 
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197).
