@@ -34,7 +34,9 @@ header:
 
 
 ## Artículos
-
+ 
+- Bustamante Picón, E.; Alberich González, J.; Pérez Albert, Y.; Muro Morales, J. (2022). Parques urbanos, activos de salud y personas mayores. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona. *Cuadernos de Investigación Urbanística, 0*(142), 59-77. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
+    
 - Delpino-Chamy, M.; Pérez Albert, Y. (2022) Assessment of Citizens’ Perception of the Built Environment throughout Digital Platforms: A Scoping Review. *Urban Science*. 2022; 6(3):46. [https://doi.org/10.3390/urbansci6030046](https://doi.org/10.3390/urbansci6030046)
     
 - Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2022). Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain). Parreño Castellano, J. M.; Piñeira-Mantiñán, M. J.; González Pérez, J. M. (Eds.). *Fragmented City: International Mobility and Housing in Spain* (p. 113-130). *Urban Science*. [https://doi.org/10.3390/books978-3-0365-2829-8](https://www.mdpi.com/books/pdfview/book/4974).
