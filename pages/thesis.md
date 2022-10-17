@@ -60,6 +60,7 @@ ___"Evaluación de la calidad de los espacios públicos y abiertos mediante plat
 
 ~~~
 Directora: Dra. Yolanda Pérez Albert
+Estado: en elaboración
 ~~~
     
 Los métodos para evaluar la calidad del entorno urbano considerando la percepción de la ciudadanía han sido históricamente divergentes e imprecisos. No obstante, el surgimiento de recientes plataformas digitales, como __aplicaciones móviles (apps) o Sistemas de Información Geográfica de Participación Pública (PPGIS)__, han abierto nuevas líneas de experimentación e investigación, ofreciendo la posibilidad de __renovar los canales de comunicación entre ciudadanía e instituciones__.   
@@ -73,6 +74,7 @@ ___"Justicia ambiental. Análisis y evaluación del acceso de la población a la
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
+Estado: en elaboración
 ~~~   
 
 __Las áreas verdes urbanas contribuyen a la calidad de vida de los habitantes de una ciudad ofreciendo activos de salud__, entendidos en este caso como los factores o recursos que mejoran las habilidades de personas, grupos, comunidades o poblaciones para la salud y el bienestar. Por este motivo, las áreas verdes urbanas deben estar presentes, ser fácilmente accesibles para la población y contar con calidad ya que __deben ser un lugar para pasear, un área para relajarse, para socializar, para realizar ejercicio físico y para el ocio__. Asimismo, estas áreas han de ser inclusivas, es decir, pensadas para todos los segmentos de la población, especialmente los más sensibles, como los mayores o los niños.
@@ -94,6 +96,7 @@ ___"Accessibility and quality of cultural ecosystem services and perception of t
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. David Serrano Giné
+Estado: en elaboración
 ~~~   
 
 *Cities now house the vast majority of the world's inhabitants. One of the benefits of urban agglomerations is that they offer more work opportunities as well as quicker access to services and infrastructure. In addition to these benefits, there are also drawbacks, including air and noise pollution, idleness, and a lack of physical activity. The detrimental effects of these communities are more visible in metropolitan areas near petrochemical plants. The petrochemical sector is committed to converting hydrocarbons into chemical products and is structured into massive cluster complexes that necessitate major investments and surface extensions for manufacturing facilities. These industries, which are predominantly dominated by multinational firms, produce in concert, are geographically concentrated and are typically related to port infrastructure. The visual impacts on the landscape are notable for the majority of these reasons, and their productive activity has major implications on nearby urban environments, due to direct or indirect industrial emissions and noise generation (increase in heavy traffic), to the potential accidents they may cause (poisonous clouds, explosions, or fires), which have an impact on the population's mental and physical health. As a direct result of coexistence with other uses and people' perceptions of risk as a result of the effects and accidents, petrochemical production has consequences for the management of metropolitan areas where it is installed. __The goal of this thesis is to identify, evaluate, and assess cultural ecosystem services (CES) in urban and peri-urban landscapes that have been damaged by the presence of petrochemical complexes, from the standpoint of health assets and social variety__*.   
@@ -104,6 +107,7 @@ ___"Medición y análisis de la justicia ambiental en entornos urbanos. Aplicaci
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
+Estado: en elaboración
 ~~~   
 
 En términos generales el concepto de justicia ambiental y su contracara la injusticia ambiental, hace referencia al acceso a los recursos y a la distribución de la contaminación (Pérez-Rincón, 2018), la exclusión social, la desigualdad económica y la discriminación racial, son las principales causas de las situaciones de injusticia ambiental (Prieto-Flores et al., 2017). Es un concepto con un componente geográfico clave, pudiendo investigarse los patrones espaciales y sociales de los efectos del ambiente (Prieto-Flores et al., 2017). La presencia de actividades industriales, y en concreto de complejos petroquímicos, representan elementos que pueden contribuir a la degradación del ambiente y tener efectos sobre la justicia ambiental. En este sentido, tanto la ciudad de Tarragona (España) con uno de los complejos petroquímicos más grandes del sur de Europa (Complejo Petroquímico de Tarragona), como la ciudad de Montevideo (Uruguay), con la única refinería de petróleo del país, ubicada en la bahía de la ciudad, constituyen elementos significativos a la hora de evaluar la situación de estas ciudades en términos de justicia ambiental. En tal sentido, __esta investigación se propone desarrollar herramientas de base territorial que permitan medir y analizar la (in)justicia ambiental en estos entornos urbanos__.  Para ello, se aplica una metodología predominantemente cuantitativa, a través del __uso de Sistemas de Información Geográfica y la aplicación de técnicas estadísticas y de análisis espacial, con el fin de obtener un índice de justicia ambiental__.    
