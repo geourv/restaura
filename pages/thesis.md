@@ -38,19 +38,21 @@ header:
 
 #### Aitor Àvila Callau
     
-___"El paisaje y los Servicios Ecosistémicos Culturales en el periurbano de Tarragona: análisis del uso público y la percepción de los usuarios a partir de Información Geográfica Voluntaria y TIG".___
+___"El análisis de los Servicios Ecosistémicos Culturales a partir de Información Geográfica Voluntaria. El caso del periurbano de Tarragona".___
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
+Estado: defendida (setiembre del 2022)
 ~~~
 
-El principal objetivo de la tesis es __caracterizar el paisaje periurbano de Tarragona y analizar su uso público, la percepción social y el grado de satisfacción de los usuarios__ a partir de fuentes procedentes de la __Información Geográfica Voluntaria (IGV)__. La finalidad es generar un conjunto de propuestas de actuación y gestión enfocadas a la sostenibilidad social y ambiental del uso público del periurbano en el área estudiada.
-Los objetivos específicos son los siguientes: 
- - Analizar el __uso público y la recreación al aire libre__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
- - Identificar y tipificar el uso de los __Servicios Ecosistémicos Culturales (SEC)__ del periurbano de Tarragona utilizando IGV integrada en un Sistema de Información Geográfica.
- - Recopilar el grado de satisfacción de los usuarios y las necesidades ciudadanas hacia el espacio estudiado mediante la aplicación de un __Sistema de Información Geográfica de Participación Pública (SIGPP)__ y realización de entrevistas y talleres de cartografía participativa con actores del territorio.
- - Establecer __propuestas de mejora__ en la gestión y planificación del ámbito de estudio.
-    
+El objetivo general de la tesis es __estudiar los Servicios Ecosistémicos Culturales (SEC)__ para el ámbito del __periurbano de Tarragona__ considerando la __Información Geográfica Voluntaria (IGV)__ como fuente de datos principal. La __finalidad__, además de proporcionar información útil para la gestión y planificación de los SEC, particularmente de la recreación al aire libre, es generar un conjunto de __propuestas de actuación__, por una parte, enfocadas a la sostenibilidad social y ambiental de los SEC en la zona estudiada y, por otra parte, dirigidas a la administración competente.
+
+Los objetivos específicos se detallan a continuación:
+- Generar una base de datos de IGV pasiva y optimizar su calidad.
+- Analizar las preferencias de los usuarios de actividad recreativa y deportiva al aire libre por los SEC del periurbano de Tarragona a partir de fotografías geolocalizadas procedentes de IGV.
+- Estudiar la recreación deportiva al aire libre en el periurbano de Tarragona a partir de trazas GNSS procedentes de IGV.
+- Evaluar los senderos homologados como activos de salud a partir de trabajo de campo desarrollado en estos.
+- Apuntar propuestas de mejora en la gestión de los SEC del periurbano de Tarragona.
     
 #### Montserrat Delpino Chami
     
