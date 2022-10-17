@@ -50,6 +50,10 @@ header:
 ## Seminarios y congresos
 
 - Bustamante Picón, E., Alberich González, J., Pérez-Albert, Y. y Muro Morales, J. I. (2022). __Parques urbanos, activos de salud y personas mayopres. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. En Higueras García, E. y García-González, M. C. (Ed.), _VI CONGRESO INTERNACIONAL ISUF-H Forma urbana y resiliencia: los desafíos de salud integral y el cambio climático = VI INTERNATIONAL SEMINAR ON URBAN FORM-HISPANIC Urban form and resilience: the challenges of comprehensive health and climate change de Cuadernos de Investigación Urbanística_, 142, 59-77. Madrid: Escuela Técnica Superior de Arquitectura de Madrid. DOI: [https://doi.org/10.20868/ciur.2022.142](https://doi.org/10.20868/ciur.2022.142)
+    
+- Àvila Callau, A., Pérez Albert, Y., Serrano Giné, D. (2021, diciembre). __La calidad de la IGV para el análisis territorial__. Póster presentado al XXVII Congreso de la Asociación Española de Geografía (AGE), Ciudad de la Laguna, Tenerife.
+    
+- Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2021, diciembre). __Propuesta metodológica de un SIGPP para analizar el uso público y la percepción del paisaje en Tarragona__. Póster presentado al XXVII Congreso de la Asociación Española de Geografía (AGE), Ciudad de la Laguna, Tenerife. (___Diploma al mejor póster del congreso___)
 
 - Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). “Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona” en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
 
