@@ -21,7 +21,7 @@ header:
 - [Departamento de Urbanismo](http://faug.udec.cl/?page_id=14265). Universidad de Concepción (Chile).
 - [Departamento de Teoría y Práctica de la Arquitectura y del Diseño](https://www.universia.net/uy/universidades/universidad-zulia.01043.html). Universidad de Zulia (Venezuela).
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1cfF900q7EPbysNt7N-zzxlrI53VSRq8&ehbc=2E312F" width="850" height="400"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1cfF900q7EPbysNt7N-zzxlrI53VSRq8&ehbc=2E312F" width="920" height="450"></iframe>
 
 ## Universitat Rovira i Virgili
 
