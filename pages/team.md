@@ -47,7 +47,7 @@ header:
 
 <!-- click on image will navigate to the personal website -->
 <a class="th" href="{{ member.social.first.url }}">
-<img src="{{ member.pic  | prepend: "/images/team/" | prepend: "https://gratet.github.io/restaura"  }}" alt="{{ member.name }}" style="border-radius:10px">
+<img src="{{ member.pic  | prepend: "/images/team/" | prepend: "https://gratet.github.io/restaura"  }}" alt="{{ member.name }}" style="border-radius:10px; border-radius: 40%;">
 </a>
 
 <!-- social media icons -->
