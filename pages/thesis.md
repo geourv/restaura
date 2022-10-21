@@ -36,7 +36,7 @@ header:
 
 ## Tesis doctorales
 <center>
-#### Aitor Àvila Callau 
+<h4>Aitor Àvila Callau</h4> 
 </center>
 <center>
 <img src="{{ member.pic  | prepend: "/images/team/aitor_defi3.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
