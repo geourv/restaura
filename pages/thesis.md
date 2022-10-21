@@ -23,14 +23,12 @@ header:
 <div class="panel radius" markdown="1">
     
 
-</div>
-</div><!-- /.medium-4.columns -->
+
 
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-   ## { text-align: center; }
 
 
 ## Tesis doctorales
