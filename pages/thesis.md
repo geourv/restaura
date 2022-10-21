@@ -36,7 +36,7 @@ header:
 
 ## Tesis doctorales
 <center>
-<h4>Aitor Àvila Callau</h4> 
+    <h4>Aitor Àvila Callau</h4> 
 </center>
 <center>
 <img src="{{ member.pic  | prepend: "/images/team/aitor_defi3.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
@@ -58,8 +58,12 @@ Los objetivos específicos se detallan a continuación:
 - Evaluar los senderos homologados como activos de salud a partir de trabajo de campo desarrollado en estos.
 - Apuntar propuestas de mejora en la gestión de los SEC del periurbano de Tarragona.
     
-#### Montserrat Delpino Chami
+<center>
+    <h4>Montserrat Delpino Chami</h4>
+</center>
+<center>
 <img src="{{ member.pic  | prepend: "/images/team/delpino.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
+</center>
     
 ___"Evaluación de la calidad de los espacios públicos y abiertos mediante plataformas participativas digitales".___
 
@@ -72,9 +76,12 @@ Los métodos para evaluar la calidad del entorno urbano considerando la percepci
 Desde esta base, el estudio propone __sistematizar indicadores perceptuales para evaluar participativamente la calidad de espacios públicos y abiertos (EPAs)__, y aplicar la metodología al estudio de casos, aprovechando los beneficios de las nuevas plataformas participativas digitales (DPPs).
 La investigación considera evaluar perceptualmente los EPAs de dos ciudades hispanohablantes, en el norte y sur global; lo que permitirá experimentar __nuevas herramientas de gestión urbana__, en zonas __donde se ha diagnosticado mayor carencia__ de este tipo de innovaciones.
        
-    
-#### Edgar Bustamante Picón
+<center>  
+    <h4>Edgar Bustamante Picón</h4>
+</center>
+<center>
 <img src="{{ member.pic  | prepend: "/images/team/edgar.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
+</center>
 
 ___"Justicia ambiental. Análisis y evaluación del acceso de la población a las zonas verdes urbanas en ciudades petroquímicas".___
 
@@ -95,10 +102,13 @@ El principal objetivo de la tesis consiste en establecer el grado de justicia am
     
 __Ámbitos de estudio__: Tarragona y Cartagena (España) y Concepción (Chile).   
     
-    
-#### Mahdi Gheitasi
+<center>
+    <h4>Mahdi Gheitasi<h4>
+</center>
+<center>
 <img src="{{ member.pic  | prepend: "/images/team/mahdi.jpeg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
-
+</center>
+    
 ___"Accessibility and quality of cultural ecosystem services and perception of technological risk".___
 
 ~~~
@@ -108,9 +118,13 @@ Estado: en elaboración
 
 *Cities now house the vast majority of the world's inhabitants. One of the benefits of urban agglomerations is that they offer more work opportunities as well as quicker access to services and infrastructure. In addition to these benefits, there are also drawbacks, including air and noise pollution, idleness, and a lack of physical activity. The detrimental effects of these communities are more visible in metropolitan areas near petrochemical plants. The petrochemical sector is committed to converting hydrocarbons into chemical products and is structured into massive cluster complexes that necessitate major investments and surface extensions for manufacturing facilities. These industries, which are predominantly dominated by multinational firms, produce in concert, are geographically concentrated and are typically related to port infrastructure. The visual impacts on the landscape are notable for the majority of these reasons, and their productive activity has major implications on nearby urban environments, due to direct or indirect industrial emissions and noise generation (increase in heavy traffic), to the potential accidents they may cause (poisonous clouds, explosions, or fires), which have an impact on the population's mental and physical health. As a direct result of coexistence with other uses and people' perceptions of risk as a result of the effects and accidents, petrochemical production has consequences for the management of metropolitan areas where it is installed. __The goal of this thesis is to identify, evaluate, and assess cultural ecosystem services (CES) in urban and peri-urban landscapes that have been damaged by the presence of petrochemical complexes, from the standpoint of health assets and social variety__*.   
     
-#### Soledad Camacho
+<center>
+    <h4>Soledad Camacho</h4>
+</center>
+<center>
 <img src="{{ member.pic  | prepend: "/images/team/soledad.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
-
+</center>
+    
 ___"Medición y análisis de la justicia ambiental en entornos urbanos. Aplicación a los casos de las ciudades de Tarragona (España) y Montevideo (Uruguay)".___
 
 ~~~
