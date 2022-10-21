@@ -36,8 +36,7 @@ header:
 
 ## Tesis doctorales
 
-#### Aitor Àvila Callau ![aitor](/restaura/images/aitor_defi3.jpg)
-<img src="{{ member.pic  | prepend: "/images/team/aitor_defi3.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:10px; border-radius: 20%;">
+#### Aitor Àvila Callau <img src="{{ member.pic  | prepend: "/images/team/aitor_defi3.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:10px; border-radius: 80%;">
 
     
 ___"El análisis de los Servicios Ecosistémicos Culturales a partir de Información Geográfica Voluntaria. El caso del periurbano de Tarragona".___
