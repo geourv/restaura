@@ -23,7 +23,8 @@ header:
 <div class="panel radius" markdown="1">
     
 
-
+</div>
+</div><!-- /.medium-4.columns -->
 
 
 
