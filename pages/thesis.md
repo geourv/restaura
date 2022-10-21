@@ -22,9 +22,9 @@ header:
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Índice**
-**{: #toc }
+{: #toc }
 *  TOC
-{:toc}**
+{:toc}
     
 
 </div>
@@ -37,9 +37,13 @@ header:
 
 
 ## Tesis doctorales
-<center>
-    <h4>Aitor Àvila Callau</h4> 
-</center>
+```{css, echo=FALSE}
+  ####  { text-align: center; }
+```
+#### Aitor
+    
+    <h4>Aitor Àvila Callau</h4>
+
 <center>
 <img src="{{ member.pic  | prepend: "/images/team/aitor_defi3.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
 </center>
