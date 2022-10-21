@@ -103,7 +103,7 @@ El principal objetivo de la tesis consiste en establecer el grado de justicia am
 __Ámbitos de estudio__: Tarragona y Cartagena (España) y Concepción (Chile).   
     
 <center>
-    <h4>Mahdi Gheitasi<h4>
+    <h4>Mahdi Gheitasi</h4>
 </center>
 <center>
 <img src="{{ member.pic  | prepend: "/images/team/mahdi.jpeg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
