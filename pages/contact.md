@@ -67,4 +67,4 @@ España
 
 
 </div>
-![logo](/restaura/images/logo_nou_redim-modified2.png)
+<img src="/restaura/images/logo_nou_redim-modified2.png">
