@@ -58,6 +58,7 @@ El __Proyecto RESTAURA__, introduce __tres novedades__ que suponen un avance del
 
 
 ![gente mayor de excursión](/restaura/images/lorito.jpg)
+![logo](/restaura/images/logo_nou_redim-modified2.png)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
