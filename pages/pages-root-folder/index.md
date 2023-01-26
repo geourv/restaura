@@ -30,7 +30,7 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-![Logos2](images/logo_nou.png)
+![Logos2](images/logo_nou-modified.png)
 ## Resumen
 
 Los servicios ecosistémicos han sido definidos como los beneficios que la sociedad recibe de los ecosistemas. Los __servicios culturales__, un tipo de servicio ecosistémico, hacen referencia al __disfrute estético, las actividades de ocio y recreación, la identidad cultural o el valor religioso y espiritual__ de un lugar determinado. Es decir, los elementos inmateriales con __repercusión en el bienestar de personas y sociedades__.
