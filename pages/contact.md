@@ -59,12 +59,12 @@ España
 		.bindPopup("<b>Facultat de Turismo y Geografía</b><br />Universitat Rovira i Virgili").openPopup();
 
 	var popup = L.popup();
-
+<img src="/restaura/images/logo_nou_redim-modified2.png">
 </script>
 
 </body>
 </html>
 
-<img src="/restaura/images/logo_nou_redim-modified2.png">
+
 
 </div>
