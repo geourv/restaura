@@ -65,6 +65,6 @@ España
 </body>
 </html>
 
+<img src="/restaura/images/logo_nou_redim-modified2.png">
 
 </div>
-<img src="/restaura/images/logo_nou_redim-modified2.png">
