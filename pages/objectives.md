@@ -68,6 +68,7 @@ Este análisis incorpora un __enfoque multidisciplinar__ junto a __nuevas fuente
 10. Diseñar, aplicar y/o explotar métodos y fuentes de la CC que permitan analizar la percepción de los valores sociales de la población respecto a los SEC teniendo en cuenta los diferentes segmentos y diversidad social de la población.
 
 ![parque periurbano](/restaura/images/platja.JPG)
+![logo](/restaura/images/logo_nou_redim-modified.png)
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
