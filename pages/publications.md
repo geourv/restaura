@@ -34,7 +34,9 @@ header:
 
 
 ## Artículos
- 
+
+- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023) __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
+
 - Bustamante Picón, E.; Alberich González, J.; Pérez Albert, Y.; Muro Morales, J. (2022). __Parques urbanos, activos de salud y personas mayores. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. *Cuadernos de Investigación Urbanística, 0*(142), 59-77. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
     
 - Delpino-Chamy, M.; Pérez Albert, Y. (2022). __Assessment of Citizens’ Perception of the Built Environment throughout Digital Platforms: A Scoping Review__. *Urban Science*. 2022; 6(3):46. [https://doi.org/10.3390/urbansci6030046](https://doi.org/10.3390/urbansci6030046)
