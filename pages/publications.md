@@ -50,7 +50,10 @@ header:
 
 
 ## Seminarios y congresos
+- Camacho Lorenzo, S., Alberich González, J., Pérez-Albert, Y. (2023). __Uso de indicadores para medir la justicia ambiental en América Latina__. En Gusman, I., Pérez Guilarte, Y., Cidras, D., Vila Vázquez, J.I., Lois González R. (Ed.), _X CONGRESO INTERNACIONAL DE GEOGRAFÍA DE AMÉRICA LATINA. América Latina ante los (nuevos) retos de la justicia social y ambiental_. Organizado por la Asociación Española de Geografía de América Latina (AGE-AL). Santiago de Compostela, España, p.673-688. [libro](http://www.ageal.es/ageal/resources/source/X%20Congreso/web%20Libro.pdf)
 
+- Quintero Sandrea, C., Frediani, A., Camacho, M., Saladié, S. (2022, octubre). __Los servicios ecosistémicos culturales en la planificación de las ciudades__. Póster presentado al VI Congreso Internacional de Investigación Estudiantil Universitaria, XI Congreso Venezolano de Investigación Estudiantil, XII Jornadas Nacionales de Investigación Estudiantil, III Encuentro Iberoamericano de Estudiantes Investigadores, Maracaibo, Venezuela. 
+    
 - Bustamante Picón, E., Alberich González, J., Pérez-Albert, Y. y Muro Morales, J. I. (2022). __Parques urbanos, activos de salud y personas mayopres. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. En Higueras García, E. y García-González, M. C. (Ed.), _VI CONGRESO INTERNACIONAL ISUF-H Forma urbana y resiliencia: los desafíos de salud integral y el cambio climático = VI INTERNATIONAL SEMINAR ON URBAN FORM-HISPANIC Urban form and resilience: the challenges of comprehensive health and climate change de Cuadernos de Investigación Urbanística_, 142, 59-77. Madrid: Escuela Técnica Superior de Arquitectura de Madrid. DOI: [https://doi.org/10.20868/ciur.2022.142](https://doi.org/10.20868/ciur.2022.142)
     
 - Àvila Callau, A., Pérez Albert, Y., Serrano Giné, D. (2021, diciembre). __La calidad de la IGV para el análisis territorial__. Póster presentado al XXVII Congreso de la Asociación Española de Geografía (AGE), Ciudad de la Laguna, Tenerife.
