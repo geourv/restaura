@@ -34,7 +34,7 @@ header:
 
 
 ## Artículos
-- Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://doi.org/10.3390/f14061181)
+- Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://www.mdpi.com/1999-4907/14/6/1181)
     
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023). __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
 
