@@ -32,11 +32,6 @@ header:
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ![Logos2](images/logo_nou-modified.png)
 
-### *Encuesta periurbano*:
-    
-__Participa en el estudio sobre el uso público y la percepción del paisaje del Camp de Tarragona respondiendo a la siguiente encuesta:__ 
-    [https://paisatge-tarragona.pct-turisme.cat/](https://paisatge-tarragona.pct-turisme.cat/)
-![encuesta](images/cartell_periurba_castella.png)
     
 ## Resumen
 
