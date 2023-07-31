@@ -64,6 +64,8 @@ header:
 - Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). __Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona__ en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
 
 ## Divulgación
+
+- Universidad de Concepción. (2023, 31 de mayo). Geógrafo español realiza su investigación doctoral en el Laboratorio de Estudios Urbanos de la FAUG. _Noticias FAUG_. [http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug](http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug)
 - Alberich, J. (2023, 17 de mayo). Sobre la percepció del risc petroquímic. _Diari de Tarragona_. Versión digital: [https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651](https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651) . Versión PDF: [Aquí.](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EYecMKGsYq1Hum3N_kwEDl4Bec3Yt4YhWsL699aL5Fs4iQ?e=zUJ4Ly)
 
 ![logo](/restaura/images/logo_nou_redim-modified2.png)
