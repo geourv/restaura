@@ -51,6 +51,18 @@ header:
 
 
 ## Seminarios y congresos
+- Bustamante Picón, E., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Accesibilidad a las zonas verdes urbanas de Tarragona, España__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona.
+  
+- Camacho Lorenzo, S., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Espacios verdes públicos vs. áreas industriales. Un análisis de inquietudes ambientales en la ciudad de Montevideo, Uruguay__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona.
+  
+- Gheitasi, M., Pérez Albert, Y., Serrano Giné, D. (2023, septiembre). __Survey123 as a tool for public participation geographic information systems; A review of its effectiveness and limitations__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona.
+  
+- Quintero Sandrea, C., Pérez Albert, Y. (2023, septiembre). __El paisaje entre la industria y los asentamientos humanos. ¿Conflicto u oportunidad?__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona.
+  
+- Quintero Sandrea, C., Pérez Albert, Y. (2023, septiembre). __La cartografía participativa, herramienta para reconocer los servicios ecosistémicos culturales en el área urbana aledaña al complejo petroquímico El Tablazo, Venezuela__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
+
+- Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2023, septiembre).__Proposta metodològica d’un SIGPP per analitzar la percepció del paisatge i les activitats ludicoesportives al periurbà del Camp de Tarragona__ . Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
+
 - Camacho Lorenzo, S., Alberich González, J., Pérez-Albert, Y. (2023). __Uso de indicadores para medir la justicia ambiental en América Latina__. En Gusman, I., Pérez Guilarte, Y., Cidras, D., Vila Vázquez, J.I., Lois González R. (Ed.), _X CONGRESO INTERNACIONAL DE GEOGRAFÍA DE AMÉRICA LATINA. América Latina ante los (nuevos) retos de la justicia social y ambiental_. Organizado por la Asociación Española de Geografía de América Latina (AGE-AL). Santiago de Compostela, España, p.673-688. [libro](http://www.ageal.es/ageal/resources/source/X%20Congreso/web%20Libro.pdf)
 
 - Quintero Sandrea, C., Frediani, A., Camacho, M., Saladié, S. (2022, octubre). __Los servicios ecosistémicos culturales en la planificación de las ciudades__. Póster presentado al VI Congreso Internacional de Investigación Estudiantil Universitaria, XI Congreso Venezolano de Investigación Estudiantil, XII Jornadas Nacionales de Investigación Estudiantil, III Encuentro Iberoamericano de Estudiantes Investigadores, Maracaibo, Venezuela. 
