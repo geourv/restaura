@@ -61,7 +61,7 @@ header:
   
 - Quintero Sandrea, C., Pérez Albert, Y. (2023, septiembre). __La cartografía participativa, herramienta para reconocer los servicios ecosistémicos culturales en el área urbana aledaña al complejo petroquímico El Tablazo, Venezuela__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
 
-- Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2023, septiembre).__Proposta metodològica d’un SIGPP per analitzar la percepció del paisatge i les activitats ludicoesportives al periurbà del Camp de Tarragona__ . Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
+- Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Proposta metodològica d’un SIGPP per analitzar la percepció del paisatge i les activitats ludicoesportives al periurbà del Camp de Tarragona__ . Comunicación presentada en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
 
 - Camacho Lorenzo, S., Alberich González, J., Pérez-Albert, Y. (2023). __Uso de indicadores para medir la justicia ambiental en América Latina__. En Gusman, I., Pérez Guilarte, Y., Cidras, D., Vila Vázquez, J.I., Lois González R. (Ed.), _X CONGRESO INTERNACIONAL DE GEOGRAFÍA DE AMÉRICA LATINA. América Latina ante los (nuevos) retos de la justicia social y ambiental_. Organizado por la Asociación Española de Geografía de América Latina (AGE-AL). Santiago de Compostela, España, p.673-688. [libro](http://www.ageal.es/ageal/resources/source/X%20Congreso/web%20Libro.pdf)
 
