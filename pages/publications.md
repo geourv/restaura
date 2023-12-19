@@ -36,9 +36,11 @@ header:
 ## Artículos
 - Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://www.mdpi.com/1999-4907/14/6/1181)
 
-- Camacho Lorenzo, S., Pérez-Albert, Y., Alberich González, J. (2023). __La justicia ambiental en ciudades latinoamericanas. Una revisión de los indicadores utilizados para su análisis__. *Ikara. Revista de Geografías Iberoamericanas*, (3). [https://doi.org/10.18239/Ikara.3325](https://revista.uclm.es/index.php/ikara/article/view/3325)
+- Camacho Lorenzo, S.; Pérez-Albert, Y.; Alberich González, J. (2023). __La justicia ambiental en ciudades latinoamericanas. Una revisión de los indicadores utilizados para su análisis__. *Ikara. Revista de Geografías Iberoamericanas*, (3). [https://doi.org/10.18239/Ikara.3325](https://revista.uclm.es/index.php/ikara/article/view/3325)
     
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023). __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10(3)*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
+
+- Palacio Buendía, Am.; Pérez-Albert, Y.; Serrano Giné, D. (2023). __Metodologías geocolaborativas y manejo de áreas protegidas. Un Sistema de Información Geográfica de Participación Pública (SIGPP) en el parque natural del Delta del Ebro (España)__. *Revista De Geografía Norte Grande*, (86). [Artículo](https://redae.uc.cl/index.php/RGNG/article/view/28033)
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez Albert, Y.; Muro Morales, J. (2022). __Parques urbanos, activos de salud y personas mayores. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. *Cuadernos de Investigación Urbanística, 0*(142), 59-77. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
     
