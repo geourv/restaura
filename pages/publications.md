@@ -35,8 +35,10 @@ header:
 
 ## Artículos
 - Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://www.mdpi.com/1999-4907/14/6/1181)
+
+- Camacho Lorenzo, S., Pérez-Albert, Y., Alberich González, J. (2023). __La justicia ambiental en ciudades latinoamericanas. Una revisión de los indicadores utilizados para su análisis__. *Ikara. Revista de Geografías Iberoamericanas*, (3). [https://doi.org/10.18239/Ikara.3325](https://revista.uclm.es/index.php/ikara/article/view/3325)
     
-- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023). __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
+- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023). __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10(3)*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez Albert, Y.; Muro Morales, J. (2022). __Parques urbanos, activos de salud y personas mayores. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. *Cuadernos de Investigación Urbanística, 0*(142), 59-77. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
     
@@ -52,7 +54,9 @@ header:
 
 ## Seminarios y congresos
 
-- Depino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
+- Delpino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
+
+- Quintero Sandrea, C. A., Frediani, A. (2023, diciembre). __El paisaje sonoro: comunicación y temporalidad del espacio urbano__. VII Congreso ISUF-H "Forma urbana para el buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
 
 - Delpino-Chamy, M. (2023, noviembre). __VISUALIZING CITIZENS'S PERCEPTIONS. Subjective indicators for the assessment of urban environments based on digitals platforms__. ICSC-CITIES 2023 VI Ibero-American Congress of Smart Cities. Mexico City and Cuernavaca, Mexico. 
 
@@ -85,6 +89,13 @@ header:
 - Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2021, diciembre). __Propuesta metodológica de un SIGPP para analizar el uso público y la percepción del paisaje en Tarragona__. Póster presentado al XXVII Congreso de la Asociación Española de Geografía (AGE), Ciudad de la Laguna, Tenerife. (___Diploma al mejor póster del congreso___)
 
 - Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). __Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona__ en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
+
+
+## Otros
+
+- Camacho Lorenzo, S. (2023). __Calidad de vida, justicia ambiental y residuos urbanos__. Charla brindada a los estudiantes del curso de Geografía Humana de la Licienciatura en Geografía de la Universidad de la República. Montevideo, Uruguay. [Foto 1](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EXXux5OwPQJAp3W9KAWB-q4BEKviYq3qEePkTLjgA_o-eg?e=jbrNUG) [Foto 2](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EZYyyqIaqklBvypb52swemkB-H9ZivjPjgEXbcW7-tY8Bw?e=MGMr3R)
+
+- Camacho Lorenzo, S. (2023, noviembre). __Perspectivas para la investigación en equidad ambiental urbana en Uruguay__. VII Jornadas de Cartografía / VI Jornadas de Geofísica / IV Jornadas de Geografía / I Jornadas de Historia. Instituto Panamericano de Geografía e Historia, Sección Nacional de la República Oriental del Uruguay. Montevideo, Uruguay.
 
 ## Divulgación
 
