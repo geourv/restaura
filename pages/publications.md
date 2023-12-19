@@ -51,6 +51,15 @@ header:
 
 
 ## Seminarios y congresos
+
+- Depino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
+
+- Delpino-Chamy, M. (2023, noviembre). __VISUALIZING CITIZENS'S PERCEPTIONS. Subjective indicators for the assessment of urban environments based on digitals platforms__. ICSC-CITIES 2023 VI Ibero-American Congress of Smart Cities. Mexico City and Cuernavaca, Mexico. 
+
+- Delpino-Chamy, M., Herrera, Y., Pérez-Albert, Y. (2023, noviembre). __Plataforma participativa digital para la evaluación comunitaria y técnica de servicios ecosistémicos culturales__. 4th International ESP Latin America and Caribbean Conference. La Serena, Chile.
+
+- Delpino-Chamy, M., Pérez-Albert, Y., Cerda Inostroza, C., Fernández Covarrubias, A. (2023, octubre). __Planificación ecológica en zonas urbanas mediante el mapeo participativo digital de Servicios Ecosistémicos Culturales. El caso de Hualpén en el Área Metropolitana de Concepción, Chile__. 13º Encuentro de Diseño Urbano. Talca, Chile.
+
 - Bustamante Picón, E., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Accesibilidad a las zonas verdes urbanas de Tarragona, España__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. [EUGEO_EdgarBustamante.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EfklIUGwbBpMsr4ItQS9-voB4fcCNcB64P3MyaFPKJj3HA?e=95FgFD)
   
 - Camacho Lorenzo, S., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Espacios verdes públicos vs. áreas industriales. Un análisis de inquietudes ambientales en la ciudad de Montevideo, Uruguay__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. [EUGEO_SoledadCamacho.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ETFcpdTZ3SxKnx60RXJu4kMBHg2nH8JV93MxwV5q6v9S9A?e=r3PdrO)
@@ -64,6 +73,8 @@ header:
 - Àvila Callau, A., Pérez Albert, Y., Alberich González, J. (2023, septiembre). __Proposta metodològica d’un SIGPP per analitzar la percepció del paisatge i les activitats ludicoesportives al periurbà del Camp de Tarragona__ . Comunicación presentada en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona. 
 
 - Camacho Lorenzo, S., Alberich González, J., Pérez-Albert, Y. (2023). __Uso de indicadores para medir la justicia ambiental en América Latina__. En Gusman, I., Pérez Guilarte, Y., Cidras, D., Vila Vázquez, J.I., Lois González R. (Ed.), _X CONGRESO INTERNACIONAL DE GEOGRAFÍA DE AMÉRICA LATINA. América Latina ante los (nuevos) retos de la justicia social y ambiental_. Organizado por la Asociación Española de Geografía de América Latina (AGE-AL). Santiago de Compostela, España, p.673-688. [libro](http://www.ageal.es/ageal/resources/source/X%20Congreso/web%20Libro.pdf)
+
+- Delpino-Chamy, M. (2023, junio). __SENSUR Urban Sensor: A participatory digital platform for citizens' assessment of urban environments__. Ecocity World Summit. Londres, Reino Unido.
 
 - Quintero Sandrea, C., Frediani, A., Camacho, M., Saladié, S. (2022, octubre). __Los servicios ecosistémicos culturales en la planificación de las ciudades__. Póster presentado al VI Congreso Internacional de Investigación Estudiantil Universitaria, XI Congreso Venezolano de Investigación Estudiantil, XII Jornadas Nacionales de Investigación Estudiantil, III Encuentro Iberoamericano de Estudiantes Investigadores, Maracaibo, Venezuela. 
     
