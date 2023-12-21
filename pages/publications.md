@@ -40,6 +40,8 @@ header:
     
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y.; Gheitasi, M. (2023). __Public Risk Perception of the Petrochemical Industry, Measured Using a Public Participation Geographic Information System: A Case Study of Camp de Tarragona (Spain)__. *Environments, 10(3)*, 36. [https://doi.org/10.3390/environments10030036](https://doi.org/10.3390/environments10030036)
 
+- Gheitasi, M.; Serrano Giné, D.; Pérez-Albert, Y. (2023). __Exploring public participation process and its differing degrees in influencing risk perception within the petrochemical industry: a scoping review__. *Frontiers*. [https://doi.org/10.3389/fenvs.2023.1218995](https://www.frontiersin.org/articles/10.3389/fenvs.2023.1218995/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Environmental_Science&id=1218995)
+
 - Palacio Buendía, A.; Pérez-Albert, Y.; Serrano Giné, D. (2023). __Metodologías geocolaborativas y manejo de áreas protegidas. Un Sistema de Información Geográfica de Participación Pública (SIGPP) en el parque natural del Delta del Ebro (España)__. *Revista De Geografía Norte Grande*, (86). [Artículo](https://redae.uc.cl/index.php/RGNG/article/view/28033)
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez Albert, Y.; Muro Morales, J. (2022). __Parques urbanos, activos de salud y personas mayores. Un análisis de justicia espacial en los barrios de la ciudad de Tarragona__. *Cuadernos de Investigación Urbanística, 0*(142), 59-77. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
