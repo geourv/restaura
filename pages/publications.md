@@ -58,6 +58,14 @@ header:
 
 ## Seminarios y congresos
 
+- Bustamante Picón, E.; García Martín, F. M.; Pérez-Albert, Yolanda; Alberich González, J. (2024, enero). __Accessibility to urban green spaces in the city of Cartagena (Spain)__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
+
+- Camacho Lorenzo, S.; Alberich González, J.; Pérez-Albert, Y. (2024, enero). __Climate justice and environmental equity: an analysis of extreme heat exposure in the city of Montevideo, Uruguay__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
+
+- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, enero). __Assessing Technological Risk and Landscape Perception in Tehran Oil Refinery: A PPGIS Study__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
+
+- Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
+
 - Delpino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
 
 - Quintero Sandrea, C. A.; Frediani, A. (2023, diciembre). __El paisaje sonoro: comunicación y temporalidad del espacio urbano__. VII Congreso ISUF-H "Forma urbana para el buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
