@@ -64,7 +64,7 @@ header:
 
 - Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, enero). __Assessing Technological Risk and Landscape Perception in Tehran Oil Refinery: A PPGIS Study__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
 
-- Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España.
+- Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [SUPTM_CarolinaQuintero.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESoxnoFKmeRLq0YVDOUtiOEBx4KZrgUTnXlTvial3H3Zpw?e=rfmIA5)
 
 - Delpino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
 
