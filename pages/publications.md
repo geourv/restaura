@@ -78,6 +78,8 @@ header:
 
 - Bustamante Picón, E.; Alberich González, J.; Raventós Torner, R. D. (2023, septiembre). __Sistema de Información Geográfica de Participación Pública (SIGPP) para conocer la percepción del riesgo petroquímico__. XVI Congreso Internacional de Antropología. A Coruña, España.
 
+- Gheitasi, M.; Pérez-Albert, Y.; Cuesta Martínez, M. R. (2023, septiembre). __Assessment of risk perception in industrial areas using participatory methods, a scoping review__. XVI Congreso Internacional de Antropología. A Coruña, España.
+
 - Bustamante Picón, E.; Pérez Albert, Y.; Alberich González, J. (2023, septiembre). __Accesibilidad a las zonas verdes urbanas de Tarragona, España__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona, España. [EUGEO_EdgarBustamante.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EfklIUGwbBpMsr4ItQS9-voB4fcCNcB64P3MyaFPKJj3HA?e=95FgFD)
   
 - Camacho Lorenzo, S.; Pérez Albert, Y.; Alberich González, J. (2023, septiembre). __Espacios verdes públicos vs. áreas industriales. Un análisis de inquietudes ambientales en la ciudad de Montevideo, Uruguay__. Póster presentado en el 9º Congreso EUGEO de la Association of Geographical Societies in Europe, Barcelona, España. [EUGEO_SoledadCamacho.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ETFcpdTZ3SxKnx60RXJu4kMBHg2nH8JV93MxwV5q6v9S9A?e=r3PdrO)
