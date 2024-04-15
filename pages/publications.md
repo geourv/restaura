@@ -115,8 +115,9 @@ header:
 
 ## Divulgación
 
-- Universidad de Concepción. (2023, 31 de mayo). Geógrafo español realiza su investigación doctoral en el Laboratorio de Estudios Urbanos de la FAUG. _Noticias FAUG_. [http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug](http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug)
-- Alberich, J. (2023, 17 de mayo). Sobre la percepció del risc petroquímic. _Diari de Tarragona_. Versión digital: [https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651](https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651) . Versión PDF: [Aquí.](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EYecMKGsYq1Hum3N_kwEDl4Bec3Yt4YhWsL699aL5Fs4iQ?e=zUJ4Ly)
+- Alberich, J. (2024 , 4 de abril). Només un 14% dels enquestats sabia les mesures a dur a terme si hi ha un accident químic. _Arran de Mar de Tarragona Ràdio_. [Recupera la entrevista aquí](https://www.tarragonaradio.cat/joan-alberich-nomes-un-14-dels-enquestats-sabia-les-mesures-a-dur-a-terme-si-hi-ha-un-accident-quimic/)
+- Universidad de Concepción. (2023, 31 de mayo). Geógrafo español realiza su investigación doctoral en el Laboratorio de Estudios Urbanos de la FAUG. _Noticias FAUG_. [Recupera la notícia aquí](http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug)
+- Alberich, J. (2023, 17 de mayo). Sobre la percepció del risc petroquímic. _Diari de Tarragona_. [Versión digital aquí](https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651) - [Versión PDF aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EYecMKGsYq1Hum3N_kwEDl4Bec3Yt4YhWsL699aL5Fs4iQ?e=zUJ4Ly)
 
 ![logo](/restaura/images/logo_nou_redim-modified2.png)
 
