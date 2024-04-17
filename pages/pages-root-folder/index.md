@@ -45,14 +45,17 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 
 
 ## Detalles del proyecto RESTAURA
+  
+  
+Proyecto **PID2020-114363GB-I00**, financiado por:
 
-- **Referencia:** _PID2020-114363GB-I00_
+<img src="images/logos/MICINN_Gob_Web_AEI_2.jpg" alt="Logo Ministerio" width="80%">
+
 - **Investigadora principal:** Yolanda Pérez Albert
 - **Entidad solicitante:** Universitat Rovira i Virgili
 - **Centro:** Departamento de Geografía
 - **Título:** Servicios  ecosistémicos  culturales,  salud  y  bienestar  en  zonas  urbanas y periurbanas con clústeres petroquímicos.
 - **Duración:** 3 años (2021-2024)
-- **Entidad financiadora:** Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.
 - **Palabras clave:** `Servicios Ecosistémicos Culturales`, `complejos petroquímicos`, `salutogénesis`, `activos de salud`, `Ciencia Ciudadana`, `Información Geográfica Colaborativa`
 
 
