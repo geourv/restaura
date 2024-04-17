@@ -36,7 +36,7 @@ header:
 ## Intervención 1
 La primera intervención trata de...
 
-![Prueba](/images/petro.jpg)
+![Prueba de texto alternativo para una fotografía](/restaura/images/petro.jpg)
 
 ## Intervención 2
 La primera **intervención** trata de...
