@@ -30,7 +30,7 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-![Logos2](images/logo_nou-modified.png)
+
 
     
 ## Resumen
@@ -54,8 +54,6 @@ En definitiva, se trata de __relacionar entre sí la salud, las características
 - **Duración:** 3 años (2021-2024)
 - **Entidad financiadora:** Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.
 - **Palabras clave:** `Servicios Ecosistémicos Culturales`, `complejos petroquímicos`, `salutogénesis`, `activos de salud`, `Ciencia Ciudadana`, `Información Geográfica Colaborativa`
-
-![Logos](images/logo3.png)
 
 
 

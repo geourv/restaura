@@ -61,7 +61,7 @@ España
 	var popup = L.popup();
 
 </script>
-<img src="/restaura/images/logo_nou_redim-modified2.png">
+
 </body>
 </html>
 

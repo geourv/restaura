@@ -22,9 +22,9 @@
   url: "/thesis/"
   side: left
 
-- title: "Difusión"
-  url: "/difusion/"
-  side: left
+#- title: "Difusión"
+#  url: "/difusion/"
+#  side: left
 
 - title: "Contacto"
   url: "/contact/"

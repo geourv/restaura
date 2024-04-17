@@ -353,4 +353,3 @@ header:
 {% endfor %}
 </ul>
 
-![logo](/restaura/images/logo_nou_redim-modified2.png)
