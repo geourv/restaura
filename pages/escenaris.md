@@ -83,7 +83,7 @@ El projecte s’ha concretat en una campanya de disseny ficció, que fa ús d’
 Amb l’ús del qüestionari, mesurarem el potencial de canvi de les imatges generades, la disponibilitat de la població a participar d’aquest canvi, i els actius de salut relacionats amb els escenaris preferibles. També el biax distòpic que produeix l’ús de la IA a les imatges.
 
 ## Participa
-La teva participació és molt important! Respon aquest qüestionari: son 5 minuts ;)
+La teva participació és molt important! Respon aquest [qüestionari](https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u): son 5 minuts ;)
 
 ## Equip Escenaris Restaura
 - Coordinació i direcció d’art: Elena Bartomeu
