@@ -68,7 +68,7 @@ Després de la observació del terreny i tenint en compte les conclusions de la 
 - La dificultat d’ubicar-se en l’entramat de camins i encreuaments amb vies de trànsit rodat
 - El paisatge ple de costures entre la natura i l’equipament industrial
 
-Alguns dels insights observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing del projecte és concreta així:
+Alguns dels insights observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
 “Dissenyar material gràfic i comunicatiu per tal d’oferir una visualització de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’imaginari d’ús de l’escenari preferible, tal com es defineix al Con de futurs de Joseph Voros Voros (2003), a partir de Henchey (1978).”
 
