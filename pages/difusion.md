@@ -58,7 +58,7 @@ Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig
 
 	Obres del Diable  Twitter			Obres del Diable Instagram
 
- ## El Projecte
+## El Projecte
 Seguint l’objectiu general de millora Salutogènica de l'Àrea Periurbana de Tarragona (Restaura), l’equip d’arquitectura i disseny es proposa el disseny d’una intervenció innovadora en una selecció de localitzacions, amb l’objectiu específic de millorar l’accessibilitat i facilitar-ne l’ús, de manera que augmentin els actius de salut de la població (objectiu 9 del Pla Restaura).
 
 Després de la observació del terreny i tenint en compte les conclusions de la recerca prèvia, s’identifiquen els espais d’intervenció a la zona Francolí-Pont del Diable, i s’identifiquen també els següents temes de treball:
@@ -70,7 +70,7 @@ Després de la observació del terreny i tenint en compte les conclusions de la 
 
 Alguns dels insights observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
-“Dissenyar material gràfic i comunicatiu per tal d’oferir una visualització de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’imaginari d’ús de l’escenari preferible, tal com es defineix al Con de futurs de Joseph Voros Voros (2003), a partir de Henchey (1978).”
+> “Dissenyar material gràfic i comunicatiu per tal d’oferir una visualització de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’imaginari d’ús de l’escenari preferible, tal com es defineix al Con de futurs de Joseph Voros Voros (2003), a partir de Henchey (1978).”
 
 El projecte s’ha concretat en una campanya de disseny ficció, que fa ús d’elements locals per a generar versemblança, i que inclou tres relats de ficció, articulats amb imatges creades amb intel·ligència artificial, que es difonen per les xarxes socials. Es fa ús de recursos distòpics per a millorar l’engagement del públic. La finalitat de presentar escenaris preferibles de disseny és la d’activar la possibilitat d’un canvi de paradigma que prioritzi la salut de les persones per davant de les infraestructures industrials i de transport.
 
