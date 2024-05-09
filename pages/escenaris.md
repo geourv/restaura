@@ -49,7 +49,7 @@ La Resu i la Tecla son dues veïnes de Torreforta que surten a caminar dos dies 
 
 Descobreix la resta de la història, disponible el dilluns 27 de maig a les xarxes socials!
 
-- Zona Verge [![Twitter/X](/restaura/assets/img/X_icon.svg)](https://twitter.com/home){: width="48" }
+- Zona Verge [![Twitter/X](/restaura/assets/img/X_icon.svg){: width="48" }](https://twitter.com/home)
 - Zona Verge Instagram
 
 ![Escenari Zona Verge](/restaura/images/escenaris/web_verge_duo.jpg)
