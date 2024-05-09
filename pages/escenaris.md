@@ -5,7 +5,7 @@ title: "Imaginaris futurs a la zona del Francolí"
 meta_title: "Imaginaris futurs a la zona del Francolí"
 subheadline: "ESCENARIS RESTAURA"
 
-teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!
+teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!"
 
 meta_teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!"
 
