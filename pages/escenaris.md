@@ -11,7 +11,7 @@ meta_teaser: "Escenaris Restaura és una campanya de disseny ficció que activa 
 
 
 header:
-    image_fullwidth: petro.jpg
+    image_fullwidth: diable.jpg
     background-color: "#262930"
     caption: "Descubre el Río Francolí"
 ---
