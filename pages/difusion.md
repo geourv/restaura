@@ -1,9 +1,9 @@
 ---
 permalink: "/difusion/"
 layout: page-fullwidth
-title: "Actividades de difusión asociadas al proyecto"
-meta_title: "Actividades de difusión asociadas al proyecto"
-subheadline: "Difusión"
+title: "Imaginaris futurs a la zona del Francolí"
+meta_title: "Imaginaris futurs a la zona del Francolí"
+subheadline: "ESCENARIS RESTAURA"
 
 teaser: "A continuación se muestran las actividades de difusión asociadas al proyecto."
 
