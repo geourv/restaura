@@ -38,7 +38,8 @@ Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont
 
 Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig.
 
-	Veus del Francolí Twitter			Veus del Francolí Instagram
+- Veus del Francolí [Twitter](https://twitter.com/home)
+- Veus del Francolí Instagram
 
 ![Escenari Veus del Francolí](/restaura/images/escenaris/web_diable_duo.jpg)
 
