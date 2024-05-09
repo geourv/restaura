@@ -1,5 +1,5 @@
 ---
-permalink: "/difusion/"
+permalink: "/escenaris/"
 layout: page-fullwidth
 title: "Imaginaris futurs a la zona del Francolí"
 meta_title: "Imaginaris futurs a la zona del Francolí"
@@ -21,7 +21,7 @@ header:
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Índice**
+**Índex**
 {: #toc }
 *  TOC
 {:toc}
