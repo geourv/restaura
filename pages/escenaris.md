@@ -5,7 +5,7 @@ title: "Imaginaris futurs a la zona del Francolí"
 meta_title: "Imaginaris futurs a la zona del Francolí"
 subheadline: "ESCENARIS RESTAURA"
 
-teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i [participa](https://forms.office.com/e/L2qsnVe2QW) !"
+teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i [participa](https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u) "
 
 meta_teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!"
 
@@ -63,11 +63,11 @@ Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig
 Seguint l’objectiu general de millora Salutogènica de l'Àrea Periurbana de Tarragona (Restaura), l’equip d’arquitectura i disseny es proposa el disseny d’una intervenció innovadora en una selecció de localitzacions, amb l’objectiu específic de millorar l’accessibilitat i facilitar-ne l’ús, de manera que augmentin els actius de salut de la població (objectiu 9 del Pla Restaura).
 
 Després de la observació del terreny i tenint en compte les conclusions de la recerca prèvia, s’identifiquen els espais d’intervenció a la zona Francolí-Pont del Diable, i s’identifiquen també els següents temes de treball:
-    - La manca de punts de trobada per a fomentar el teixit social
-    - La predominància del so de les infrastructures de transport
-    - La manca de punts d’avituallament i repòs (aigua, ombra i confort tèrmic)
-    - La dificultat d’ubicar-se en l’entramat de camins i encreuaments amb vies de trànsit rodat
-    - El paisatge ple de costures entre la natura i l’equipament industrial
+  - La manca de punts de trobada per a fomentar el teixit social
+  - La predominància del so de les infrastructures de transport
+  - La manca de punts d’avituallament i repòs (aigua, ombra i confort tèrmic)
+  - La dificultat d’ubicar-se en l’entramat de camins i encreuaments amb vies de trànsit rodat
+  - El paisatge ple de costures entre la natura i l’equipament industrial
 
 Alguns dels insights observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
