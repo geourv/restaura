@@ -5,7 +5,7 @@ title: "Imaginaris futurs a la zona del Francolí"
 meta_title: "Imaginaris futurs a la zona del Francolí"
 subheadline: "ESCENARIS RESTAURA"
 
-teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i [participa](https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u)!"
+teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u">participa!</a> !"
 
 meta_teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!"
 
@@ -75,7 +75,7 @@ Després de la observació del terreny i tenint en compte les conclusions de la 
 
 Alguns dels *insights* observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
-> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al `[Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/)` de Joseph Voros Voros (2003), a partir de Henchey (1978).
+> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al ` [Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/) ` de Joseph Voros Voros (2003), a partir de Henchey (1978).
 
 El projecte s’ha concretat en una campanya de disseny ficció, que fa ús d’elements locals per a generar versemblança, i que inclou tres relats de ficció, articulats amb imatges creades amb intel·ligència artificial, que es difonen per les xarxes socials. Es fa ús de recursos distòpics per a millorar l’*engagement* del públic. La finalitat de presentar escenaris preferibles de disseny és la d’activar la possibilitat d’un canvi de paradigma que prioritzi la salut de les persones per davant de les infraestructures industrials i de transport.
 
