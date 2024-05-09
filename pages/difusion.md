@@ -38,7 +38,7 @@ Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont
 
 Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig.
 
-	Les veus del Francolí Twitter			Les veus del Francolí Instagram
+	Veus del Francolí Twitter			Veus del Francolí Instagram
 
 ![Prueba de texto alternativo para una fotografía](/restaura/images/petro.jpg)
 
@@ -56,7 +56,7 @@ Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig
 
 
 
-	Les Obres del Diable  Twitter			Les Obres del Diable Instagram
+	Obres del Diable  Twitter			Obres del Diable Instagram
 
  ## El Projecte
 Seguint l’objectiu general de millora Salutogènica de l'Àrea Periurbana de Tarragona (Restaura), l’equip d’arquitectura i disseny es proposa el disseny d’una intervenció innovadora en una selecció de localitzacions, amb l’objectiu específic de millorar l’accessibilitat i facilitar-ne l’ús, de manera que augmentin els actius de salut de la població (objectiu 9 del Pla Restaura).
