@@ -5,7 +5,7 @@ title: "Imaginaris futurs a la zona del Francolí"
 meta_title: "Imaginaris futurs a la zona del Francolí"
 subheadline: "ESCENARIS RESTAURA"
 
-teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u">participa!</a> !"
+teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí, Zona Verge i Les obres del Diable son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!
 
 meta_teaser: "Escenaris Restaura és una campanya de disseny ficció que activa imaginaris de salut sobre com podrien ser l’àrea del Francolí al seu pas per Tarragona. Les veus del Francolí[1], Zona Verge[2] i Les obres del Diable[3] son tres relats transmedia que es difonen per Twitter i Instagram. Segueix-les i participa!"
 
@@ -32,6 +32,7 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+Segueix-les i <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u">participa!</a> !"
 
 ## Les veus del Francolí
 Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont de l’autopista, a la llera del Francolí. Els veïns, que circulaven en la seva ruta habitual de running, s’han sorprès pels decibels, però també per la sonoritat sota l’autopista. S’hi desplaça una investigadora de la Rovira i Virgili, juntament amb tot de fans de la música electrònica, i despré de treure’n l’entrallat proposen una acomodació acústica. Creen un punt de trobada de diferents veus, on convergeixen artistes sonors, entitats de foment de la cultura musical i teixit associatiu dels barris. Però això no és tot. 
