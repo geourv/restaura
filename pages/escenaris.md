@@ -40,7 +40,7 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
 
 	Veus del Francolí Twitter			Veus del Francolí Instagram
 
-![Prueba de texto alternativo para una fotografía](/restaura/images/petro.jpg)
+![Escenari Veus del Francolí](/restaura/images/escenaris/web_diable_duo.jpg)
 
 ## Zona verge
 La Resu i la Tecla son dues veïnes de Torreforta que surten a caminar dos dies per setmana per a fer salut i xerrar una estona. L’última de les seves sortides, però, s’assembla més a un malson que a un passeig d’amigues. A la zona s’hi desplaça una investigadora de la URV i desplega un geolocalitzador mentre explica que al punt on se suposa que està la Zona Verge no hi ha res. Les llums del geolocalitzador pampalluguegen i, de sobte, tots desapareixen. Aquest és un missatge de crida a la col·laboració ciutadana per a localitzar les veïnes i un munt de joves a qui la Zona Verge s’està empassant. 
