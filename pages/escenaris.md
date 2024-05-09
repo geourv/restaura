@@ -32,15 +32,15 @@ header:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Segueix-les i <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u">participa!</a> !
+Segueix-les i <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aykR84I-TkyCqajkA6QrEatLseDRAM5FsQ_t6wbWE9xUMDAwNEY0UDdET1lGMTQ2WDEwOVYzMkpGNS4u">participa!</a> 
 
 ## Les veus del Francolí
 Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont de l’autopista, a la llera del Francolí. Els veïns, que circulaven en la seva ruta habitual de running, s’han sorprès pels decibels, però també per la sonoritat sota l’autopista. S’hi desplaça una investigadora de la Rovira i Virgili, juntament amb tot de fans de la música electrònica, i despré de treure’n l’entrallat proposen una acomodació acústica. Creen un punt de trobada de diferents veus, on convergeixen artistes sonors, entitats de foment de la cultura musical i teixit associatiu dels barris. Però això no és tot. 
 
 Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig.
 
-- Veus del Francolí [Twitter](https://twitter.com/home)
-- Veus del Francolí Instagram
+- Veus del Francolí a X/Twitter [![Twitter/X](/restaura/assets/img/X_icon.svg){: width="24" }](https://twitter.com/home)
+- Veus del Francolí a Instagram [![Instagram](/restaura/assets/img/instagram_icon.svg.webp){: width="24" }](https://www.instagram.com/)
 
 ![Escenari Veus del Francolí](/restaura/images/escenaris/web_veus_duo.jpg)
 
@@ -49,8 +49,8 @@ La Resu i la Tecla son dues veïnes de Torreforta que surten a caminar dos dies 
 
 Descobreix la resta de la història, disponible el dilluns 27 de maig a les xarxes socials!
 
-- Zona Verge [![Twitter/X](/restaura/assets/img/X_icon.svg){: width="24" }](https://twitter.com/home)
-- Zona Verge Instagram
+- Zona Verge a X/Twitter [![Twitter/X](/restaura/assets/img/X_icon.svg){: width="24" }](https://twitter.com/home)
+- Zona Verge a Instagram [![Instagram](/restaura/assets/img/instagram_icon.svg.webp){: width="24" }](https://www.instagram.com/)
 
 ![Escenari Zona Verge](/restaura/images/escenaris/web_verge_duo.jpg)
 
@@ -59,8 +59,8 @@ Un turista alerta de la troballa d’ocells morts a la zona d’obres de millora
 
 Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig.
 
-- Obres del Diable [Twitter](https://twitter.com/home)
-- Obres del Diable Instagram
+- Obres del Diable a X/Twitter [![Twitter/X](/restaura/assets/img/X_icon.svg){: width="24" }](https://twitter.com/home)
+- Obres del Diable a Instagram [![Instagram](/restaura/assets/img/instagram_icon.svg.webp){: width="24" }](https://www.instagram.com/)
 
 ![Escenari Zona Verge](/restaura/images/escenaris/web_diable_duo.jpg)
 
@@ -76,7 +76,7 @@ Després de la observació del terreny i tenint en compte les conclusions de la 
 
 Alguns dels *insights* observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
-> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al ` [Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/) ` de Joseph Voros Voros (2003), a partir de Henchey (1978).
+> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al [Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/) de Joseph Voros Voros (2003), a partir de Henchey (1978).
 
 El projecte s’ha concretat en una campanya de disseny ficció, que fa ús d’elements locals per a generar versemblança, i que inclou tres relats de ficció, articulats amb imatges creades amb intel·ligència artificial, que es difonen per les xarxes socials. Es fa ús de recursos distòpics per a millorar l’*engagement* del públic. La finalitat de presentar escenaris preferibles de disseny és la d’activar la possibilitat d’un canvi de paradigma que prioritzi la salut de les persones per davant de les infraestructures industrials i de transport.
 
