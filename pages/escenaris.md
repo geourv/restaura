@@ -85,14 +85,14 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
   <div>
     <em>X</em>/Twitter
     <a href="https://twitter.com/home" target="_blank">
-      <img src="{{ site.url }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+      <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
     </a>
   </div>
   <em>vs</em>
   <div>
     Instagram
     <a href="https://www.instagram.com/" target="_blank">
-      <img src="{{ site.url }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+      <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
     </a>
   </div>
 </div>
@@ -117,11 +117,11 @@ La Resu i la Tecla son dues veïnes de Torreforta que surten a caminar dos dies 
   Descobreix la resta de la història, disponible el dilluns 27 de maig a les xarxes socials! <br>
   Zona Verge a 
   <a href="https://twitter.com/home" target="_blank">
-    <img src="{{ site.url }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+    <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
   </a> 
   <em>vs</em>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="{{ site.url }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+    <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
   </a>
 </center>
 <br>
@@ -135,11 +135,11 @@ Un turista alerta de la troballa d’ocells morts a la zona d’obres de millora
   Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig.<br>
   Obres del Diable a 
   <a href="https://twitter.com/home" target="_blank">
-    <img src="{{ site.url }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+    <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
   </a> 
   <em>vs</em>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="{{ site.url }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+    <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
   </a>
 </center>
 <br>
