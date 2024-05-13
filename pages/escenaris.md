@@ -25,24 +25,46 @@ header:
   .container {
     display: flex;
     justify-content: space-between;
-    align-items: left;
-    text-align: left;
+    align-items: center;
+    text-align: center;
     margin-bottom: 5px;
+  }
+  .container > div {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .container a {
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 10px;
   }
   .figcaption-container {
     display: flex;
     justify-content: space-between;
-    align-items: left;
+    width: 100%;
+  }
+  .figcaption-container > em {
+    flex: 1;
+    text-align: center;
   }
   figure {
     text-align: center;
+    position: relative;
   }
   figcaption {
-    margin-top: 5px;
+    margin-top: 10px;
+  }
+  .source {
+    position: absolute;
+    bottom: 60px; /* Ajustat per elevar-lo dins de la imatge */
+    left: 0;
+    width: 100%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4); /* Fons negre més opac per millorar la visibilitat */
+    padding: 5px 0;
+    font-style: italic;
+    text-align: center; /* Assegura que el text està centrat horitzontalment */
   }
 </style>
 </head>
@@ -57,20 +79,20 @@ header:
 ## Les veus del Francolí
 Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont de l’autopista, a la llera del Francolí. Els veïns, que circulaven en la seva ruta habitual de running, s’han sorprès pels decibels, però també per la sonoritat sota l’autopista. S’hi desplaça una investigadora de la Rovira i Virgili, juntament amb tot de fans de la música electrònica, i despré de treure’n l’entrallat proposen una acomodació acústica. Creen un punt de trobada de diferents veus, on convergeixen artistes sonors, entitats de foment de la cultura musical i teixit associatiu dels barris. Però això no és tot... 
 
-Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig.
+Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig, fent click a les icones de cada xarxa social.
 
 <div class="container">
   <div>
-    Veus del Francolí a 
+    <em>X</em>/Twitter
     <a href="https://twitter.com/home" target="_blank">
-      <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+      <img src="{{ site.url }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
     </a>
   </div>
   <em>vs</em>
   <div>
-    Veus del Francolí a 
+    Instagram
     <a href="https://www.instagram.com/" target="_blank">
-      <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+      <img src="{{ site.url }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
     </a>
   </div>
 </div>
@@ -82,7 +104,7 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
       <em>L'autopista plora, és el drama a les infrastructures.</em>
       <em>Festival de color a la llera del Francolí.</em>
     </div>
-    Font: el·laboració pròpia + plugin IA
+    <div class="source">Font: el·laboració pròpia + plugin IA</div>
   </figcaption>
 </figure>
 
