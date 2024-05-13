@@ -63,14 +63,14 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
   <div>
     Veus del Francolí a 
     <a href="https://twitter.com/home" target="_blank">
-      <img src="{{ site.url }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+      <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
     </a>
   </div>
   <em>vs</em>
   <div>
     Veus del Francolí a 
     <a href="https://www.instagram.com/" target="_blank">
-      <img src="{{ site.url }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+      <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
     </a>
   </div>
 </div>
