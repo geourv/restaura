@@ -79,7 +79,7 @@ header:
 ## Les veus del Francolí
 Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont de l’autopista, a la llera del Francolí. Els veïns, que circulaven en la seva ruta habitual de running, s’han sorprès pels decibels, però també per la sonoritat sota l’autopista. S’hi desplaça una investigadora de la Rovira i Virgili, juntament amb tot de fans de la música electrònica, i despré de treure’n l’entrallat proposen una acomodació acústica. Creen un punt de trobada de diferents veus, on convergeixen artistes sonors, entitats de foment de la cultura musical i teixit associatiu dels barris. Però això no és tot... 
 
-Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig, fent click a les icones de cada xarxa social.
+Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig, fent clic a les icones de cada xarxa social.
 
 - Les veus del Francolí a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
 - Les veus del Francolí a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
@@ -87,43 +87,25 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
 ![Escenari Veus Francolí]({{ site.urlimg }}//escenaris/web_veus_duo.jpg)
 
 
-
-
 ## Zona verge
 La Resu i la Tecla son dues veïnes de Torreforta que surten a caminar dos dies per setmana per a fer salut i xerrar una estona. L’última de les seves sortides, però, s’assembla més a un malson que a un passeig d’amigues. A la zona s’hi desplaça una investigadora de la URV i desplega un geolocalitzador mentre explica que al punt on se suposa que està la Zona Verge no hi ha res. Les llums del geolocalitzador pampalluguegen i, de sobte, tots desapareixen. Aquest és un missatge de crida a la col·laboració ciutadana per a localitzar les veïnes i un munt de joves a qui la Zona Verge s’està empassant. 
 
-<center>
-  Descobreix la resta de la història, disponible el dilluns 27 de maig a les xarxes socials! <br>
-  Zona Verge a 
-  <a href="https://twitter.com/home" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
-  </a> 
-  <em>vs</em>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
-  </a>
-</center>
-<br>
+Descobreix la resta de la història a les xarxes socials, disponible el dilluns 27 de maig, fent clic a les icones de cada xarxa social.
 
+- Zona verge a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+- Zona verge a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+  
 ![Escenari Zona Verge]({{ site.urlimg }}//escenaris/web_verge_duo.jpg)
 
 ## Les Obres del Diable
 Un turista alerta de la troballa d’ocells morts a la zona d’obres de millora del Pont del Diable. Dos jubilats del barri de Sant Pere i Sant Pau van a inspeccionar el fenòmen i troben conills i senglars morts, però queden sorpresos per la qualitat de les obres de millora dels accessos, el mobiliari urbà i la font d’aigua del pont. Al consistori ningú sap res d’aquestes obres, l’Ajuntament no les ha licitades. Des de l’arquebisbat confirmen el que tothom sospita: semblen obres del Diable. 
 
-<center>
-  Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig.<br>
-  Obres del Diable a 
-  <a href="https://twitter.com/home" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
-  </a> 
-  <em>vs</em>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
-  </a>
-</center>
-<br>
+Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig, fent clic a les icones de cada xarxa social.
 
-![Escenari Zona Verge]({{ site.urlimg }}/escenaris/web_diable_duo.jpg)
+- Obres del Diable a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+- Obres del Diable a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
+
+ ![Escenari Obres Diable]({{ site.urlimg }}/escenaris/web_diable_duo.jpg)
 
 ## El Projecte
 Seguint l’objectiu general de millora Salutogènica de l'Àrea Periurbana de Tarragona (Restaura), l’equip d’arquitectura i disseny es proposa el disseny d’una intervenció innovadora en una selecció de localitzacions, amb l’objectiu específic de millorar l’accessibilitat i facilitar-ne l’ús, de manera que augmentin els actius de salut de la població (objectiu 9 del Pla Restaura).
