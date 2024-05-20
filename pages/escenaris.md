@@ -83,32 +83,9 @@ Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig
 
 - Les veus del Francolí a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
 - Les veus del Francolí a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
-<div class="container">
-  <div>
-    <em>X</em>/Twitter
-    <a href="https://twitter.com/home" target="_blank">
-      <img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
-    </a>
-  </div>
-  <em>vs</em>
-  <div>
-    Instagram
-    <a href="https://www.instagram.com/" target="_blank">
-      <img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
-    </a>
-  </div>
-</div>
 
-<figure>
-  <img src="{{ site.urlimg }}/escenaris/web_veus_duo.jpg" alt="Escenari Veus del Francolí">
-  <figcaption>
-    <div class="figcaption-container">
-      <em>L'autopista plora, és el drama a les infrastructures.</em>
-      <em>Festival de color a la llera del Francolí.</em>
-    </div>
-    <div class="source">Font: el·laboració pròpia + plugin IA</div>
-  </figcaption>
-</figure>
+![Escenari Veus Francolí]({{ site.urlimg }}//escenaris/web_veus_duo.jpg)
+
 
 
 
