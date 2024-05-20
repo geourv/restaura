@@ -17,7 +17,7 @@ callforaction:
 header:
     image_fullwidth: diable.jpg
     background-color: "#262930"
-    caption: "Descubre el Río Francolí"
+    caption: "Descobreix el Riu Francolí"
 ---
 
 <head>
@@ -81,6 +81,8 @@ Dos veïns del barri del Serrallo han alertat d’uns sorolls forts sota el pont
 
 Descobreix els detalls de la història a xarxes socials, a partir del 24 de maig, fent click a les icones de cada xarxa social.
 
+- Les veus del Francolí a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+- Les veus del Francolí a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
 <div class="container">
   <div>
     <em>X</em>/Twitter
