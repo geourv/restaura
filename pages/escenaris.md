@@ -119,7 +119,7 @@ Després de la observació del terreny i tenint en compte les conclusions de la 
 
 Alguns dels *insights* observats tenen una intervenció inviable des de la realitat d'infraestructures industrials, de transport i de recursos econòmics disponibles, pel que la estratègia proposada és abordar-los des de la ficció. El brífing de les intervencions és concreta així:
 
-> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al [Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/) de Joseph Voros Voros (2003), a partir de Henchey (1978).
+> Dissenyar material gràfic i comunicatiu per tal d’oferir una **visualització** de l’emplaçament ideal al llindar de la utopia per a despertar en la ciutadania l’**imaginari d’ús** de l’**escenari preferible**, tal com es defineix al [Con de futurs](https://design-toolkit.recursos.uoc.edu/disseny-especulatiu/) de Joseph Voros (2003), a partir de Henchey (1978).
 
 El projecte s’ha concretat en una campanya de disseny ficció, que fa ús d’elements locals per a generar versemblança, i que inclou tres relats de ficció, articulats amb imatges creades amb intel·ligència artificial, que es difonen per les xarxes socials. Es fa ús de recursos distòpics per a millorar l’*engagement* del públic. La finalitat de presentar escenaris preferibles de disseny és la d’activar la possibilitat d’un canvi de paradigma que prioritzi la salut de les persones per davant de les infraestructures industrials i de transport.
 
@@ -132,11 +132,14 @@ Amb l’ús del qüestionari, mesurarem el potencial de canvi de les imatges gen
     </div><!-- /.row -->
 
 ## Equip Escenaris Restaura
-- Coordinació i direcció d’art: Elena Bartomeu
-- Guió: Elena Bartomeu
-- Imatges: Raúl Oliva i Salvador Huertas
-- Audiovisuals: Oriol Ventura
-- Recerca: Pau Solá-Morales, Josep Maria Solé, David Steegmann, Yolanda Pérez Albert, Raúl Oliva, Salvador Huertas, Oriol Ventura, Elena Bartomeu.
+- Coordinació i direcció d’art: Dra. Elena Bartomeu
+- Guió: Dra. Elena Bartomeu
+- Imatges: Dr. Raúl Oliva i Dr. Salvador Huertas
+- Audiovisuals: Dr. Oriol Ventura
+- Recerca: Dr. Pau Solá-Morales, Prof. Josep Maria Solé, Dr. David Steegmann, Dra. Yolanda Pérez Albert, Dr. Raúl Oliva, Dr. Salvador Huertas, Dr. Oriol Ventura, Dra. Elena Bartomeu.
+- Grups de recerca: Grup de Recerca en Disseny, Salut i Benestar (GR 00469) EINA UAB, Grup de Recerca en Anàlisi Territorial i Estudis Turístics (GRATET, URV), Centre de Recerca Urbana del Camp (CRUC), Grup de Recerca en Disseny (SGR.00674, UB)
+
+- Amb la col·laboració especial de: Gabinet de Comunicació de la URV. Blog Barri del Port @BarridelPort, Anna Saballs @AnnaSaballs, Joan Ruiz  @joan_ru_ca.
 
 
 
