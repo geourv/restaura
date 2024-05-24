@@ -22,9 +22,9 @@
   url: "/thesis/"
   side: left
 
-#- title: "Escenaris"
-#  url: "/escenaris/"
-#  side: left
+- title: "Escenaris"
+  url: "/escenaris/"
+  side: left
 
 - title: "Contacto"
   url: "/contact/"
