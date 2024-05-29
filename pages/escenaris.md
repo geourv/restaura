@@ -116,7 +116,7 @@ Un turista alerta de la troballa d’ocells morts a la zona d’obres de millora
 
 Descobreix els detalls de la història a xarxes socials, a partir del 29 de maig, fent clic a les icones de cada xarxa social.
 
-- Obres del Diable a X / Twitter <a href="https://twitter.com/home" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
+- Obres del Diable a X / Twitter <a href="https://x.com/joan_ru_ca/status/1795766255875486053" target="_blank"><img src="{{ site.baseurl }}/assets/img/X_icon.svg" alt="Twitter/X" style="width: 24px;">
 - Obres del Diable a Instagram <a href="https://www.instagram.com/" target="_blank"><img src="{{ site.baseurl }}/assets/img/instagram_icon.svg.webp" alt="Instagram" style="width: 24px;">
 
  ![Escenari Obres Diable]({{ site.urlimg }}/escenaris/web_diable_duo.jpg)
