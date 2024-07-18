@@ -58,6 +58,8 @@ header:
 
 ## Seminarios y congresos
 
+- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc)
+
 - Bustamante Picón, E.; García Martín, F. M.; Pérez-Albert, Yolanda; Alberich González, J. (2024, enero). __Accessibility to urban green spaces in the city of Cartagena (Spain)__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13582)
 
 - Camacho Lorenzo, S.; Alberich González, J.; Pérez-Albert, Y. (2024, enero). __Climate justice and environmental equity: an analysis of extreme heat exposure in the city of Montevideo, Uruguay__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13581)
