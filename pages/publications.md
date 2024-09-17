@@ -34,6 +34,8 @@ header:
 
 
 ## Artículos
+- Gheitasi, M.; Serrano Giné, D.; Fagerholm, N.; Pérez-Albert, Y. (2024). __Using Public Participation GIS to Assess Effects of Industrial Zones on Risk and Landscape Perception: A Case Study of Tehran Oil Refinery, Iran__. *Earth*. [https://doi.org/10.3390/earth5030021](https://www.mdpi.com/2673-4834/5/3/21)
+
 - Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://www.mdpi.com/1999-4907/14/6/1181)
 
 - Camacho Lorenzo, S.; Pérez-Albert, Y.; Alberich González, J. (2023). __La justicia ambiental en ciudades latinoamericanas. Una revisión de los indicadores utilizados para su análisis__. *Ikara. Revista de Geografías Iberoamericanas*, (3). [https://doi.org/10.18239/Ikara.3325](https://revista.uclm.es/index.php/ikara/article/view/3325)
