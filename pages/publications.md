@@ -34,6 +34,8 @@ header:
 
 
 ## Artículos
+- Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*. [https://doi.org/10.21138/bage.3447](https://bage.age-geografia.es/ojs/index.php/bage/article/view/3447)
+
 - Gheitasi, M.; Serrano Giné, D.; Fagerholm, N.; Pérez-Albert, Y. (2024). __Using Public Participation GIS to Assess Effects of Industrial Zones on Risk and Landscape Perception: A Case Study of Tehran Oil Refinery, Iran__. *Earth*. [https://doi.org/10.3390/earth5030021](https://www.mdpi.com/2673-4834/5/3/21)
 
 - Àvila Callau, A.; Pérez-Albert, Y.; Vías Martínez, J. (2023). __Calculating and Mapping the Naturalness of Peri-Urban Greenways__. *Forests, 14*, 1181. [https://doi.org/10.3390/f14061181](https://www.mdpi.com/1999-4907/14/6/1181)
