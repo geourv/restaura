@@ -34,6 +34,8 @@ header:
 
 
 ## Artículos
+- Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284. [https://doi.org/10.3390/world5040065](https://www.mdpi.com/2673-4060/5/4/65)
+
 - Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*. [https://doi.org/10.21138/bage.3447](https://bage.age-geografia.es/ojs/index.php/bage/article/view/3447)
 
 - Gheitasi, M.; Serrano Giné, D.; Fagerholm, N.; Pérez-Albert, Y. (2024). __Using Public Participation GIS to Assess Effects of Industrial Zones on Risk and Landscape Perception: A Case Study of Tehran Oil Refinery, Iran__. *Earth*. [https://doi.org/10.3390/earth5030021](https://www.mdpi.com/2673-4834/5/3/21)
