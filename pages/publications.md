@@ -61,7 +61,6 @@ header:
 - Alberich, J.; Pérez, M.Y.; Muro, J.I.; Bustamante, E. (2021). __Environmental Justice and Urban Parks. A Case Study Applied to Tarragona (Spain)__. *Urban Science*. 2021; 5(3):62. [https://doi.org/10.3390/urbansci5030062](https://doi.org/10.3390/urbansci5030062).
 
 
-
 ## Seminarios y congresos
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc)
@@ -115,11 +114,20 @@ header:
 - Alberich González, J.; Pérez Albert, M. Y.; Balart Casas, A.; Muro Morales, J. I. (2021). __Propuesta metodológica para el estudio de la justicia espacial en relación con los parques urbanos. Un caso aplicado a Tarragona__ en: *La reconfiguración capitalista de los espacios urbanos: transformaciones y desigualdades*, XV Coloquio de Geografía Urbana. Editores: Parreño Castellano, J. M. y Moreno Medina, C. J. Servicio de Publicaciones y Difusión Científica de la Universidad de Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, España, p. 167-184. [https://doi.org/10.20420/1642.2021.383](https://doi.org/10.20420/1642.2021.383) 
 
 
-## Otros
+## Tesis
 
-- Camacho Lorenzo, S. (2023). __Calidad de vida, justicia ambiental y residuos urbanos__. Charla brindada a los estudiantes del curso de Geografía Humana de la Licienciatura en Geografía de la Universidad de la República. Montevideo, Uruguay. [Foto 1](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EXXux5OwPQJAp3W9KAWB-q4BEKviYq3qEePkTLjgA_o-eg?e=jbrNUG) [Foto 2](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EZYyyqIaqklBvypb52swemkB-H9ZivjPjgEXbcW7-tY8Bw?e=MGMr3R)
+-
 
-- Camacho Lorenzo, S. (2023, noviembre). __Perspectivas para la investigación en equidad ambiental urbana en Uruguay__. VII Jornadas de Cartografía / VI Jornadas de Geofísica / IV Jornadas de Geografía / I Jornadas de Historia. Instituto Panamericano de Geografía e Historia, Sección Nacional de la República Oriental del Uruguay. Montevideo, Uruguay.
+
+## Trabajos académicos
+
+-
+
+
+## Documentos técnicos
+
+-
+
 
 ## Divulgación
 
@@ -132,6 +140,11 @@ header:
 - Alberich, J. (2023, 17 de mayo). Sobre la percepció del risc petroquímic. _Diari de Tarragona_. [Versión digital aquí](https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651) - [Versión PDF aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EYecMKGsYq1Hum3N_kwEDl4Bec3Yt4YhWsL699aL5Fs4iQ?e=zUJ4Ly)
 
 
+## Otros
+
+- Camacho Lorenzo, S. (2023). __Calidad de vida, justicia ambiental y residuos urbanos__. Charla brindada a los estudiantes del curso de Geografía Humana de la Licienciatura en Geografía de la Universidad de la República. Montevideo, Uruguay. [Foto 1](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EXXux5OwPQJAp3W9KAWB-q4BEKviYq3qEePkTLjgA_o-eg?e=jbrNUG) [Foto 2](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EZYyyqIaqklBvypb52swemkB-H9ZivjPjgEXbcW7-tY8Bw?e=MGMr3R)
+
+- Camacho Lorenzo, S. (2023, noviembre). __Perspectivas para la investigación en equidad ambiental urbana en Uruguay__. VII Jornadas de Cartografía / VI Jornadas de Geofísica / IV Jornadas de Geografía / I Jornadas de Historia. Instituto Panamericano de Geografía e Historia, Sección Nacional de la República Oriental del Uruguay. Montevideo, Uruguay.
 
 
 </div><!-- /.medium-8.columns -->
