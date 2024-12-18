@@ -42,7 +42,7 @@ ___"El análisis de los Servicios Ecosistémicos Culturales a partir de Informac
 
 ~~~
 Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
-Estado: defendida (setiembre del 2022)
+Estado: defendida (septiembre de 2022)
 ~~~
 
 El objetivo general de la tesis es __estudiar los Servicios Ecosistémicos Culturales (SEC)__ para el ámbito del __periurbano de Tarragona__ considerando la __Información Geográfica Voluntaria (IGV)__ como fuente de datos principal. La __finalidad__, además de proporcionar información útil para la gestión y planificación de los SEC, particularmente de la recreación al aire libre, es generar un conjunto de __propuestas de actuación__, por una parte, enfocadas a la sostenibilidad social y ambiental de los SEC en la zona estudiada y, por otra parte, dirigidas a la administración competente.
@@ -65,7 +65,7 @@ ___"Evaluación de la calidad de los espacios públicos y abiertos mediante plat
 
 ~~~
 Directora: Dra. Yolanda Pérez Albert
-Estado: en elaboración
+Estado: defendida (octubre de 2024)
 ~~~
     
 Los métodos para evaluar la calidad del entorno urbano considerando la percepción de la ciudadanía han sido históricamente divergentes e imprecisos. No obstante, el surgimiento de recientes plataformas digitales, como __aplicaciones móviles (apps) o Sistemas de Información Geográfica de Participación Pública (PPGIS)__, han abierto nuevas líneas de experimentación e investigación, ofreciendo la posibilidad de __renovar los canales de comunicación entre ciudadanía e instituciones__.   
