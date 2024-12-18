@@ -29,8 +29,6 @@ header:
 
 
 
-## Tesis doctorales
-
 <center>
     <h4>Aitor Àvila Callau</h4>
 </center>
