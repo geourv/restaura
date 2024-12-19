@@ -121,7 +121,9 @@ header:
 
 ## Trabajos académicos
 
--
+- Coll Argüeso, A. (2024, septiembre). __Estudi de la percepció dels usuaris de rutes saludables: el programa "Anem a Caminar!" a Tarragona__. Trabajo final de grado en Geografía, Análisis Territorial y Sostenibilidad, Universitat Rovira i Virgili. Consulta el trabajo [aquí](https://hdl.handle.net/20.500.11797/TFG7560)
+
+- Gilabert Navarro, S. (2022, septiembre). __Proposta metodològica per la valoració de rutes saludables com actius de salut: cas d'estudi del Camp de Tarragona__. Trabajo final de grado en Geografía, Análisis Territorial y Sostenibilidad, Universitat Rovira i Virgili. Consulta el trabajo [aquí](https://hdl.handle.net/20.500.11797/TFG5296)
 
 
 ## Documentos técnicos
