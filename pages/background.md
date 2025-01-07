@@ -5,7 +5,7 @@ title: "Proyectos CHORA, SPATIUM y ACTIVA'TGN"
 meta_title: "Antecedentes del Proyecto de Investigación RESTAURA de la URV: Proyecto CHORA y Proyecto SPATIUM"
 subheadline: "Antecedentes"
 
-teaser: "El proyecto RESTAURA avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P). Paralelamente se trabajó en el Proyecto ACTIVA'TGN</b> cofinanciado por la Diputación de Tarragona i la Universitat Rovira i Virgili." 
+teaser: "El proyecto RESTAURA avanza temática y metodológicamente la investigación realizada por el equipo en el sexenio 2015-2020, primero en el marco del <b>proyecto SPATIUM</b> (CSO2014-52721-P) y después en el del <b>proyecto CHORA</b> (CSO2017-82411-P). Paralelamente se trabajó en el __Proyecto ACTIVA'TGN__ cofinanciado por la Diputación de Tarragona y la Universitat Rovira i Virgili." 
 
 
 
