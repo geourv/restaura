@@ -61,6 +61,21 @@ header:
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). __Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area__. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197).
   
 
+## Repositorios con bases de datos generadas en el proyecto
+
+- Base de datos: Physical Health Assets
+-    Artículo relacionado: Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and         Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284.
+-    Año: 2024
+-    Repositorio: OSF
+-    Consulte la base de datos [aquí](https://osf.io/q259w/?view_only=453fb709441149bda64ac8b791183446)
+-    
+- Base de datos: Assessing indicators of urban environmental inequity
+-     Artículo relacionado: Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*.
+-     Año: 2024
+-     Repositorio: OSF
+-     Consulte la base de datos [aquí](https://osf.io/v29a8/?view_only=7c7ac932cb284db9b5bb57027b2b3028)
+
+
 ## Seminarios y congresos
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc)
