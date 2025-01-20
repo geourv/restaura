@@ -63,15 +63,16 @@ header:
 
 ## Repositorios con bases de datos generadas en el proyecto
 
-- Base de datos: _Physical Health Assets__
-  - Artículo relacionado: Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and         Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284.
-  - Repositorio: OSF
-  - Consulta la base de datos [aquí](https://osf.io/q259w/?view_only=453fb709441149bda64ac8b791183446)
+- <ins>Base de datos</ins>: __Physical Health Assets__
+  - <ins>Artículo relacionado</ins>: Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and         Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284.
+  - <ins>Repositorio</ins>: OSF
+  - <ins>Consulta la base de datos [aquí](https://osf.io/q259w/?view_only=453fb709441149bda64ac8b791183446)</ins>
 
-- Base de datos: __Assessing indicators of urban environmental inequity__
-  - Artículo relacionado: Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*.
-  - Repositorio: OSF
-  - Consulta la base de datos [aquí](https://osf.io/v29a8/?view_only=7c7ac932cb284db9b5bb57027b2b3028)
+
+- <ins>Base de datos</ins>: __Assessing indicators of urban environmental inequity__
+  - <ins>Artículo relacionado</ins>: Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*.
+  - <ins>Repositorio</ins>: OSF
+  - <ins>Consulta la base de datos [aquí](https://osf.io/v29a8/?view_only=7c7ac932cb284db9b5bb57027b2b3028)</ins>
 
 
 ## Seminarios y congresos
