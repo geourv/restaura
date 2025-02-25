@@ -63,39 +63,39 @@ header:
 
 ## Repositorios con bases de datos generadas en el proyecto
 
-- <ins>Base de datos</ins>: __Physical Health Assets__
+- <ins>Base de datos</ins>: __Physical Health Assets__.
   - <ins>Artículo relacionado</ins>: Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and         Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284.
-  - <ins>Repositorio</ins>: OSF
-  - <ins>Consulta la base de datos [aquí](https://osf.io/q259w/?view_only=453fb709441149bda64ac8b791183446)</ins>
+  - <ins>Repositorio</ins>: OSF.
+  - <ins>Consulta la base de datos [aquí](https://osf.io/q259w/?view_only=453fb709441149bda64ac8b791183446)</ins>.
 
 
-- <ins>Base de datos</ins>: __Assessing indicators of urban environmental inequity__
+- <ins>Base de datos</ins>: __Assessing indicators of urban environmental inequity__.
   - <ins>Artículo relacionado</ins>: Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*.
-  - <ins>Repositorio</ins>: OSF
-  - <ins>Consulta la base de datos [aquí](https://osf.io/v29a8/?view_only=7c7ac932cb284db9b5bb57027b2b3028)</ins>
+  - <ins>Repositorio</ins>: OSF.
+  - <ins>Consulta la base de datos [aquí](https://osf.io/v29a8/?view_only=7c7ac932cb284db9b5bb57027b2b3028)</ins>.
 
 
 ## Seminarios y congresos
 
-- Bustamante Picón, E.; Cuesta Martínez, M. R.; Raventós Torner, R. D.; Alberich González, J.; Pérez-Albert, Y. (octubre, 2024). __Distribución y prescripción de activos de salud para personas mayores en Tarragona (España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 144 - 145. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf)
+- Bustamante Picón, E.; Cuesta Martínez, M. R.; Raventós Torner, R. D.; Alberich González, J.; Pérez-Albert, Y. (octubre, 2024). __Distribución y prescripción de activos de salud para personas mayores en Tarragona (España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 144 - 145. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf).
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, octubre). __Calidad de los parques urbanos según sus dimensiones. Un caso aplicado a la ciudad de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España.
   
-- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc)
+- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc).
 
-- Bustamante Picón, E.; García Martín, F. M.; Pérez-Albert, Yolanda; Alberich González, J. (2024, enero). __Accessibility to urban green spaces in the city of Cartagena (Spain)__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13582)
+- Bustamante Picón, E.; García Martín, F. M.; Pérez-Albert, Yolanda; Alberich González, J. (2024, enero). __Accessibility to urban green spaces in the city of Cartagena (Spain)__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13582).
 
-- Camacho Lorenzo, S.; Alberich González, J.; Pérez-Albert, Y. (2024, enero). __Climate justice and environmental equity: an analysis of extreme heat exposure in the city of Montevideo, Uruguay__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13581)
+- Camacho Lorenzo, S.; Alberich González, J.; Pérez-Albert, Y. (2024, enero). __Climate justice and environmental equity: an analysis of extreme heat exposure in the city of Montevideo, Uruguay__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13581).
 
-- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Evaluación del impacto de los clústeres petroquímicos en la percepción de los valores paisajísticos y la salud mental. Un estudio de caso (Tarragona, España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 154 - 155. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf)
+- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Evaluación del impacto de los clústeres petroquímicos en la percepción de los valores paisajísticos y la salud mental. Un estudio de caso (Tarragona, España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 154 - 155. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf).
 
 - Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Aplicación de un Sistema de Información Geográfica de PArticipación Pública para determinar la percepción del riesgo y la salud autopercibida de la población. Caso de estudio de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. 
   
-- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, enero). __Assessing Technological Risk and Landscape Perception in Tehran Oil Refinery: A PPGIS Study__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13555)
+- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, enero). __Assessing Technological Risk and Landscape Perception in Tehran Oil Refinery: A PPGIS Study__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13555).
 
 - Quintero Sandrea, C. (2024, octubre). __El paisaje sonoro de parques urbanos contiguos a complejos petroquímicos__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. 
 
-- Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13548), [Poster.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESoxnoFKmeRLq0YVDOUtiOEBx4KZrgUTnXlTvial3H3Zpw?e=rfmIA5)
+- Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13548), [Poster.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESoxnoFKmeRLq0YVDOUtiOEBx4KZrgUTnXlTvial3H3Zpw?e=rfmIA5).
 
 - Delpino-Chamy, M. (2023, diciembre). __SENSUR Sensor Urbano: plataforma digital de participación ciudadana para mapear la percepción sobre el espacio urbano__. VII Congreso ISUF-H "Forma urbana para un buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
 
@@ -154,17 +154,17 @@ header:
 
 ## Documentos técnicos
 
-- Informe final del proyecto __Avaluació dels actius de salut per a la gent gran de la infraestructura verda de la ciutat de Tarragona («ACTIVA ‘ TGN»). Cofinanciado por la Diputació de Tarragona y la Universitat Rovira i Virgili (2022_30) y con la participació de miembros del Proyecto RESTAURA. (2023, febrero). Ver informe [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESAxtCSL9spMn1XoP3SMl-IBF8Ln8_fEVIqCc2iSocZtTQ?e=EgniA7)
+- Informe final del proyecto __Avaluació dels actius de salut per a la gent gran de la infraestructura verda de la ciutat de Tarragona («ACTIVA ‘ TGN»)__. Cofinanciado por la Diputació de Tarragona y la Universitat Rovira i Virgili (2022_30) y con la participació de miembros del Proyecto RESTAURA. (2023, febrero). Ver informe [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESAxtCSL9spMn1XoP3SMl-IBF8Ln8_fEVIqCc2iSocZtTQ?e=EgniA7).
 
 
 ## Divulgación
 
-- Recull de premsa en relació a la millora dels espais de salut de Tarragona (2024, 28 de maig). [Recupera els reculls de premsa aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EUILerAP3-NCub76TDW0BgABiOaK4175qpFKMcPyUwkgBw?e=ud2GFM)
+- Recull de premsa en relació a la millora dels espais de salut de Tarragona (2024, 28 de maig). [Recupera els reculls de premsa aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EUILerAP3-NCub76TDW0BgABiOaK4175qpFKMcPyUwkgBw?e=ud2GFM).
 - El projecte Restaura recupera els espais més degradats de Tarragona (2024, 28 de maig). _Telenotícies TV3_. Recupera la notícia [aquí](https://www.ccma.cat/3cat/el-projecte-restaura-recupera-els-espais-mes-degradats-de-tarragona/video/6284640/).
 - Un projecte de la URV crida a la participació ciutadana per millorar els espais de salut de Tarragona (2024, 27 de maig). _Diari digital URV_. Recupera la notícia [aquí](https://diaridigital.urv.cat/projecte-participacio-ciutadana-millorar-espais-salut/).
 - Alberich, J. (2024 , 4 de abril). Només un 14% dels enquestats sabia les mesures a dur a terme si hi ha un accident químic. _Arran de Mar de Tarragona Ràdio_. Recupera la entrevista [aquí](https://www.tarragonaradio.cat/joan-alberich-nomes-un-14-dels-enquestats-sabia-les-mesures-a-dur-a-terme-si-hi-ha-un-accident-quimic/).
 - Dues de cada tres persones perceben un nivell alt de risc petroquímic al Camp de Tarragona (2024, 13 de marzo). _Tarragona ràdio_. Recupera la notícia [aquí](https://www.tarragonaradio.cat/dues-de-cada-tres-persones-perceben-un-nivell-alt-de-risc-petroquimic-al-camp-de-tarragona/).
-- Universidad de Concepción. (2023, 31 de mayo). Geógrafo español realiza su investigación doctoral en el Laboratorio de Estudios Urbanos de la FAUG. _Noticias FAUG_. Recupera la notícia [aquí](http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug)
+- Universidad de Concepción. (2023, 31 de mayo). Geógrafo español realiza su investigación doctoral en el Laboratorio de Estudios Urbanos de la FAUG. _Noticias FAUG_. Recupera la notícia [aquí](http://faug.udec.cl/?g1_work=geografo-espanol-realiza-su-investigacion-doctoral-en-el-laboratorio-de-estudios-urbanos-de-la-faug).
 - Alberich, J. (2023, 17 de mayo). Sobre la percepció del risc petroquímic. _Diari de Tarragona_. Versión digital [aquí](https://www.diaridetarragona.com/opinion/tribunas/sobre-la-percepcio-del-risc-petroquimic-CH15210651) - Versión PDF [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EYecMKGsYq1Hum3N_kwEDl4Bec3Yt4YhWsL699aL5Fs4iQ?e=zUJ4Ly).
 
 
