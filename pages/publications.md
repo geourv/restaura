@@ -34,6 +34,12 @@ header:
 
 
 ## Artículos
+Camacho Lorenzo, S., Pérez Albert, Y., & Alberich González, J. (2025). __Environmental Quality and Poverty in Montevideo: A Spatial Approach to Exploring Environmental Injustices.__ *Social Sciences, 14(3), 150.* https://doi.org/10.3390/socsci14030150
+
+Gheitasi, M., Serrano Giné, D., & Pérez Albert, Y. (2025). __Evaluating the Impact of Oil Refinery on Landscape Values Perception and Mental Health: A Case Study of Tehran.__ *Land, 14(1), 64*. https://doi.org/10.3390/land14010064
+
+- Quintero- Sandrea, Carolina (2026). __Servicios ecosistémicos culturales en zonas urbanas periféricas al Complejo Petroquímico El Tablazo, Venezuela.__ *Estoa, Nº 29. Vol.15* (enero-junio 2026) con ISSN:1390-7263 en versión impresa y e-ISSN:1390-9274 versión digital. 
+
 - Bustamante-Picón, E.; Cuesta-Martínez, R.; Pérez-Albert, Y.; Alberich González, J.; Raventón Torner, R.D. (2024). __Promoting Healthy Lifestyles: Availability of Healthy Resources and Prescriptions from Health Professionals—The Case of Tarragona, Spain__. *World, 5(4)*, 1267-1284. [https://doi.org/10.3390/world5040065](https://www.mdpi.com/2673-4060/5/4/65).
 
 - Camacho Lorenzo, S., Pérez-Albert, Y., & Alberich González, J. (2024). __Indicators for measuring urban environmental equity: a scoping review__. *Boletín De La Asociación De Geógrafos Españoles, (101)*. [https://doi.org/10.21138/bage.3447](https://bage.age-geografia.es/ojs/index.php/bage/article/view/3447).
